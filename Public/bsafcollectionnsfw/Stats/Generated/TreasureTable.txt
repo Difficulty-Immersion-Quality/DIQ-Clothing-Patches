@@ -1,0 +1,10 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_NSFW_JERGALS_FORGOTTEN_ONE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_NSFW_LOLTHS_WEB_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_NSFW_LOVIATARS_HEART_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_NSFW_BHAALS_PRIESTESS_MSK",1,0,0,0,0,0,0,0

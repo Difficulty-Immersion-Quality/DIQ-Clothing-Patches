@@ -1,0 +1,134 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Ranger_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Camp_VeryRare_A",1,0,0,0,0,0,0,0
+
+
+new treasuretable "EW_TT_RangerArmor"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Camp_VeryRare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_RangerArmor_Uncommon_Crate"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_RangerArmor_Rare_Crate"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_RangerArmor_Legendary_Crate"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_Legendary_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_RangerArmor_VeryRare_Crate"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Ranger_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Hood_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_RangerArmor_Uncommon_Crate",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HoneymoonLodge_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_RangerArmor_Rare_Crate",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_WQH_AllandraChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_RangerArmor_Legendary_Crate",1,0,0,0,0,0,0,0
+
+new treasuretable "S_SHA_SilentLibrary_HiddenStash"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_RangerArmor_VeryRare_Crate",1,0,0,0,0,0,0,0

@@ -1,0 +1,41 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CSS_ClericTreatoBag",1,0,0,0,0,0,0,0
+
+new treasuretable "CSS_ClericTreatoBag_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CSS_IlmaterCampRobes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_PlainClericCamp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_IlmaterCampBoots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_RobeCClericCamp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_IlmaterUnderwearNecklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_IlmaterHelmNecklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_GenericCleric_CBoots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_KelemvorClericCamp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_KelemvorUnderwearNecklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_HelmClericCamp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_HelmUnderwearNecklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_MystraClericCamp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_MystraUnderwearNecklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_BhaalClericCamp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_BhaalUnderwearNecklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_LathanderClericCamp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_LathanderUnderwearNecklace",1,0,0,0,0,0,0,0

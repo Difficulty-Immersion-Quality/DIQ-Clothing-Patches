@@ -1,0 +1,14 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_GR_SimpleShirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GR_Boots_Simple",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_GR_SimpleShirt_Common",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_GR_Gloves_Simple_Common",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_GR_Boots_Simple_Common",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_GR_Gloves_Simple_Covered_Common",1,0,0,0,0,0,0,0

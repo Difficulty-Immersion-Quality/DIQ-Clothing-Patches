@@ -1,0 +1,133 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Camp_Rare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Camp_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Underwear_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Annelace_Panties",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Plate_Crate"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Armor_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Gloves_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Boots_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Cloak_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Helmet_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Shield_Rare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Camp_Rare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Armor_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Gloves_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Boots_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Cloak_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Helmet_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Shield_Legendary_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Shield_VeryRare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Camp_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Underwear_VeryRare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_AlchemyTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Fire_Infusion_B",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Fire_Infusion_C",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Fire_Infusion_D",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_KethericCombat_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Fire_Infusion_A",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_AvengeHagSurvivors_QuestReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Fire_Infusion_A",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteelwatcherTitan_Legendary_Bow_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Fire_Infusion_A",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Legendary_Raphael_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Fire_Infusion_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Plate_Crate_Rare"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Armor_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Gloves_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Boots_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Cloak_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Helmet_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Shield_Rare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Camp_Rare_B",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Plate_Crate_VeryRare"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Shield_VeryRare_B",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_AdamantineGolem"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Crate_Rare",1,0,0,0,0,0,0,0
+
+new treasuretable "SHA_NightsongReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Crate_VeryRare",1,0,0,0,0,0,0,0
+

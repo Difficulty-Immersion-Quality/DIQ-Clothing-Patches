@@ -1,0 +1,50 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_DWE_Item_Ciri_Container",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Item_Ciri_Container_MSK",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DWE_Item_Ciri_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_DWE_Camp_Ciri_Gear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Camp_Ciri_Clothes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Camp_Ciri_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Body_Ciri_Gear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Body_Ciri_Clothes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Cloak_Ciri_Shirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Cloak_Ciri_Shirt_Accessories",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Boots_Ciri_Boots",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DWE_Item_Ciri_Container_MSK_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_DWE_Camp_Ciri_Gear_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Camp_Ciri_Clothes_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Camp_Ciri_Boots_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Body_Ciri_Gear_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Body_Ciri_Clothes_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Cloak_Ciri_Shirt_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Cloak_Ciri_Shirt_Accessories_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Boots_Ciri_Boots_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Dye_CiriLike",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DWE_Ciri_Dye_Remover",1,0,0,0,0,0,0,0

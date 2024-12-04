@@ -1,0 +1,42 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_DarlingsChest",1,0,0,0,0,0,0,0
+
+new treasuretable "DarlingsChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_DarkConsortOutfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortOutfitDulcetA",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortOutfitDulcetB",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortBootsDulcet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortOutfitDulcetANoBat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortOutfitDulcetBNoBat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortNeckwear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortOutfit2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortOutfitNoBat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortBoots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortGloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortCape",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortBoots2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortCape2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortBracers",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortCampOutfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DarkConsortCampBoots",1,0,0,0,0,0,0,0
+new subtable "1,1"

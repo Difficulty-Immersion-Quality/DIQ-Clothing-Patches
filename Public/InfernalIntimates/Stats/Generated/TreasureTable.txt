@@ -1,0 +1,47 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_NKJ_CON_InfernalIntimates",1,0,0,0,0,0,0,0
+
+new treasuretable "NKJ_InfernalIntimates_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_HELLISH_HOLDUPS_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HELLISH_HOLDUPS_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FIENDISH_FISHNETS_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FIENDISH_FISHNETS_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SINFULLY_SHEER_HOLDUPS_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SINFULLY_SHEER_HOLDUPS_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SINFULLY_SHEER_SUCCUBUS_HARNESS_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SINFULLY_SHEER_SUCCUBUS_HARNESS_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FIENDISHLY_FLORAL_FINERY_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FIENDISHLY_FLORAL_FINERY_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFULLY_LACY_LINGERIE_CAMP__MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFULLY_LACY_LINGERIE_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFUL_LACETOP_LINGERIE_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFUL_LACETOP_LINGERIE_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FIENDISHLY_FLORAL_HOLDUPS_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FIENDISHLY_FLORAL_HOLDUPS_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFULLY_LACY_HOLDUPS_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFULLY_LACY_HOLDUPS_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFUL_LACETOP_HOLDUPS_CAMP_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LUSTFUL_LACETOP_HOLDUPS_UNDERWEAR_MSK",1,0,0,0,0,0,0,0

@@ -1,0 +1,25 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kinn_Shadowheart_Orchid_Container",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Kinn_CONT_Magical_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kinn_Shadowheart_Orchid_Container",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Kinn_CONT_Magical_Wardrobe"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kinn_Shadowheart_Orchid_Container",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Kinn_Shadowheart_Orchid_Container"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kinn_ShadowheartCirclet_SharOrchid",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kinn_ShadowheartCirclet_SeluneOrchid",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kinn_Underwear_Shadowheart_SharOrchid",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kinn_Underwear_Shadowheart_SeluneOrchid",1,0,0,0,0,0,0,0

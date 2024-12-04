@@ -1,0 +1,52 @@
+new treasuretable "DarkContainn_TreasureTable"
+CanMerge 1
+new subtable "1,1"
+object category "I_BHAALS_PRIESTESS_CLOAK_WACC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BHAALS_PRIESTESS_CLOAK_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DARKEST_URGE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BHAALS_PRIESTESS_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MISTRESS_OF_BANE__MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MYRKULS_BEACON__MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LOLTHS_WEB_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_LOVIATARS_HEART_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_JERGALS_FORGOTTEN_ONE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SHARS_NIGHTSHADE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CYRICS_APOSTLE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_VLAAKITHS_PRIDE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NC_BHAALS_PRIESTESS_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NH_LOVIATARS_HEART_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NH_SHARS_NIGHTSHADE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NF_LOLTHS_WEB_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NFC_CYRICS_APOSTLE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_LOVIATARS_HEART_HELM_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NH_JERGALS_FORGOTTEN_ONE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_JERGALS_FORGOTTEN_CROWN_HV_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1" 
+object category "I_HW_JERGALS_FORGOTTEN_VEIL_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MV_JERGALS_FORGOTTEN_ONE_MSK",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_DarkConn_Container",1,0,0,0,0,0,0,0 

@@ -1,0 +1,7 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_lara_dorren_dress",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_lara_dorren_dress_CAMP",1,0,0,0,0,0,0,0

@@ -1,0 +1,25 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_BW_ML_Set_Chest",1,0,0,0,0,0,0,0
+
+new treasuretable "BW_ML_Set_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_ML_CROWN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_BODY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_BODY_CAMP_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_BODY_CAMP_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_GLOVES",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_GLOVES_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_CAPE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_SANDALS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_ML_SANDALS_CAMP",1,0,0,0,0,0,0,0

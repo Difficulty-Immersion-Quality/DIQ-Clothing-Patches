@@ -1,0 +1,60 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Guts_Armor_Cont",1,0,0,0,0,0,0,0
+
+[.......................... MAIN CONTAINER ..........................]
+
+new treasuretable "TT_Guts_Armor_Cont"
+CanMerge 1
+new subtable "1,1"
+object category "I_Guts_Armor_Cont_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_A_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_A_Belt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_A_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_A_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_B_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_B_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_B_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Gloves",1,0,0,0,0,0,0,0
+
+[.......................... CAMP ..........................]
+
+new treasuretable "TT_Guts_Armor_Cont_CAMP"
+CanMerge 1
+new subtable "1,1"
+object category "I_Guts_ARM_A_Body_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_A_Belt_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_A_Cloak_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_A_Gloves_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_B_Body_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_B_Cloak_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_B_Gloves_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Body_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Cloak_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Helmet_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Guts_ARM_C_Gloves_CAMP",1,0,0,0,0,0,0,0

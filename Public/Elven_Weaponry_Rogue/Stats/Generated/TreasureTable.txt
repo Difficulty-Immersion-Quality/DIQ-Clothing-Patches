@@ -1,0 +1,81 @@
+new treasuretable "TT_EW_Rogue_Bag_TC"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_Uncommon_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Helmet_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_VeryRare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Rogue_Bag_Uncommon"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_Uncommon_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Helmet_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Rogue_Bag_VeryRare"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Dagger_VeryRare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimShipment_ExtraReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Rogue_Bag_Uncommon",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_RecoverRakathsGold_QuestReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Rogue_Bag_VeryRare",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Rogue_Camp_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Shoes_Base_A",1,0,0,0,0,0,0,0

@@ -1,0 +1,22 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CSS_ConceptSHeartOutfit_Box",1,0,0,0,0,0,0,0
+
+
+new treasuretable "CSS_ConceptSHeartOutfit_Box_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CSS_ARM_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_GLOVE_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_SCARF_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_Boots_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_CAMPARM_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_CampBoots_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_ARM_ConceptSHeart_SHLDR",1,0,0,0,0,0,0,0

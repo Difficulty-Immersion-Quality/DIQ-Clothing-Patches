@@ -1,0 +1,125 @@
+new treasuretable "lokelani_BT1_Chest_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_lokelani_ADL_BT1_Chest",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_lokelani_ROTR_BT1_Chest",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_lokelani_VQ_BT1_Chest",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_lokelani_VF_BT1_Chest",1,0,0,0,0,0,0,0
+
+
+new treasuretable "lokelani_ADL_BT1_Chest_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA__V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA__V2_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA__V3_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_HEELS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_HEELS__V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_HEELS__TIEFLINGS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_HEELS__TIEFLINGS_V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_CAPE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_CIRCLET_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_CIRCLET_TIF_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_CC_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_HEELS_CC_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA__TIEFLING_CC_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARIA_DI_LUNA_HEELS__TIEFLING_P_CC_MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "lokelani_ROTR_BT1_Chest_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN__V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN__V2_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN__V3_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN__V4_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN__V5_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN__V6_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN__V7_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_CAPE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_CAPE__V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_GLOVES_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_GLOVES__V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_BOOTS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_CC_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAIMENT_OF_THE_RAVEN_BOOTS_CC_MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "lokelani_VQ_BT1_Chest_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_VERIDIS_QUO_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO__V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO__V2_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO__V3_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO__V4_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO_SHOES_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO_SHOULDERGUARDS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO_CC_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VERIDIS_QUO_SHOES_CC_MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "lokelani_VF_BT1_Chest_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS__V1_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS__V2_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS__V3_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS_CAPE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS_GLOVES_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS_BOOTS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS_CC_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VIRTUOSOS_FURS_CC_BOOTS_MSK",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_lokelani_BT1_Chest",1,0,0,0,0,0,0,0

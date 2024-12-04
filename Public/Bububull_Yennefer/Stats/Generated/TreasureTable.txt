@@ -1,0 +1,16 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Yennefer_Novigrad",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_Yen_vanilla_top",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_Yen_Novigrad_gown",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_HUM_F_dlc_yen_BODY",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_HUM_F_dlc_yen_BOOTS",1,0,0,0,0,0,0,0

@@ -1,0 +1,275 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Camp_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shoes_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Underwear_Base_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_WW_Barbarian_Crate"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Helmet_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shield_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shield_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Underwear_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Camp_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shoes_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Knife_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Axe_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shortsword_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Longsword_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Greatsword_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Longbow_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Knife_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Axe_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shortsword_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Knife_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Axe_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shortsword_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Longsword_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Longbow_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Greatsword_Legendary_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_WW_Barbarian_Crate_Uncommon"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Helmet_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shield_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Camp_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shoes_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Underwear_Base_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,4;2,3;3,2"
+object category "I_WW_Barbarian_Knife_Uncommon_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Uncommon_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Uncommon_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "0,4;1,1"
+object category "I_WW_Barbarian_Amulet_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Ring_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_WW_Barbarian_Crate_VeryRare"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shield_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Camp_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Shoes_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WW_Barbarian_Underwear_Base_A",9,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Underwear_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,4;2,3;3,2"
+object category "I_WW_Barbarian_Knife_Rare_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Rare_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Rare_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0
+new subtable "0,4;1,1"
+object category "I_WW_Barbarian_Trinket_Rare_A",6,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Ring_VeryRare_A",3,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Trinket_Legendary_B",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_MartialMeleeWeapons_1"
+CanMerge 1
+new subtable "0,19;1,1"
+StartLevel "4"
+EndLevel "7"
+object category "I_WW_Barbarian_Knife_Uncommon_A",3,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Uncommon_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Uncommon_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "0,19;1,1"
+StartLevel "8"
+object category "I_WW_Barbarian_Knife_Rare_A",3,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Rare_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Rare_A",2,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "EquipmentTrader_Melee_Magic"
+CanMerge 1
+new subtable "0,9;1,1"
+StartLevel "4"
+EndLevel "7"
+object category "I_WW_Barbarian_Knife_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "0,9;1,1"
+StartLevel "8"
+object category "I_WW_Barbarian_Knife_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "Clothes_Rich_Random"
+CanMerge 1
+new subtable "0,49;1,1"
+StartLevel "8"
+object category "I_WW_Barbarian_Underwear_Legendary_A",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Legendary_Raphael_Treasure"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "I_WW_Barbarian_Trinket_Legendary_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Trinket_Legendary_B",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_King_Treasures"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Crate_Uncommon",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_Sarcophagus_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Crate_VeryRare",1,0,0,0,0,0,0,0
+
+new treasuretable "SCl_VlaakithKiller_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Longbow_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,1"
+object category "I_WW_Barbarian_Knife_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_SHA_TadpoledSkeleton_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Longsword_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,1"
+object category "I_WW_Barbarian_Knife_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_AvengeHagSurvivors_QuestReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Greatsword_Legendary_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,1"
+object category "I_WW_Barbarian_Knife_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_Minotaur_Armed"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Knife_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,1"
+object category "I_WW_Barbarian_Knife_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_TreasuryVault_3_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Axe_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,1"
+object category "I_WW_Barbarian_Knife_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Uncommon_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_BannedSeluneItem"
+CanMerge 1
+new subtable "1,1"
+object category "I_WW_Barbarian_Shortsword_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "0,1;1,1"
+object category "I_WW_Barbarian_Knife_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Axe_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Shortsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Greatsword_Rare_A",1,0,0,0,0,0,0,0
+object category "I_WW_Barbarian_Longbow_Rare_A",1,0,0,0,0,0,0,0

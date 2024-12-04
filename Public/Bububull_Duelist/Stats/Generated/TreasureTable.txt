@@ -1,0 +1,25 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Opulent_duelist_gear",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_noble_dancing_shoes",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_noble_dancing_shoes_CAMP",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_noble_handfullofrings",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_facy_noble_gear",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_Padded_fancy_duellist_gear",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CAMP_assassin",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CAMP_fancy_bard",1,0,0,0,0,0,0,0

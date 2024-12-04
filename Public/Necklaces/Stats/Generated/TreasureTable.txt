@@ -1,0 +1,97 @@
+new treasuretable "BUBUBULL_box_o_Necklaces"
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_A",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_A_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_A_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_B",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_B_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_B_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_C",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_C_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_C_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_E",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_E_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_E_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_F",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_F_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_bububull_Necklace_F_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_A",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_A_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_A_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_B",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_B_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_B_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_C",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_C_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_C_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_E",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_E_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_E_3",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_F",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_F_2",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CLOAK_bububull_Necklace_F_3",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_BUBUBULL_box_o_Necklaces",1,0,0,0,0,0,0,0
+

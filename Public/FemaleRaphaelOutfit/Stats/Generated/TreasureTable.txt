@@ -1,0 +1,13 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Female_Raphael_Outfit",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_Female_Raphael_Boots",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_Female_Raphael_Outfit_C",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_Cambion_Raphael_Boots",1,0,0,0,0,0,0,0

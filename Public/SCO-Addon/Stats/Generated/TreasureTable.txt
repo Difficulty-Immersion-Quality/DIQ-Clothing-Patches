@@ -1,0 +1,31 @@
+new treasuretable "Travel_Bag_SCO-Addon"
+CanMerge 1
+new subtable "-1"
+object category "I_Jaheira_Robe_Obi_SA",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Wild_Heart_Armor",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Dream_Guardian_Obi",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Mizora_Dress_Custom",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Alfira_Dress_Vanilla",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Alfira_Dress_Vanilla_Alt",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Winged_Crown",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Automaton_Exo_Suit",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Prosthesis_Arm",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Mizora_Dress_Type_E_Custom",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Wavemother_Robe_Custom",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Wavemother_Robe_Custom_Alt",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Backpack_SCO-Addon",1,0,0,0,0,0,0,0

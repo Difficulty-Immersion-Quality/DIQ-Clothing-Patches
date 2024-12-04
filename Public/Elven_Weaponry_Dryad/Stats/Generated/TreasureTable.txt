@@ -1,0 +1,102 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+new subtable "1,1"
+object category "I_EW_Dryad_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Dryad_Crate"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Dryad_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Helmet_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_Ranged_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Shield_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_Ranged_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Shield_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Dryad_Vault"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Dryad_Armor_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Cloak_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Helmet_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Gloves_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Boots_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_Ranged_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Shield_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_DruidTreasure_Equipment"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Dryad_Crate_Vault",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_EW_Dryad_Forest"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Dryad_Armor_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Cloak_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Helmet_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Gloves_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Boots_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Staff_Ranged_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Shield_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_JungleOfChult_Arcanic_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Dryad_Crate_Forest",1,0,0,0,0,0,0,0
+
+

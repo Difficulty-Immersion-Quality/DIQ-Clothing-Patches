@@ -1,0 +1,10 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Shoes_E_Wyll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Shoes_E_Wyll_Camp",1,0,0,0,0,0,0,0

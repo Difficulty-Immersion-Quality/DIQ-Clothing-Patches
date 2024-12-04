@@ -1,0 +1,21 @@
+new treasuretable "DarkContain_TreasureTable"
+CanMerge 1
+new subtable "1,1"
+object category "I_TIAMATS_AVATAR_OF_WRATH_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UMBERLEES_SPITE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TALOS_RAGE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ASMODEUS_WRATH_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SPECTATOR_OF_HECATE_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SERPENT_SAND_OF_SET_MSK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FIST_OF_GRUUMSH_MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_DarkCon_Container",1,0,0,0,0,0,0,0 

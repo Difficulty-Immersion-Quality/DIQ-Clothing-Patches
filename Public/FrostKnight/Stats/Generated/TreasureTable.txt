@@ -1,0 +1,10 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_KAMENARMOR_notcamp",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_KAMENARMOR",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_FROST_KNIGHT_HELMET",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_FROST_KNIGHT_CAPE",1,0,0,0,0,0,0,0

@@ -1,0 +1,28 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_tw2_triss_body",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_TW2_triss_boots",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_TW2_triss_gloves",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_tw3_triss_dlc_gown",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_tw3_triss_dlc_boots",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CAMP_TW2_triss_boots",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_CAMP_tw2_triss_body",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_tw3_triss_dlc_gown",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_tw3_triss_dlc_boots",1,0,0,0,0,0,0,0
