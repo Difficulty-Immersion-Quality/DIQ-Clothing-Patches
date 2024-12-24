@@ -1,0 +1,22 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_VALKYRIE_TOP_",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_PANTS_AND_BOOTS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_CAPE",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_CROWN",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_GAUNTLETS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_TOP__MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_PANTS_AND_BOOTS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_CAPE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_CROWN_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VALKYRIE_GAUNTLETS_MSK",1,0,0,0,0,0,0,0
