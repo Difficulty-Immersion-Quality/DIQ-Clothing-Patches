@@ -1,0 +1,25 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Gear_DAV",1,0,0,0,0,0,0,0
+
+new treasuretable "TW_Gear_DAV_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Crow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Crow_Necklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Crow_Necklace2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Crow_Footwear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Crow_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Crow_Gloves2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Crow_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Crow_C",1,0,0,0,0,0,0,0
+
+
