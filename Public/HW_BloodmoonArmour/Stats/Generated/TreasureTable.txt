@@ -1,0 +1,33 @@
+new treasuretable "OBJ_Pack_Bloodmoon_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Headwear_Shar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Headwear_SharUktar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Gloves_Shar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Gloves_Ketheric",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Footwear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Pack_Bloodmoon_CampVer",1,0,0,0,0,0,0,0
+
+new treasuretable "OBJ_Pack_Bloodmoon_CampVer_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Headwear_Shar_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Headwear_SharUktar_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_ARM_Bloodmoon_Camp",1,0,0,0,0,0,0,0
+
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Pack_Bloodmoon",1,0,0,0,0,0,0,0
