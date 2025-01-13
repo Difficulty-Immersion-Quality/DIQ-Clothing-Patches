@@ -27,7 +27,7 @@ new subtable "1,1"
 object category "I_HW_ARM_Bloodmoon_Camp",1,0,0,0,0,0,0,0
 
 
-new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_Pack_Bloodmoon",1,0,0,0,0,0,0,0

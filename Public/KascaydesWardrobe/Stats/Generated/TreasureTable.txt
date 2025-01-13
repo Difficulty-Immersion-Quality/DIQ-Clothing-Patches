@@ -1,0 +1,133 @@
+new treasuretable "Kascayde_Chest3_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kascayde_Shar_Drow_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Lustful_Barbarian_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Lustful_Bandit_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Sharran_Blacksmith_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_Deviant_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_Deviantv2_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Karlachshirt_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Mintyshirt_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Sharshirt_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_DruidShirt_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_SharShirt2_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_ShadowDruidArmor_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Devilsblacksmitharmor_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_Prelate_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_Deviant_topB_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Shoes_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Shoes2_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_JaheiraSkirt_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_SharSkirt_UNDERWEAR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_SharSkirt_withbelt_UNDERWEAR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_BhaalSkirt_UNDERWEAR",1,0,0,0,0,0,0,0
+
+new subtable "1,1"
+object category "I_Kascayde_LeatherStrapUnderwear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_LeatherStrapUnderwear2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_CambionUnderwear",1,0,0,0,0,0,0,0
+
+
+
+
+
+new treasuretable "Kascayde_Chest2_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kascayde_Karlachshirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Mintyshirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Sharshirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_SharShirt2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_ShadowDruidArmor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Devilsblacksmitharmor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_DruidShirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_Prelate",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_DruidTopB",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_JaheiraSkirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_MyrkulShoulderpads",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_SharSkirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_SharSkirt_withbelt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Belt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_BhaalSkirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_bhaal_shoulder",1,0,0,0,0,0,0,0
+
+
+
+
+
+new treasuretable "Kascayde_Chest1_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_Chest2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Kascayde_Chest3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Shar_Drow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Lustful_Barbarian",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Lustful_Bandit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Sharran_Blacksmith",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_DruidAlt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Myrkul_DruidAltv2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Shoes2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Sleeves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Sleeveswithgloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Gortashbandages",1,0,0,0,0,0,0,0
+
+new subtable "1,1"
+object category "I_Kascayde_Gloves_Ilmater",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Gloves_Ilmaterbandages",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_Chest1",1,0,0,0,0,0,0,0

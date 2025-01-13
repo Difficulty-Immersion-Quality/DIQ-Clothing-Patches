@@ -1,0 +1,127 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_Lingerie_Drawer",1,0,0,0,0,0,0,0
+
+new treasuretable "Kascayde_Lingerie_Drawer_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_Lingerie_Masc",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Kascayde_Lingerie_Fem",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_FISHNET_GLOVES",1,0,0,0,0,0,0,0
+
+
+new treasuretable "Kascayde_Lingerie_Masc_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kascayde_Incubusppunderwear1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_INCUBUS_UNDERWEAR_B_EDITV1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_INCUBUS_UNDERWEAR_B_EDITV2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_INCUBUS_UNDERWEAR_B_EDITV3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_HUM_M_FISHNETS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_HUM_M_FISHNETS_PP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_FISHNETBODYSUIT",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_HUM_M_FISHNETBODYSUIT_PP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_GUNDERWEAR_covered",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I__M_CLT_Githyanki_Underwear_B_PPED2_TIGHTS_WAIST-V2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_Astarions_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_ASTARIONS_PP_THONG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_hum_m_playsuit_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_ittybittythongie",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_tieflings_bikini",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_halflings_bottom",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_blindfold",1,0,0,0,0,0,0,0
+
+
+
+
+new treasuretable "Kascayde_Lingerie_Fem_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kascayde_F_corset_test",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_corset_A_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_corset_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_B_v1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_B_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_B_v3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_B_v4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_B_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_SUCCUBUS_STOCKINGS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_SUCCUBUS_EXPOSEDBRA",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_SUCCUBUS_EXPOSEDBRA_NETS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_SUCCUBUS_EXPOSEDBRAANDBOT",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_C_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Courtesan_Corset_set",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Courtesan_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Courtesan",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_SUCCUBUS_EXPOSED_FISHNET_TIGHTS_fishnetboobs",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_SUCCUBUS_EXPOSED_FISHNET_TIGHTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CLT_SUCCUBUS_BOTTOM_ONLY_WITH_TIGHTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_succubus_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_succubus_thong_exposed",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_GITHSUCCUBUS_WAIST_NETS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_GITHSUCCUBUS_exposed",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_FISHNET_PLAYSUIT",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_FISHNETPLAYSUIT_nude",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Lace_Undies",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Lace_Underwear_A_NOBOOBPADS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_fishnet_suit_laebra",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_fishnet_suit_nude",1,0,0,0,0,0,0,0
+
+
+
+
+
+
+
+
