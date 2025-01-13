@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="602" />
+    <region id="Templates">
+        <node id="Templates">
+            <children>
+                <node id="GameObjects">
+                    <children>
+                        <node id="InventoryList">
+                            <children>
+                                <node id="InventoryItem">
+                                </node>
+                            </children>
+                        </node>
+                        <node id="LayerList">
+                            <children>
+                                <node id="Layers">
+                                    <children>
+                                        <node id="Object">
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="Transform">
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
