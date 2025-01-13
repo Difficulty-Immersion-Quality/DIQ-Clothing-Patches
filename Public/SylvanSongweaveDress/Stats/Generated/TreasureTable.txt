@@ -1,0 +1,13 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_SYLVAN_SONGWEAVE_DRESS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SYLVAN_SONGWEAVE_DRESS_MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "-1"
+object category "I_SYLVAN_SONGWEAVE_DRESS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SYLVAN_SONGWEAVE_DRESS_MSK",1,0,0,0,0,0,0,0

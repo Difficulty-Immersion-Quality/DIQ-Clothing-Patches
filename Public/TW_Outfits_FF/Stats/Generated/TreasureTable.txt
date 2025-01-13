@@ -1,0 +1,56 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Gear_FF",1,0,0,0,0,0,0,0
+
+new treasuretable "TW_Gear_FF_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_B_Credendum",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_C_Credendum",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Credendum",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Credendum",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Dye_Credendum",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Dye_Credendum2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Chivalrous",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_C_Chivalrous",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Chivalrous",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Chivalrous",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Chivalrous",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Dye_Chivalrous",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Dye_Chivalrous2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_WPN_Curtana_Zenith",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Diadochos",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Diadochos",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Diadochos",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Sakonji",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Ovim",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Ovim",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Ovim",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Ovim",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Galahad_WPN",1,0,0,0,0,0,0,0
+
+
+

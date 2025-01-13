@@ -1,0 +1,10 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_SYLFINAS_BODYSUIT",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SYFINAS_JACKET",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SYLFINAS_BODYSUIT_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SYFINAS_JACKET_MSK",1,0,0,0,0,0,0,0

@@ -1,0 +1,39 @@
+///
+///     "new treasuretable" is the same name which you created for the "InventoryItem" section of the _merged.lsx file.
+///
+///     If you would like to increase the amout of each item in the container, change the first "1" in each "new subtable" section to a value higher.
+///
+
+new treasuretable "EnchantedThreads_TreasureTable"
+CanMerge 1
+new subtable "1,1"
+object category "I_AMETHYST_OUTFIT",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ATLANTIS_DRESS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_GLADIOLUS_DRESS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DEVI_SAREE",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_EDEN_DRESS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ROBES_OF_THE_DRAGON_EMPRESS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_EVENSTAR_DRESS_PATTERNED",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ATLANTIS_DRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ALEXANDRITE_DRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DEVI_SAREE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_EDEN_DRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ROBES_OF_THE_DRAGON_EMPRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_EVENSTAR_DRESS_PATTERNED_MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_EnchantedThreads_Container",1,0,0,0,0,0,0,0

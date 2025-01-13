@@ -1,0 +1,6 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_FELYNAES_CLOTHES",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_FELYNAES_CLOTHES_MSK",1,0,0,0,0,0,0,0

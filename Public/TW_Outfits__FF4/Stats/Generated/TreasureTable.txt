@@ -1,0 +1,47 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Gear__FF4",1,0,0,0,0,0,0,0
+
+new treasuretable "TW_Gear__FF4_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_B_Momochi",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Momochi",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Momochi",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Momochi",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Landsaint",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_C_Landsaint",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Landsaint",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Landsaint",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Landsaint",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Warg",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Warg",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Warg",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Warg",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Republican",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Shadowless",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Warg2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Plague",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Hourne",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Hourne2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Hourne",1,0,0,0,0,0,0,0

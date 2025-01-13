@@ -1,0 +1,17 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Gear_Dae",1,0,0,0,0,0,0,0
+
+new treasuretable "TW_Gear_Dae_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Daenerys",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Daenerys_Cape",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Daenerys_Cape2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Daenerys_Cape3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Daenerys_C",1,0,0,0,0,0,0,0

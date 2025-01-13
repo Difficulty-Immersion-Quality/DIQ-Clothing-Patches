@@ -1,0 +1,15 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Gear_Daem",1,0,0,0,0,0,0,0
+
+new treasuretable "TW_Gear_Daem_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Daemon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Daemon_FW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Daemon_G",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Daemon_HW",1,0,0,0,0,0,0,0
