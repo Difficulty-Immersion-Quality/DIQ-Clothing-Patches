@@ -1,0 +1,14 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_APHRODITE_UNDERGARMENTS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_APHRODITE_CAMP_OUTFIT_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_NAIL_PAINT_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_VEIL_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_APHRODITE_CAMP_OUTFIT_WITHOUT_VEIL_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_APHRODITE_MSK",1,0,0,0,0,0,0,0
