@@ -1,0 +1,7 @@
+new entry "DarlingsChest"
+type "Object"
+using "_Container"
+data "RootTemplate" "e9f97630-de29-43f7-b454-3510f09db64e"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Legendary"
