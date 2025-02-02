@@ -269,7 +269,7 @@ object category "I_EW_Robes_Camp_Boots_Rare_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_EW_Robes_Underwear_Rare_A",1,0,0,0,0,0,0,0
 
-new treasuretable "DIQ_OBJ_Weapon_Container"
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_EW_Robes_Amulet_Letter",1,0,0,0,0,0,0,0
