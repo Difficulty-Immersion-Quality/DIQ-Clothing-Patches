@@ -1,0 +1,19 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_kasumi_classic_wht",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_kasumi_classic_wht_GLOVES",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_kasumi_classic_wht_SHOES",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Ayane_doa05",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Ayane_doa05_BOOTS",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Ayane_doa05_GLOVES",1,0,0,0,0,0,0,0
