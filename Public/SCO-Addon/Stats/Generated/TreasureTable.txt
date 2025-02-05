@@ -24,6 +24,12 @@ new subtable "-1"
 object category "I_Wavemother_Robe_Custom",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_Wavemother_Robe_Custom_Alt",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Scalemail_Armor_Custom",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Scalemail_Armor_Custom_Alt",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_Fine_Leather_Boots",1,0,0,0,0,0,0,0
 
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
