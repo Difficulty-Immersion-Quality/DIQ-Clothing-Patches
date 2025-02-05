@@ -1,0 +1,14 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_BLOOMCORE_OUTFIT",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_BLOOMCORE_MASK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_BLOOMCORE_SHOES",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_BLOOMCORE_OUTFIT_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_BLOOMCORE_MASK_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_BLOOMCORE_SHOES_MSK",1,0,0,0,0,0,0,0

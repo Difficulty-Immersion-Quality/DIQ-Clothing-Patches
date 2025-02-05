@@ -1,0 +1,12 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ATHENAS_CHITON",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ATHENAS_LAURELS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ATHENAS_BANGLES",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ATHENAS_CHITON_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ATHENAS_BANGLES_MSK",1,0,0,0,0,0,0,0
