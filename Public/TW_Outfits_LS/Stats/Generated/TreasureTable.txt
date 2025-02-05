@@ -1,0 +1,33 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Gear_LS",1,0,0,0,0,0,0,0
+
+new treasuretable "TW_Gear_LS_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Lunar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Lunar_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Lunar_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Lunar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Lunar2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Lunar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Lunar2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Cape_Shoulderpads",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Lunar_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Lunar_C2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Lunar_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Lunar_C2",1,0,0,0,0,0,0,0
+
+
