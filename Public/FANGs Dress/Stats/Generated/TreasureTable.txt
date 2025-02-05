@@ -1,0 +1,13 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "Kascayde_FANGsDress_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kascayde_F_FANG_Dress",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_FANG_tights",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_FANG_hat",1,0,0,0,0,0,0,0
