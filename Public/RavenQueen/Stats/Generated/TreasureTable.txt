@@ -1,0 +1,14 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_RAVENQUEEN_DRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAVENQUEEN_CAPE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAVENQUEEN_SHOES_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAVENQUEEN_GLOVES_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAVENQUEEN_HEADDRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RAVENQUEEN_UNDERWEAR_MSK",1,0,0,0,0,0,0,0
