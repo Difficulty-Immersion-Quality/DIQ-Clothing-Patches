@@ -8,7 +8,11 @@ CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_Kascayde_Lingerie_Masc",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Kascayde_Lingerie_Masc_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Kascayde_Lingerie_Fem",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Kascayde_Lingerie_Fem_CAMP",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Kascayde_FISHNET_GLOVES",1,0,0,0,0,0,0,0
 
@@ -49,7 +53,6 @@ new subtable "1,1"
 object category "I_Kascayde_M_halflings_bottom",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Kascayde_M_blindfold",1,0,0,0,0,0,0,0
-
 
 
 
