@@ -1,0 +1,126 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+// "Backpack"
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TUT_OBJ_BPOMS_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BP_BucklerShield_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_BP_BucklerShield_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BP_HeaterShield_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_BP_HeaterShield_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BP_KiteShield_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_BP_KiteShield_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BP_RoundShield_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_BP_RoundShield_GD",1,0,0,0,0,0,0,0
+
+// "Buckler Shield"
+new treasuretable "LOOT_BucklerShield_1_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_BucklerShield_1_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BucklerShield_2_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_BucklerShield_2_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BucklerShield_3_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_BucklerShield_3_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BucklerShield_4_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_BucklerShield_4_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_BucklerShield_5_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_BucklerShield_5_GD",1,0,0,0,0,0,0,0
+
+// "Heater Shield"
+new treasuretable "LOOT_HeaterShield_1_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_HeaterShield_1_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_HeaterShield_2_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_HeaterShield_2_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_HeaterShield_3_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_HeaterShield_3_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_HeaterShield_4_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_HeaterShield_4_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_HeaterShield_5_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_HeaterShield_5_GD",1,0,0,0,0,0,0,0
+
+// "Kite Shield"
+new treasuretable "LOOT_KiteShield_1_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_KiteShield_1_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_KiteShield_2_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_KiteShield_2_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_KiteShield_3_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_KiteShield_3_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_KiteShield_4_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_KiteShield_4_GD",1,0,0,0,0,0,0,0
+
+// "RoundShield"
+new treasuretable "LOOT_RoundShield_1_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_RoundShield_1_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_RoundShield_2_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_RoundShield_2_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_RoundShield_3_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_RoundShield_3_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_RoundShield_4_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_RoundShield_4_GD",1,0,0,0,0,0,0,0
+
+new treasuretable "LOOT_RoundShield_5_GD"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_RoundShield_5_GD",1,0,0,0,0,0,0,0
