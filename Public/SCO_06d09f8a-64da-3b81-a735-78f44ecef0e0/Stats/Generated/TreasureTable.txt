@@ -54,3 +54,11 @@ new subtable "1,1"
 object category "I_SCO_ARM_Leather_Mask",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_SCO_ARM_Steel_Mask",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SCO_ARM_Necromancer_Attire",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SCO_ARM_Necromancer_Bikini",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SCO_ARM_Necromancer_Parka_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SCO_ARM_Necromancer_Parka_B",1,0,0,0,0,0,0,0
