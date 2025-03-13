@@ -46,6 +46,8 @@ object category "I_Kascayde_ASTARIONS_PP_THONG",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Kascayde_hum_m_playsuit_thong",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_Kascayde_M_playsuit",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_Kascayde_M_ittybittythongie",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Kascayde_M_tieflings_bikini",1,0,0,0,0,0,0,0
@@ -53,6 +55,39 @@ new subtable "1,1"
 object category "I_Kascayde_M_halflings_bottom",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Kascayde_M_blindfold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Incubus_new_v1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Corset_B_top_incubus",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_corset_b_incubus_v2_PP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_SHEER_BIKINI",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_SHEER_UNDERWEAR_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_halflings_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Corset_E_top_incubus",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_FLORAL_BIKINI",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_FLORAL_UNDERWEAR_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Incubus_new_PP_ppv2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Corset_B_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_corset_b_thong_PP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Corset_E_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_corset_E_thong_PP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Corset_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_M_Corset_E",1,0,0,0,0,0,0,0
+
 
 
 
@@ -120,8 +155,50 @@ new subtable "1,1"
 object category "I_Kascayde_F_fishnet_suit_laebra",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Kascayde_F_fishnet_suit_nude",1,0,0,0,0,0,0,0
-
-
+new subtable "1,1"
+object category "I_Kascayde_F_Gnomes_Underwear_V1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_D_v1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_D_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_D_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_CORSET_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_halfling_thong_set",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_halfling_thong_tights",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_halfling_thong_only",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_Set",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_Set_exposed_bra",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_Set_exposed_bra_bot",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Elves_thong",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Rose_Lace_Undies",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Rose_Lace_Underwear_A_NOBOOBPADS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_exposed_bra",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_exposed",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_Setv2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_Set_exposed_brav2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Succubus_Simple_Set_exposed_bra_botv2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Gnomes_Underwear_V1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_Gnomes_Underwear_V_2",1,0,0,0,0,0,0,0
 
 
 
