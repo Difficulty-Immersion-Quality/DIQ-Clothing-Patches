@@ -1,0 +1,14 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_HIWAR_AL_TURAB",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RIDA_AL_TURAB",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SADRIYYA_AL_TURAB",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_HIWAR_AL_TURAB_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_RIDA_AL_TURAB_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SADRIYYA_AL_TURAB_MSK",1,0,0,0,0,0,0,0
