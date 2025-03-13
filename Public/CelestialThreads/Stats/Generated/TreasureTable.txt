@@ -1,0 +1,47 @@
+///
+///     "new treasuretable" is the same name which you created for the "InventoryItem" section of the _merged.lsx file.
+///
+///     If you would like to increase the amout of each item in the container, change the first "1" in each "new subtable" section to a value higher.
+///
+
+new treasuretable "CelestialThreads_TreasureTable"
+CanMerge 1
+new subtable "1,1"
+object category "I_MARS_ATTIRE",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SELUNA_GOWN_",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_LEELA_LEHENGA",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_AMELIES_MOONLIGHT_GOWN",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_GOWN_OF_THE_ARACHNE_BAEQESHEL",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DAHLIA_DRESS",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MARS_ATTIRE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SELUNA_GOWN__MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_LEELA_LEHENGA_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_AMELIES_MOONLIGHT_GOWN_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_GOWN_OF_THE_ARACHNE_BAEQESHEL_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_BHAALS_BRIDE_GOWN_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DAISY_DRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DAHLIA_DRESS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DAHLIA_DRESS_T_NO_SOCKS_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ASURAS_ALLURE_MSK",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ASURAS_SKIRT__MSK",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_CelestialThreads_Container",1,0,0,0,0,0,0,0
