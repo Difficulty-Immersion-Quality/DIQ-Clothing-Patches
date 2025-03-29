@@ -1,102 +1,200 @@
 treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// I despise this treasure table setup
+
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_TUT_BPH_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Babute_GD"
+new treasuretable "LOOT_BPLH_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Barbute_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Barbute_Y_GD"
+object category "I_OBJ_BPLH_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPMH_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Barbute_Y_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Griffon_GD"
+object category "I_OBJ_BPMH_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPHH_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Bascinet_Griffon_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Pig_Face_GD"
-new subtable "1,1"
-object category "I_ARM_Helmet_Bascinet_Pig_Face_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_F_Burgonet_GD"
-new subtable "1,1"
-object category "I_ARM_Helmet_Fancy_Burgonet_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_F_Morion_GD"
-new subtable "1,1"
-object category "I_ARM_Helmet_Fancy_Morion_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Great_Helm_GD"
-new subtable "1,1"
-object category "I_ARM_Helmet_Great_Helm_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Sallet_GD"
+object category "I_OBJ_BPHH_GD",1,0,0,0,0,0,0,0
+new treasuretable "Light Helmets"
+new treasuretable "LOOT_BPH_Sallet_GD"
 new subtable "1,1"
 object category "I_ARM_Helmet_Sallet_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Sallet_Open_GD"
+new treasuretable "LOOT_Helmet_Open_Sallet_GD"
 new subtable "1,1"
 object category "I_ARM_Helmet_Open_Sallet_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Close_Helm_GD"
+new treasuretable "LOOT_BPH_F_Morion_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Close_Helm_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Frog-Mouth_GD"
+object category "I_ARM_Helmet_Fancy_Morion_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_FM_NV_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Frog-Mouth_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_GH_Horns_GD"
+object category "I_ARM_Helmet_Fancy_Morion_NV_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Bone_Helm_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Great_Helm_Horns_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_GH_Teutonic_Bat_GD"
+object category "I_ARM_Helmet_Bone_Helm_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Skull_With_Feathers_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Great_Helm_Teutonic_Bat_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_GH_Teutonic_GD"
+object category "I_ARM_Skull_With_Feathers_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Nobushi_Hat_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Great_Helm_Teutonic_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_GH_Wings_GD"
+object category "I_ARM_Nobushi_Hat_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Samurai_Mask_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Great_Helm_Wings_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_Knight_Helm_GD"
+object category "I_ARM_Samurai_Oni_Mask_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Jester_Mask_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Knight_Helm_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_KH_Horns_GD"
+object category "I_ARM_Jester_Mask_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Gjermundbu_Helmet_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Knight_Helm_ORN_Horns_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_KH_Teutonic_Bat_GD"
+object category "I_ARM_Gjermundbu_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Komuso_Monk_Hat_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Knight_Helm_ORN_Teutonic_Bat_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_KH_Teutonic_GD"
+object category "I_ARM_Komuso_Monk_Hat_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Kettle_Helmet_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Knight_Helm_ORN_Teutonic_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_KH_Wings_GD"
+object category "I_ARM_Kettle_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Kettle_Helmet_WV_GD"
 new subtable "1,1"
-object category "I_ARM_Helmet_Knight_Helm_ORN_Wings_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_BY_Horns_GD"
+object category "I_ARM_Kettle_Helmet_WM_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Japanese_Bamboo_Hat_GD"
+new subtable "1,1"
+object category "I_ARM_Japanese_Bamboo_Hat_GD",1,0,0,0,0,0,0,0
+new treasuretable "Medium Helmets"
+new treasuretable "LOOT_BPH_Barbute_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Barbute_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Barbute_Paint_1_GD"
+new subtable "1,1"
+object category "I_ARM_Barbute_Helmet_Paint_1_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Barbute_Paint_2_GD"
+new subtable "1,1"
+object category "I_ARM_Barbute_Helmet_Paint_2_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Barbute_Paint_3_GD"
+new subtable "1,1"
+object category "I_ARM_Barbute_Helmet_Paint_3_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Barbute_Paint_4_GD"
+new subtable "1,1"
+object category "I_ARM_Barbute_Helmet_Paint_4_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Barbute_Y_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Barbute_Y_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_BY_Horns_GD"
 new subtable "1,1"
 object category "I_ARM_Helmet_Barbute_Y_ORN_Horns_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_BY_Teutonic_Bat_GD"
+new treasuretable "LOOT_BPH_BY_Teutonic_Bat_GD"
 new subtable "1,1"
 object category "I_ARM_Helmet_Barbute_Y_ORN_Teutonic_Bat_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_BY_Teutonic_GD"
+new treasuretable "LOOT_BPH_BY_Teutonic_GD"
 new subtable "1,1"
 object category "I_ARM_Helmet_Barbute_Y_ORN_Teutonic_GD",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_BPH_BY_Wings_GD"
+new treasuretable "LOOT_BPH_BY_Wings_GD"
 new subtable "1,1"
 object category "I_ARM_Helmet_Barbute_Y_ORN_Wings_GD",1,0,0,0,0,0,0,0
-
+new treasuretable "LOOT_Bascinet_Helmet_Curved_Visor_GD"
+new subtable "1,1"
+object category "I_ARM_Bascinet_Helmet_Curved_Visor_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Bascinet_Helmet_Curved_Visor_Open_GD"
+new subtable "1,1"
+object category "I_ARM_Bascinet_Helmet_Curved_Visor_Open_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Griffon_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Bascinet_Griffon_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Pig_Face_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Bascinet_Pig_Face_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Burgonet_Helmet_GD"
+new subtable "1,1"
+object category "I_ARM_Burgonet_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_F_Burgonet_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Fancy_Burgonet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Great_Helm_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Great_Helm_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_GH_Horns_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Great_Helm_Horns_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_GH_Teutonic_Bat_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Great_Helm_Teutonic_Bat_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_GH_Teutonic_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Great_Helm_Teutonic_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_GH_Wings_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Great_Helm_Wings_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_GH_Deer_Horns_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Great_Helm_Dear_Horns_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Samuria_Helmet_Mask_GD"
+new subtable "1,1"
+object category "I_ARM_Samurai_Helmet_with_Mask_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Samurai_Helmet_GD"
+new subtable "1,1"
+object category "I_ARM_Samurai_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Thraex_Helmet_1_GD"
+new subtable "1,1"
+object category "I_ARM_Thraex_Helmet_1_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Italo-Norman_Helmet_GD"
+new subtable "1,1"
+object category "I_ARM_Italo-Norman_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Spangenhelm_Helmet_GD"
+new subtable "1,1"
+object category "I_ARM_Spangenhelm_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Sugarloaf_Helmet_GD"
+new subtable "1,1"
+object category "I_ARM_Sugarloaf_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Sugarloaf_Helmet_Open_GD"
+new subtable "1,1"
+object category "I_ARM_Sugarloaf_Helmet_Open_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Spartan_Helmet_GD"
+new subtable "1,1"
+object category "I_ARM_Spartan_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "Heavy Helmets"
+new treasuretable "LOOT_BPH_Frog-Mouth_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Frog-Mouth_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Close_Helm_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Close_Helm_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_Knight_Helm_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Knight_Helm_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_KH_Horns_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Knight_Helm_ORN_Horns_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_KH_Teutonic_Bat_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Knight_Helm_ORN_Teutonic_Bat_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_KH_Teutonic_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Knight_Helm_ORN_Teutonic_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_KH_Wings_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Knight_Helm_ORN_Wings_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_BPH_KH_Deer_Horns_GD"
+new subtable "1,1"
+object category "I_ARM_Helmet_Knight_Helm_Deer_Horns_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Samurai_H_WM_Orn_1_GD"
+new subtable "1,1"
+object category "I_ARM_Samurai_Helmet_with_Mask_Orn_1_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Samurai_H_WM_Orn_2_GD"
+new subtable "1,1"
+object category "I_ARM_Samurai_Helmet_with_Mask_Orn_2_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Samurai_H_WM_Orn_3_GD"
+new subtable "1,1"
+object category "I_ARM_Samurai_Helmet_with_Mask_Orn_3_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Samurai_H_WM_Orn_4_GD"
+new subtable "1,1"
+object category "I_ARM_Samurai_Helmet_with_Mask_Orn_4_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Roman_Helmet_1_GD"
+new subtable "1,1"
+object category "I_ARM_Roman_Helmet_1_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Roman_Helmet_2_GD"
+new subtable "1,1"
+object category "I_ARM_Roman_Helmet_2_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Lawbringer_Helmet_GD"
+new subtable "1,1"
+object category "I_ARM_Lawbringer_Helmet_GD",1,0,0,0,0,0,0,0
+new treasuretable "LOOT_Lawbringer_Helmet_Orn_GD"
+new subtable "1,1"
+object category "I_ARM_Lawbringer_Helmet_Orn_GD",1,0,0,0,0,0,0,0
