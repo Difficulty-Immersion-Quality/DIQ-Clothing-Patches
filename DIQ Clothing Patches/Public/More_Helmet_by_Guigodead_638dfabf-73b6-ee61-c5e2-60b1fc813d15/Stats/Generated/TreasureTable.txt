@@ -1,7 +1,5 @@
 treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
-
-// I despise this treasure table setup
-
+new treasuretable "Conteiners"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
