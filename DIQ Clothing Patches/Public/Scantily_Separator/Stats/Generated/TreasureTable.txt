@@ -19,6 +19,8 @@ new subtable "1,1"
 object category "I_SOS_Selunite_Box",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_SOS_Mizora_Box",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Box",1,0,0,0,0,0,0,0
 
 new treasuretable "SOS_Authority_Box_TT"
 CanMerge 1
@@ -254,3 +256,40 @@ new subtable "1,1"
 object category "I_SOS_Mizora_Crown_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_SOS_Mizora_Spine_A",1,0,0,0,0,0,0,0
+
+new treasuretable "SOS_Rejuvenation_Box_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_E",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_F",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_G",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Vest_H",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Bracers",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Heels_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Heels_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Mask",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Mantle_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Mantle_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Skirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Belt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SOS_Rejuvenation_Panties",1,0,0,0,0,0,0,0
