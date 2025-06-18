@@ -1,0 +1,8 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "TT_Chest_BSG_Gale_Aza"
+new subtable "1,1"
+object category "I_ARM_BSG_BattlemageAttire_Aza",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_BSG_Boots_Gale_Aza",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_HUM_Quarterstaff_BSG_Gale_Aza",1,0,0,0,0,0,0,0

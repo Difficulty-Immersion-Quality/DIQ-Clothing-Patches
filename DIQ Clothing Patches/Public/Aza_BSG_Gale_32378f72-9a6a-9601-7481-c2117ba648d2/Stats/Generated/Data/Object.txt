@@ -1,0 +1,10 @@
+new entry "CONT_Chest_BSG_Gale_Aza"
+type "Object"
+using "_Loot"
+data "RootTemplate" "086d4340-acdb-4a5a-acb5-cdfcbeaadf71"
+data "ValueUUID" "870797b7-fb40-47ae-be7a-544c05c158c8"
+data "ValueOverride" "1"
+data "Rarity" "Rare"
+data "GameSize" "Tiny"
+data "Vitality" "1"
+
