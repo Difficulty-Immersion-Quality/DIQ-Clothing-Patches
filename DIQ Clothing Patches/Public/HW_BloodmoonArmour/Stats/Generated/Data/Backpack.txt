@@ -1,0 +1,16 @@
+new entry "OBJ_Pack_Bloodmoon"
+type "Object"
+using "_Container"
+data "RootTemplate" "24e70b62-1994-42c2-a21d-c8ff721eaeb6"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Legendary"
+
+new entry "OBJ_Pack_Bloodmoon_CampVer"
+type "Object"
+using "_Container"
+data "RootTemplate" "f516e59c-b710-4e31-b8ef-99469b140249"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Legendary"
+

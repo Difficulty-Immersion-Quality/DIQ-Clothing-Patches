@@ -1,0 +1,9 @@
+new entry "TW_Gear_LS"
+type "Object"
+using "_Container"
+data "RootTemplate" "ee6be34d-b915-40fc-b3df-3a1b2409749d"
+data "ValueOverride" "1"
+data "Weight" "1"
+data "Rarity" "Legendary"
+
+

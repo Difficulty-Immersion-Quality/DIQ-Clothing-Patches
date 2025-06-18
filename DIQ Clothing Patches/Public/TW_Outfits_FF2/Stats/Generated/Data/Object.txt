@@ -1,0 +1,16 @@
+new entry "TW_Gear_FF22"
+type "Object"
+using "_Container"
+data "RootTemplate" "0a290c4c-08cc-400e-99cc-82cd4f8c8331"
+data "ValueOverride" "1"
+data "Weight" "1"
+data "Rarity" "Uncommon"
+
+new entry "TW_Dye_Diamond"
+type "Object"
+using "TW_Dye_Diamond"
+data "RootTemplate" "984184a2-e90a-48ef-bd3f-baf06bfba256"
+data "Priority" "1"
+data "Rarity" "Uncommon"
+data "ValueOverride" "1"
+

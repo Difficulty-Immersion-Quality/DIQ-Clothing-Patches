@@ -1,0 +1,457 @@
+new entry "MEQ_Head_Prototype"
+using "ARM_Circlet"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "MEQ_Chest_Prototype"
+using "ARM_Robe_Body"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "PassivesOnEquip" ""
+
+new entry "MEQ_Cloak_Prototype"
+using "ARM_Cloak"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "MEQ_Belt_Prototype"
+using "MEQ_Head_Prototype"
+
+new entry "MEQ_Boots_Prototype"
+using "ARM_Boots_Leather"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "MEQ_Gloves_Prototype"
+using "ARM_Gloves_Leather"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "MEQ_Clothes_Prototype"
+using "ARM_Camp_Body"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "MEQ_Shoes_Prototype"
+using "ARM_Camp_Shoes"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+
+new entry "MEQ_Head_BeadedNecklaces"
+using "MEQ_Head_Prototype"
+data "RootTemplate" "a419fe4b-4ada-48cc-b157-4ec17d7b4ea2"
+
+new entry "MEQ_Head_DaggerNecklace"
+using "MEQ_Head_Prototype"
+data "RootTemplate" "5dff7faf-2691-4bb1-8141-4e436db05006"
+
+new entry "MEQ_Head_BeadedAndDaggerNecklaces"
+using "MEQ_Head_Prototype"
+data "RootTemplate" "2bc6c7a8-a55b-4185-858e-e617f2caf0a8"
+
+new entry "MEQ_Head_DaggerNecklace_Rings"
+using "MEQ_Head_Prototype"
+data "RootTemplate" "000a4682-2081-46a3-8722-254dcc99faea"
+
+new entry "MEQ_Head_BeadedAndDaggerNecklaces_Rings"
+using "MEQ_Head_Prototype"
+data "RootTemplate" "8d2371f4-a152-4ae0-b901-0d790b83a0b0"
+
+new entry "MEQ_Head_Rings"
+using "MEQ_Head_Prototype"
+data "RootTemplate" "944a7366-8265-4081-9460-3d34eec95aa8"
+
+new entry "MEQ_Head_LoviatarArmlet"
+using "MEQ_Head_Prototype"
+data "RootTemplate" "68c03475-7ad1-4d9d-b674-1de112bf2c9f"
+
+
+new entry "MEQ_Cloak_HalflingTop"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "46b36c75-7dba-4765-9ec0-e6d979c94e61"
+
+new entry "MEQ_Cloak_CorsetA"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "44e854c9-16de-40eb-a884-9e91e9f9abb8"
+
+new entry "MEQ_Cloak_CinchedCorsetA"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "c330ef82-b495-447a-af12-09d317a34e8d"
+
+new entry "MEQ_Cloak_CorsetedHalflingTop"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "9f852515-bcee-4270-83cd-b09ee8a9ac46"
+
+new entry "MEQ_Cloak_HumanTopA"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "ec8dae00-652e-4aab-949f-50002a95eee6"
+
+new entry "MEQ_Cloak_BeltedHumanTopA"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "3947f65e-18f0-43e0-bc59-f319f232cccd"
+
+new entry "MEQ_Cloak_TieflingTop"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "55c6c50a-5f6f-4d42-b8b9-b36832a25a59"
+
+new entry "MEQ_Cloak_PlainShirt"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "37413d79-8789-4204-a064-2c4907fa4479"
+
+new entry "MEQ_Cloak_CorsetedShirtD"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "89ff7b40-f60f-4eb3-9abd-6da18df42695"
+
+new entry "MEQ_Cloak_CorsetedShirt"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "66c813e0-451a-4e7b-8ade-5a42dc7efdaf"
+
+new entry "MEQ_Cloak_BeltedShirt"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "fc21de0f-70ac-4b97-8c80-7fa2e8c9206a"
+
+new entry "MEQ_Cloak_ShoulderBelt"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "f9f2a002-17d2-4519-9b9c-c140f74f0369"
+
+new entry "MEQ_Cloak_BarbarianTop"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "5e4454bb-a96d-4fde-9bdb-0fb83911d267"
+
+new entry "MEQ_Cloak_BarbarianTop2"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "2cf330fd-9398-4256-9b38-fc63e4ac16b6"
+
+new entry "MEQ_Cloak_CorsetEForRichDress"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "36728ee8-999a-46ef-b0ae-a58e17c16ecb"
+
+new entry "MEQ_Cloak_DaisyTop"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "b9e94642-a885-4955-add8-256e338a100b"
+
+new entry "MEQ_Cloak_DaisyTop_CorsetE"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "df24b12a-475d-40f5-a5e7-1802596893cd"
+
+new entry "MEQ_Cloak_BeltedDaisyTop_CorsetE"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "7048fba3-d48d-46fe-be6d-ecbeb5d36c2d"
+
+new entry "MEQ_Cloak_DaisyTop_LeatherA"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "90493419-d2b6-4979-8e7f-65d378e60946"
+
+new entry "MEQ_Cloak_BeltedDaisyTop_LeatherA"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "6efa0a99-7866-4315-bdd4-b957bdcc713a"
+
+new entry "MEQ_Cloak_LeatherCorset"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "efe825e0-5682-443e-aa13-2135b8fdd234"
+
+new entry "MEQ_Cloak_BeltedLeatherCorset"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "2157eb78-fc36-4dc3-9c89-a52d2d78dcfc"
+
+new entry "MEQ_Cloak_LeatherVest"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "9021444a-55a0-49a1-8b13-3f0fee83717e"
+
+new entry "MEQ_Cloak_SleevedLeatherVest"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "41eeab55-2725-4d8d-87e6-79a0538cfdc4"
+
+new entry "MEQ_Cloak_BandagedGithTop"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "8a35cabd-c3eb-4e46-bb86-a51480e1ca9d"
+
+new entry "MEQ_Cloak_WrapTop"
+using "MEQ_Cloak_Prototype"
+data "RootTemplate" "c4cc9982-c50e-4d69-a77d-52179bb9c840"
+
+
+new entry "MEQ_Chest_TightsAndThighLeathers"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "d29cf0ce-ed4b-4dcc-8905-7f412d879a6b"
+
+new entry "MEQ_Clothes_TightsAndThighLeathers"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "e0a8f0c3-edcd-47f6-9a3a-a37ac13af6e7"
+
+new entry "MEQ_Chest_RefugeeSkirtB"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "d2aa8d5b-cb7c-4e78-a507-0259dc22d24f"
+
+new entry "MEQ_Clothes_RefugeeSkirtB"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "78a4febe-84fd-4ca9-aba0-6a8610f320b6"
+
+new entry "MEQ_Chest_SkirtAndThighLeathers"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "52e7f03f-d94a-445c-b6d1-971770692990"
+
+new entry "MEQ_Clothes_SkirtAndThighLeathers"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "b17290ad-11e6-4b29-9375-2e2698a5550c"
+
+new entry "MEQ_Chest_OutlandersSkirt"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "3f8bb814-09aa-427a-85ce-f1956602f52d"
+
+new entry "MEQ_Clothes_OutlandersSkirt"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "92b105a0-ff50-4aa3-8ff3-28873a4c3f4f"
+
+new entry "MEQ_Chest_ButtonedLeatherPants"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "578e3b6d-6d8c-4a4e-b324-8aaf06b4f298"
+
+new entry "MEQ_Clothes_ButtonedLeatherPants"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "9544d724-2c25-425d-89e7-c04dca759339"
+
+new entry "MEQ_Chest_RichDress"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "ead7edd8-365e-486a-b96d-6024773581b2"
+
+new entry "MEQ_Clothes_RichDress"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "7acd683e-036a-4b49-9d39-5432c3ca8503"
+
+new entry "MEQ_Chest_QuiltedPants"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "de4483d3-ccd8-4287-a168-5c83b8c969b5"
+
+new entry "MEQ_Clothes_QuiltedPants"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "789eaa4e-9aae-4890-ab42-486e04c9ca03"
+
+new entry "MEQ_Chest_QuiltedPantsAndThighLeathers"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "9bfdb459-80d6-433e-bd2c-2d96a9dfc894"
+
+new entry "MEQ_Clothes_QuiltedPantsAndThighLeathers"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "5aeb3579-a9de-45e4-a60e-4349f87abcd8"
+
+new entry "MEQ_Chest_BardPants"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "6275a445-4384-483e-a8c5-786cf9552b73"
+
+new entry "MEQ_Clothes_BardPants"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "213b7747-c9db-4329-8b45-1e5390c09d68"
+
+new entry "MEQ_Chest_WrappedPants"
+using "MEQ_Chest_Prototype"
+data "RootTemplate" "5f11fb68-1e04-4025-9b8d-6c9f1507f183"
+
+new entry "MEQ_Clothes_WrappedPants"
+using "MEQ_Clothes_Prototype"
+data "RootTemplate" "c15fb974-eb04-4499-b0b7-da3146d03c61"
+
+
+new entry "MEQ_Belt_BanditBelt_CorsetE"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "c56cdf45-2666-4f2e-b0af-a613c8b8acd8"
+
+new entry "MEQ_Belt_ShoulderBelt"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "0bea25d1-598d-4137-947b-e21cf61ebf05"
+
+new entry "MEQ_Belt_LeatherCincher"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "18e668e2-5417-4a97-8c08-300276e7b376"
+
+new entry "MEQ_Belt_CincherBelt"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "01c7438b-b20c-4e57-bacf-044c3a69554f"
+
+new entry "MEQ_Belt_CorsetA"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "4c7b2845-ec22-46e2-8cb4-2a2fcdbaf050"
+
+new entry "MEQ_Belt_CinchedCorsetA"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "7110c77e-8670-42ab-84e7-be29181f4f75"
+
+new entry "MEQ_Belt_CorsetE"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "b7713f30-fd2d-4629-b2e9-df3309a24d05"
+
+new entry "MEQ_Belt_CinchedCorsetE"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "4e700583-271b-4445-8bcc-b01c8d2f35dc"
+
+new entry "MEQ_Belt_BeltedCorsetE"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "3b6e052b-7b5f-437c-8d59-eb430689fd20"
+
+new entry "MEQ_Belt_WizardsBelts"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "81e95480-9bbd-44ae-9741-39574c198ce7"
+
+new entry "MEQ_Belt_WizardsCincher"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "c3c7cdf7-4e66-4f98-8cb9-5014b3058264"
+
+new entry "MEQ_Belt_OpportunistsBelt"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "235f13be-6424-4f4c-a6d8-07ca12e1b082"
+
+new entry "MEQ_Belt_OpportunistsBeltAndWand"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "dffd6abf-9d8d-4720-af5f-311d763650ee"
+
+new entry "MEQ_Belt_OpportunistsCorset"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "473983ef-3531-48f7-a69e-9bfb6a1d6992"
+
+new entry "MEQ_Belt_CinchedAndBeltedCorsetE"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "93ba39c2-7e1e-4c2e-aab8-872d6026eacf"
+
+new entry "MEQ_Belt_CorsetedHalflingTop"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "3a1161aa-e54e-41aa-80bd-9a107449561a"
+
+new entry "MEQ_Belt_DoubleBelt"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "f312848d-bf59-4f5b-ad4a-f82d2cbadeb5"
+
+new entry "MEQ_Belt_BanditAndCincherBelts"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "c658ff66-3fe5-4b13-83f2-1797800aabce"
+
+new entry "MEQ_Belt_LeatherCorset"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "ebcf6bb8-2b99-45df-896e-3c47d4e33735"
+
+new entry "MEQ_Belt_BeltedLeatherCorset"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "b1e107e5-073c-483c-9151-04af47cf44c7"
+
+new entry "MEQ_Belt_LeatherVestCorset"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "a4914a58-18c7-4456-897b-384207b5e740"
+
+new entry "MEQ_Belt_BandagedGithTop"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "26fbbd13-b345-4fe4-97ee-7a45966034e4"
+
+new entry "MEQ_Belt_WrapTop"
+using "MEQ_Belt_Prototype"
+data "RootTemplate" "475a27af-951d-4017-be7d-db617a9a8b29"
+
+
+new entry "MEQ_Gloves_QuiltedBracer_LeatherSleeve"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "27067460-6424-4be4-85dc-92b664b45bac"
+
+new entry "MEQ_Gloves_LeatherSleeves"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "a08ed7f2-f7a5-4954-be5e-66bf7c851384"
+
+new entry "MEQ_Gloves_BracersAndArmlets"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "d2be38fc-f850-4de5-858a-b493f44732cd"
+
+new entry "MEQ_Gloves_LeatherBracers"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "bda5c214-bcaa-4a25-bf30-7264164b340f"
+
+new entry "MEQ_Gloves_LeatherBracersAndArmlets"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "5b84daaf-25df-410a-b9ff-3755ae020387"
+
+new entry "MEQ_Gloves_LeatherSleeve_LeatherBracer"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "84a0bd66-3e6e-4768-b550-3f8a58192639"
+
+new entry "MEQ_Gloves_LeatherSleeve_GithSleeve"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "29f70822-da56-4361-ba28-f470b52fc0b8"
+
+new entry "MEQ_Gloves_FeatheredLeatherSleeve_GithSleeve"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "2890b695-ddbb-45a8-a0a8-331c2841ae08"
+
+new entry "MEQ_Gloves_DaisyArmlet_LeatherSleeve"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "6576e8e1-3a89-4f98-962b-aefbb4a9223a"
+
+new entry "MEQ_Gloves_LeatherSleeve_DaisyArmlet"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "4ad7f51e-a792-47d0-9d7d-bad4bc6b3fad"
+
+new entry "MEQ_Gloves_BeadedBracelets"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "de7b50ab-4ac2-4c4c-b99e-824e5fb6f276"
+
+new entry "MEQ_Gloves_BeadedBracelets_Rings"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "fa09d449-c137-4da3-aa3e-873519308c9a"
+
+new entry "MEQ_Gloves_Rings"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "a71eff10-890b-4b5f-a483-bee929980018"
+
+new entry "MEQ_Gloves_LoviatarArmlet"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "1ba85d9d-130e-4d96-a547-2c160ba13e3f"
+
+new entry "MEQ_Gloves_RustedBracers"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "b9e9556a-d43a-4bcd-8ead-3be1105a7028"
+
+new entry "MEQ_Gloves_RustedArmGuards"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "6b72820c-822b-4cba-b072-279dfa033fc4"
+
+new entry "MEQ_Gloves_HandWraps"
+using "MEQ_Gloves_Prototype"
+data "RootTemplate" "9f81aa67-972b-46b7-b22b-82f8092567ce"
+
+
+new entry "MEQ_Boots_SoftLeatherBoots"
+using "MEQ_Boots_Prototype"
+data "RootTemplate" "10d92919-a091-4081-a2ac-8c526302da19"
+
+new entry "MEQ_Shoes_SoftLeatherBoots"
+using "MEQ_Shoes_Prototype"
+data "RootTemplate" "8b2f3915-3f0a-4a08-86d8-a5c0b79234a3"
+
+new entry "MEQ_Boots_LeatherBoots"
+using "MEQ_Boots_Prototype"
+data "RootTemplate" "39728c71-00e1-44d3-b1e3-22656544bd5d"
+
+new entry "MEQ_Shoes_LeatherBoots"
+using "MEQ_Shoes_Prototype"
+data "RootTemplate" "cb6c4f31-ef1b-433c-b19d-e7352b1e3a54"
+
+new entry "MEQ_Boots_SteelToedBoots"
+using "MEQ_Boots_Prototype"
+data "RootTemplate" "1cfcd850-d07e-4107-9153-8a887c5979ac"
+
+new entry "MEQ_Shoes_SteelToedBoots"
+using "MEQ_Shoes_Prototype"
+data "RootTemplate" "287e205e-12e3-4b95-a832-44f40c6cf230"
+
+new entry "MEQ_Boots_LeatherSandals"
+using "MEQ_Boots_Prototype"
+data "RootTemplate" "e98bd5ec-7173-4281-a9bc-7d135cc7ac74"
+data "ColorPresetResource" "18f4cf1c-f011-4ddf-bdc2-7dccb0fc2a46"
+
+new entry "MEQ_Shoes_LeatherSandals"
+using "MEQ_Shoes_Prototype"
+data "RootTemplate" "0321c69f-d974-46e2-ac75-083bd40ed2f4"
+data "ColorPresetResource" "18f4cf1c-f011-4ddf-bdc2-7dccb0fc2a46"

@@ -1,0 +1,61 @@
+
+new entry "PWP_Shield_Prototype"
+using "_Shield"
+data "ArmorClass" "2"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Rare"
+
+
+new entry "PWP_Shield_ParryingDagger"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "4d4d1635-365f-4233-a2fc-57523d7327b8"
+
+new entry "PWP_Dagger_DaggerB_1"
+using "WPN_Dagger_1"
+data "RootTemplate" "6bf7eb00-fc3b-443a-9d06-7eb351425be6"
+
+new entry "PWP_Shield_ParryingKnife"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "8651342e-9cf1-4ca8-bd81-c373263a1e0f"
+
+new entry "PWP_Shield_DrowParryingDagger"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "96043aa3-9dbb-4aae-87b0-f667609d2e7d"
+
+new entry "PWP_Dagger_DrowDagger_1"
+using "WPN_Dagger_1"
+data "RootTemplate" "5f6f7cd3-2ce5-4362-992c-9b2395943e03"
+
+
+new entry "PWP_Shield_Shortsword"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "1e20fc28-8d15-4ca3-95e2-ea4824a23d5b"
+
+new entry "PWP_Shield_Shortsword_Sidearm"
+using "PWP_Shield_Shortsword"
+data "RootTemplate" "8cbbd1a9-a294-4ac7-b886-4fe603dc9b63"
+
+new entry "PWP_Shield_Shortsword_1"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "cfb0b7dc-8923-42a3-8840-fd369cae5d11"
+
+new entry "PWP_Shield_Shortsword_1_Sidearm"
+using "PWP_Shield_Shortsword_1"
+data "RootTemplate" "27fff19c-a44c-40f7-9b39-51098b10b140"
+
+
+new entry "PWP_Shield_ParryingStaff"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "53f0f714-2698-472e-836e-6d348375272b"
+
+new entry "PWP_Shield_WalkingStaff"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "5f246616-f1f7-4827-ae20-23863525d264"
+data "Proficiency Group" "None"
+data "ArmorClass" "0"
+
+
+new entry "PWP_Shield_Wand"
+using "PWP_Shield_Prototype"
+data "RootTemplate" "7e03c3a5-35d4-449d-8c60-32a5e7431777"

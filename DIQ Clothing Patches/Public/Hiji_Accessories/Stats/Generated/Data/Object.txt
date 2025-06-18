@@ -1,0 +1,9 @@
+
+new entry "OBJ_Backpack_Trinkets"
+type "Object"
+using "_Container"
+data "RootTemplate" "f65610bf-4856-4141-9858-41587c9c1fc8"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Rare"
+

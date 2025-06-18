@@ -1,0 +1,519 @@
+
+new entry "OBJ_Kascayde_Lingerie_Drawer"
+type "Object"
+using "_Container"
+data "RootTemplate" "a95eff98-6ac9-4520-b158-21b96cd8aecc"
+data "Weight" "0.1"
+data "GameSize" "Medium"
+data "Rarity" "VeryRare"
+data "ValueOverride" "1"
+
+new entry "OBJ_Kascayde_Lingerie_Masc"
+type "Object"
+using "_Container"
+data "RootTemplate" "228c4eee-5d0a-44b9-ad5a-029b4905b9e8"
+data "Weight" "0.1"
+data "GameSize" "Medium"
+data "Rarity" "VeryRare"
+data "ValueOverride" "1"
+
+new entry "OBJ_Kascayde_Lingerie_Fem"
+type "Object"
+using "_Container"
+data "RootTemplate" "7dacd77c-fbe6-47c4-a2df-59a237eb8304"
+data "Weight" "0.1"
+data "GameSize" "Medium"
+data "Rarity" "VeryRare"
+data "ValueOverride" "1"
+
+
+new entry "Kascayde_Incubusppunderwear1"
+using "ARM_Underwear"
+data "RootTemplate" "379d5a57-a55e-4fc6-9caa-5de0d02fae72"
+data "Boosts" ""
+data "PassivesOnEquip" ""
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "Kascayde_HUM_M_FISHNETS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "70d4945e-dfd3-48ce-b6fc-6c4b7c64f29b"
+
+new entry "Kascayde_FISHNETBODYSUIT"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "0ba0d577-c000-4780-9333-f259841b765c"
+
+new entry "Kascayde_F_SUCCUBUS_EXPOSED_FISHNET_TIGHTS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "6edb0e99-0a58-49a8-9271-64e4902419ea"
+
+new entry "Kascayde_F_CLT_SUCCUBUS_BOTTOM_ONLY_WITH_TIGHTS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "3ca5706e-cbf2-453d-b720-b38712a9be81"
+
+new entry "Kascayde_F_SUCCUBUS_EXPOSED_FISHNET_TIGHTS_fishnetboobs"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "f7f9ef34-3b7a-4438-a02e-f8422c66354d"
+
+new entry "Kascayde_M_GUNDERWEAR_PP_NETS_WAIST_GLOVES_TIGHTSV2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "2f35d3c2-a864-48a7-9dc9-aa13a3c36fc9"
+
+new entry "_M_CLT_Githyanki_Underwear_B_PPED2_TIGHTS_WAIST-V2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "bac7b728-8263-40de-8097-54264c884bce"
+
+new entry "Kascayde_F_corset_test"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "6cfdf188-6510-42a0-a736-3be7f787b570"
+
+new entry "Kascayde_F_GITHSUCCUBUS_WAIST_NETS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "6cc3e4a1-7fea-4dfc-8764-2ed855a04f92"
+
+new entry "Kascayde_F_CORSET_E_withsuccbott_tights"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "646b6ac2-52ad-41d3-8995-7f6d106a0781"
+
+new entry "Kascayde_F_CORSET_E_fishnetdrape"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "b91ef655-6d1f-4358-90cc-d28bd0c5e609"
+
+new entry "Kascayde_F_FISHNET_PLAYSUIT"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "506d199d-60fc-4f55-b31c-d333a6abb793"
+
+new entry "Kascayde_INCUBUS_UNDERWEAR_B_EDITV1"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "5874a330-5c9f-4232-853b-8bdca6db4a36"
+
+new entry "Kascayde_INCUBUS_UNDERWEAR_B_EDITV2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "e7a5d416-5f84-464a-9743-c5318c76d6fc"
+
+
+new entry "Kascayde_INCUBUS_UNDERWEAR_B_EDITV3"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "d7467e43-b487-407d-ad9f-69ba5c38a862"
+
+
+new entry "Kascayde_Astarions_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "9194d428-7d9e-43be-8a45-ce8baa118b1b"
+
+
+new entry "Kascayde_F_Lace_Undies"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "67069888-3b37-4b56-a73d-baf9a87f89a6"
+
+new entry "Kascayde_hum_m_playsuit_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "7274b7e0-e1dd-4d4e-bed4-665fda5cdffa"
+
+new entry "Kascayde_ASTARIONS_PP_THONG"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "5561fc38-7768-46b3-81dc-7ff1abe5c695"
+
+new entry "Kascayde_HUM_M_FISHNETS_PP"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "18f87668-fcb8-4b79-89c9-29940cfca0f5"
+
+new entry "Kascayde_HUM_M_FISHNETBODYSUIT_PP"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "19b43cc6-8944-4780-a440-92805913ed11"
+
+new entry "Kascayde_F_CORSET_SUCCUBUS_EXPOSEDBRA_NETS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "5b12f3fc-9b16-4fc3-86c1-29ee60fa3524"
+
+new entry "Kascayde_F_CORSET_SUCCUBUS_EXPOSEDBRAANDBOT"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "272be90e-e112-4528-a4e2-bc54262d2e76"
+
+new entry "Kascayde_F_CORSET_SUCCUBUS_STOCKINGS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "09fc08b0-7ec8-4474-b20b-9f850f0c2f16"
+
+new entry "Kascayde_F_CORSET_SUCCUBUS_EXPOSEDBRA"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "111d13b3-f833-447e-81f0-143002cf387d"
+
+new entry "Kascayde_FISHNET_GLOVES"
+using "_Hand"
+data "RootTemplate" "79f399a9-f331-40dc-8ad7-651ed8f226ed"
+data "Boosts" ""
+data "PassivesOnEquip" ""
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "Kascayde_F_FISHNETPLAYSUIT_nude"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "a56e786b-4a7f-45fa-992a-9bf3393ec552"
+
+new entry "Kascayde_F_Courtesan_Corset_set"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "e55e5a7c-dce4-404e-8712-0e266bd15e55"
+
+new entry "Kascayde_M_blindfold"
+using "ARM_Circlet"
+data "RootTemplate" "d36df2a1-7ed3-4721-b268-c6d18bfb7e22"
+data "Boosts" ""
+data "PassivesOnEquip" ""
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "Kascayde_F_GITHSUCCUBUS_exposed"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "6d2f0c53-3915-43ff-bcc5-91aad868e383"
+
+new entry "Kascayde_M_GUNDERWEAR_covered"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "b8305af1-c9cf-4b3c-87c2-6b34fcee4e32"
+
+new entry "Kascayde_M_ittybittythongie"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "58e33f93-c8d7-48be-86a7-66563591026b"
+
+new entry "Kascayde_F_Lace_Underwear_A_NOBOOBPADS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "56e55d80-97fd-4b85-afa0-11327edad980"
+
+new entry "Kascayde_F_fishnet_suit_laebra"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "70af1679-0ace-46c2-a6cb-dfaed0cd48bd"
+
+new entry "Kascayde_M_tieflings_bikini"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "f041d1c1-3107-4d4f-8e2d-da4852e5a08a"
+
+new entry "Kascayde_M_halflings_bottom"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "7e6d8649-5bec-4bf9-94a6-472fded0c34e"
+
+new entry "Kascayde_F_CORSET_B_v1"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "a29bede8-11e7-483b-abdc-0882cd0a3ca4"
+
+new entry "Kascayde_F_CORSET_B_v2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "8eaa2fb8-6d59-425d-9072-ab5d969a0988"
+
+new entry "Kascayde_F_CORSET_B_v3"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "80e5a070-8d8e-4021-a30e-870c186a5307"
+
+new entry "Kascayde_F_CORSET_B_v4"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "5fd1848d-a6c5-47d9-9b2a-2aa37353d484"
+
+new entry "Kascayde_F_fishnet_suit_nude"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "88a73164-c63e-4d23-9048-e152a58a2325"
+
+new entry "Kascayde_F_corset_A_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "20f2e3d2-752e-4d67-b75d-ac53d0d23b86"
+
+new entry "Kascayde_F_CORSET_B_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "34c68d45-5968-44bc-88f9-01bd6f7a8f76"
+
+new entry "Kascayde_F_CORSET_C_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "b9db0827-08ea-4f3f-aa50-63e683e72b5c"
+
+new entry "Kascayde_F_Courtesan_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "2cae2529-f368-4c16-8b0b-7dbdeac953c8"
+
+new entry "Kascayde_F_succubus_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "5543ed69-a1df-4e64-8478-c34c74d06ec0"
+
+new entry "Kascayde_F_succubus_thong_exposed"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "a76228e2-195f-4c77-9172-c1b91f7a5e0a"
+
+new entry "Kascayde_F_corset_A"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "2bfdcd24-f893-4fed-86bb-df3dd53674dd"
+
+new entry "Kascayde_F_CORSET_B"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "f732933b-f50b-4a87-bf23-4552e0f10798"
+
+new entry "Kascayde_F_CORSET_C"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "7d1be17e-bc60-4ecc-a59a-be602a769e3e"
+
+new entry "Kascayde_F_Courtesan"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "11c69daf-d123-40b6-8795-7b8c699878c5"
+
+new entry "Kascayde_M_Incubus_new_v1"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "71c931fd-ed37-432c-9c0c-0a3417c76aff"
+
+new entry "Kascayde_M_Incubus_new_v2_PP"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "3d68ac60-c07c-4fa8-9113-2d1d3f3b9c8c"
+
+new entry "Kascayde_M_Corset_B_top_incubus"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "ba42de5a-60d5-4431-b468-d2014a17dc21"
+
+new entry "Kascayde_M_SHEER_BIKINI"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "b9bf76ce-5022-4119-afd3-eef560a73448"
+
+new entry "Kascayde_M_SHEER_UNDERWEAR_A"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "9435415a-36ec-4a36-a6bd-b38c9161f504"
+
+new entry "Kascayde_M_halflings_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "0e6923de-17e2-4a65-9f85-dca03985505a"
+
+new entry "Kascayde_M_corset_b_incubus_v2_PP"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "1a060db7-ff39-4a65-8303-c577361e02d1"
+
+new entry "Kascayde_M_Corset_E_top_incubus"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "8156bebc-a0c9-4b1b-9ac9-5bc4dbd8330d"
+
+new entry "Kascayde_M_corset_E_incubus_v2_PP"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "aa1a73d4-a0f0-4df2-b493-2b36d26d0521"
+
+new entry "Kascayde_F_Halfling_Underwear_V1"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "4742ed77-5c0a-4f40-8ccb-b48a8f6b4d28"
+
+new entry "Kascayde_F_Halfling_Underwear_V2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "69314f8b-920f-4ee9-9d6e-b9852e50c0b7"
+
+new entry "Kascayde_F_Gnomes_Underwear_V1"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "3135bbe8-cba3-4427-ba28-b9d78fa309b2"
+
+new entry "Kascayde_F_CORSET_D_v1"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "95901fc1-9bee-48d7-9de1-18bdb70a3e05"
+
+new entry "Kascayde_F_CORSET_D_v2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "8ac4cccd-3390-4499-9e4b-d6184f10da9e"
+
+new entry "Kascayde_F_CORSET_D_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "b842645f-9f0c-4eb9-874b-9ec4dad31c9b"
+
+new entry "Kascayde_F_CORSET_D"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "233360a3-f88e-4e78-b7e7-251fa20c2c96"
+
+new entry "Kascayde_F_halfling_thong_set"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "ded6c92e-7dd8-438d-9a82-cd975a7b7a80"
+
+new entry "Kascayde_F_halfling_thong_tights"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "2313ba4a-1bfb-4ddd-9fd5-0220c48ba791"
+
+new entry "Kascayde_F_halfling_thong_only"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "45a845a4-9ea3-4220-acbd-0791034a01ba"
+
+new entry "Kascayde_F_Succubus_Simple_Set"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "d9a7b929-d149-479d-840b-8242cb93eea5"
+
+new entry "Kascayde_F_Succubus_Simple_Set_exposed_bra"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "395557b6-9ff2-4383-ba4a-a88522b5099b"
+
+new entry "Kascayde_F_Succubus_Simple_Set_exposed_bra_bot"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "cd1aee70-d5e6-418e-8a78-831be3696ed4"
+
+new entry "Kascayde_M_FLORAL_BIKINI"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "911734e2-320c-4f94-8085-ed6d629e3881"
+
+new entry "Kascayde_M_FLORAL_UNDERWEAR_A"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "76038342-e4df-492c-a178-013c0bc67d35"
+
+new entry "Kascayde_F_Elves_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "5fbd953c-8c19-48ca-8c47-110fa0886d13"
+
+new entry "Kascayde_F_Rose_Lace_Undies"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "e8544810-dde1-49bb-8fae-e2760f326a18"
+
+new entry "Kascayde_F_Rose_Lace_Underwear_A_NOBOOBPADS"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "5696337c-5a4a-4412-b373-e1f1d4174dea"
+
+new entry "Kascayde_F_Succubus_Simple"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "ed7f91ee-9212-4cc0-b712-520b2e7a0452"
+
+new entry "Kascayde_F_Succubus_Simple_exposed_bra"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "d96766f9-4a39-42d3-81d7-3308686abfb4"
+
+new entry "Kascayde_F_Succubus_Simple_exposed"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "8043f3df-0ff6-4e75-be29-34fcc8ca5599"
+
+new entry "Kascayde_F_Succubus_Simple_Setv2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "ea6980f3-4b8b-4665-af25-dc6d40cc0a05"
+
+new entry "Kascayde_F_Succubus_Simple_Set_exposed_brav2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "802265fd-8861-47a2-890c-2494bc51a602"
+
+new entry "Kascayde_F_Succubus_Simple_Set_exposed_bra_botv2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "ea9108d7-181e-4752-9039-5598df372e07"
+
+new entry "Kascayde_F_Gnomes_Underwear_V1"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "949da8e5-47a3-45be-805b-d933bac0c6fd"
+
+new entry "Kascayde_F_Gnomes_Underwear_V_2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "fc5a071d-ea99-4854-ad55-3a643bb980a7"
+
+new entry "Kascayde_M_Incubus_new_PP_ppv2"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "ad39685c-e371-4369-958b-4cdd34a3678d"
+
+new entry "Kascayde_M_Corset_B_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "8b735cd4-7871-4cc8-bd14-f61e540985ec"
+
+new entry "Kascayde_M_corset_b_thong_PP"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "a64a522f-f04d-4742-9f02-41e2ae56e378"
+
+new entry "Kascayde_M_Corset_E_thong"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "8b28daf0-c11b-4958-8194-8733b79269de"
+
+new entry "Kascayde_M_corset_E_thong_PP"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "9428df2f-2bc3-419f-ba00-19dc0c823c07"
+
+new entry "Kascayde_M_Corset_B"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "0ee351d4-4815-4cbc-a30b-d96e742d877e"
+
+new entry "Kascayde_M_Corset_E"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "73b639aa-9d2c-4f5b-b513-3d5b78e05993"
+
+new entry "Kascayde_M_playsuit"
+type "Armor"
+using "Kascayde_Incubusppunderwear1"
+data "RootTemplate" "f835d728-d677-4e7d-9358-827e99000534"
+

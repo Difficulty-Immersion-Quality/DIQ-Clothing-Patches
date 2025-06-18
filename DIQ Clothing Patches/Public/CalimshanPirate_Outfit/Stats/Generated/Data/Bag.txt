@@ -1,0 +1,7 @@
+new entry "CalimshanPirate_Bag"
+type "Object"
+using "_Container"
+data "RootTemplate" "8dab848e-4c43-4552-91c0-f581d94ff1bb"
+data "ValueOverride" "1"
+data "Rarity" "Legendary"
+data "Weight" "0.1"

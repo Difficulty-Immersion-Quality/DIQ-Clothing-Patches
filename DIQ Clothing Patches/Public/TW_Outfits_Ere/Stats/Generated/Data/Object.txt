@@ -1,0 +1,9 @@
+new entry "TW_Gear_Ere"
+type "Object"
+using "_Container"
+data "RootTemplate" "c85e615f-74f5-4aa3-b000-cfd8a90462a4"
+data "ValueOverride" "1"
+data "Weight" "1"
+data "Rarity" "Rare"
+
+

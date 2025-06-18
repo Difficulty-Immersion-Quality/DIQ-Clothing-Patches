@@ -1,0 +1,36 @@
+new entry "TW_Daemon"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "55b38df0-72a9-4dd0-9649-84c1cf61e0e0"
+data "ArmorClass" "10"
+data "Armor Class Ability" "Dexterity"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "TW_Daemon_FW"
+type "Armor"
+using "_Foot"
+data "RootTemplate" "ee817ea7-ed2e-4656-9a39-5aa38519d090"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "TW_Daemon_G"
+type "Armor"
+using "_Hand"
+data "RootTemplate" "f707dfb7-26cf-4788-a75b-0be2041970cf"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "TW_Daemon_HW"
+type "Armor"
+using "ARM_Hat"
+data "RootTemplate" "3cb12297-e75f-480e-9b44-5d4502a11a2d"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+
+

@@ -1,0 +1,9 @@
+new entry "TW_Gear_Daem"
+type "Object"
+using "_Container"
+data "RootTemplate" "5c9921f7-587e-4485-bbca-cc4885a67659"
+data "ValueOverride" "1"
+data "Weight" "1"
+data "Rarity" "Legendary"
+
+

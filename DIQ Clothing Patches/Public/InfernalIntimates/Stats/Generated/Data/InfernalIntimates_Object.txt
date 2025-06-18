@@ -1,0 +1,7 @@
+new entry "NKJ_CON_InfernalIntimates"
+type "Object"
+using "_Container"
+data "RootTemplate" "79aa9357-0fe9-409f-9842-9d9c803d87f3"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Rare"

@@ -1,0 +1,52 @@
+
+new entry "DWE_Body_Ciri_Gear"
+using "ARM_Robe_Body"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "9f5b4d04-a4e0-4d7b-a5a2-18dc092400aa"
+data "PassivesOnEquip" ""
+
+new entry "DWE_Body_Ciri_Clothes"
+using "DWE_Body_Ciri_Gear"
+data "RootTemplate" "a9c9530d-6787-4354-9d08-1ff40a8587da"
+
+
+new entry "DWE_Camp_Ciri_Gear"
+using "ARM_Camp_Body"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "158e41b2-dcb4-4cc6-898c-3313efb81625"
+
+new entry "DWE_Camp_Ciri_Clothes"
+using "DWE_Camp_Ciri_Gear"
+data "RootTemplate" "7bd3322f-635b-44fa-b6c4-a4031fd46fff"
+
+
+new entry "DWE_Cloak_Ciri_Shirt"
+using "ARM_Cloak"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "c70edcd4-cb11-4b88-ace1-d31365831b3d"
+
+new entry "DWE_Cloak_Ciri_Shirt_Accessories"
+using "DWE_Cloak_Ciri_Shirt"
+data "RootTemplate" "0cb2ae74-4edc-448b-b6d2-d7febd71f56a"
+
+
+new entry "DWE_Boots_Ciri_Boots"
+using "ARM_Boots_Leather"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "e2962d85-a251-4397-aa4e-e2654596662c"
+
+
+new entry "DWE_Camp_Ciri_Boots"
+using "ARM_Camp_Shoes"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "d1e7110c-a7ab-4368-bd06-12895e50ad0a"

@@ -1,0 +1,9 @@
+new entry "TW_Gear__FF4"
+type "Object"
+using "_Container"
+data "RootTemplate" "1d657916-f499-452d-87d9-4b08d60410c4"
+data "ValueOverride" "1"
+data "Weight" "1"
+data "Rarity" "Uncommon"
+
+

@@ -1,0 +1,24 @@
+///
+///     "new entry" is the same name which you created for the "Stats" section of the _merged.lsx file.
+///
+///     "RootTemplate" is the same UUID which was generated for the MapKey, inside of the _merged.lsx file.
+///
+///     "ValueOverride" determines how much gold the container is worth.
+///
+///     "Weight" determines how much the container weighs in pounds.
+///
+///     Available Rarities:
+///     Common      | Blank/Default
+///     Uncommon    | Green
+///     Rare        | Blue
+///     VeryRare    | Red
+///     Legendary   | Yellow
+///
+
+new entry "OBJ_CelestialThreads_Container"
+type "Object"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "d63cdbb3-238f-4033-a059-12b81a43edea"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Legendary"

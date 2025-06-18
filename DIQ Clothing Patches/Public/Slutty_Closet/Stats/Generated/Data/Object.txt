@@ -1,0 +1,7 @@
+new entry "CBR_OBJ_Slutty_Backpack"
+type "Object"
+using "_Container"
+data "RootTemplate" "7f336944-12e7-49eb-b139-79a2abc810fe"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "VeryRare"

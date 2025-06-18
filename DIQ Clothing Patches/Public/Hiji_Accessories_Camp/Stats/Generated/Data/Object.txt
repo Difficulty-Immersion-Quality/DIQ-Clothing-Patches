@@ -1,0 +1,9 @@
+
+new entry "OBJ_Backpack_Trinkets_Underwear"
+type "Object"
+using "_Container"
+data "RootTemplate" "c3e00604-0775-412a-81b9-5319bd77b53d"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Rare"
+

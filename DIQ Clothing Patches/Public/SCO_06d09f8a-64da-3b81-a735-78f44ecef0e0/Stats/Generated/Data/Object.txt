@@ -1,0 +1,8 @@
+new entry "SCO_CONT_Chest_Outfit"
+type "Object"
+using "_Container"
+data "RootTemplate" "c659fff6-302e-4d5d-837a-8625bd0ac86f"
+data "MinLevel" "1"
+data "Rarity" "Common"
+data "ValueOverride" "1"
+data "Weight" "0.1"

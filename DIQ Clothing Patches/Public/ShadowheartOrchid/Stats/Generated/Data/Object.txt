@@ -1,0 +1,8 @@
+new entry "Kinn_Shadowheart_Orchid_Container"
+type "Object"
+using "OBJ_Chest_Heavy"
+data "RootTemplate" "daf600c6-d1b7-477b-9d64-e45017f3c443"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Vitality" "7"
+data "Rarity" "Rare"

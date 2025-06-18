@@ -1,0 +1,7 @@
+new entry "ARM_bububull_reddress"
+type "Armor"
+using "ARM_Camp_Body"
+data "RootTemplate" "c90fd570-0168-4af0-a630-441077971c1e"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Common"

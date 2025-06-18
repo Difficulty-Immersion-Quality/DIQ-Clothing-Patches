@@ -1,0 +1,57 @@
+
+new entry "DWE_Body_Ciri_Gear_MSK"
+using "ARM_Robe_Body"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "5ecc73d0-b312-4dc8-b399-dd5d77666d5e"
+data "ColorPresetResource" "4b5db936-0c8d-453f-ae1b-8ad6bf2ccccc"
+data "PassivesOnEquip" ""
+
+new entry "DWE_Body_Ciri_Clothes_MSK"
+using "DWE_Body_Ciri_Gear_MSK"
+data "RootTemplate" "ecd6d1bc-e954-467a-a3ba-f833c857817e"
+
+
+new entry "DWE_Camp_Ciri_Gear_MSK"
+using "ARM_Camp_Body"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "d4184c30-f1d7-4444-83dd-4520604c17e5"
+data "ColorPresetResource" "4b5db936-0c8d-453f-ae1b-8ad6bf2ccccc"
+
+new entry "DWE_Camp_Ciri_Clothes_MSK"
+using "DWE_Camp_Ciri_Gear_MSK"
+data "RootTemplate" "2cc274c9-03f1-47c8-8141-68233eb17e02"
+
+
+new entry "DWE_Cloak_Ciri_Shirt_MSK"
+using "ARM_Cloak"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "bc4ce609-c75c-4457-8ef0-be3b10940231"
+data "ColorPresetResource" "4b5db936-0c8d-453f-ae1b-8ad6bf2ccccc"
+
+new entry "DWE_Cloak_Ciri_Shirt_Accessories_MSK"
+using "DWE_Cloak_Ciri_Shirt_MSK"
+data "RootTemplate" "6db4e275-21be-4222-8166-d500f9bb2ef9"
+
+
+new entry "DWE_Boots_Ciri_Boots_MSK"
+using "ARM_Boots_Leather"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "c0b54cfe-9ece-45fe-8633-2ddd0483f540"
+data "ColorPresetResource" "4b5db936-0c8d-453f-ae1b-8ad6bf2bbbbb"
+
+
+new entry "DWE_Camp_Ciri_Boots_MSK"
+using "ARM_Camp_Shoes"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "RootTemplate" "4a26b12c-6dea-4c89-9f02-985ea2fdeab5"
+data "ColorPresetResource" "4b5db936-0c8d-453f-ae1b-8ad6bf2bbbbb"

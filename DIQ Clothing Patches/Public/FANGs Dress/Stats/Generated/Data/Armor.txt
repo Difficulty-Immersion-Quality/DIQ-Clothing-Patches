@@ -1,0 +1,33 @@
+new entry "OBJ_Kascayde_FANGsDress_chest"
+type "Object"
+using "_Container"
+data "RootTemplate" "ee7ab27d-56ff-4988-9bc4-74e540a85a4c"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Common"
+
+new entry "Kascayde_F_FANG_Dress"
+using "ARM_Robe_Body"
+data "RootTemplate" "8e9b44ba-0881-43bc-aa13-ab619960c7e0"
+data "Boosts" ""
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "Kascayde_F_FANG_tights"
+using "ARM_Underwear"
+data "RootTemplate" "82c64b5d-276e-413a-91a9-fe9c1c078c43"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "Kascayde_F_FANG_hat"
+using "ARM_Cloak"
+data "RootTemplate" "4805de92-49bf-43d4-8aef-f9e32e1b8a49"
+data "ValueOverride" "1"
+data "Boosts" ""
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+
+
