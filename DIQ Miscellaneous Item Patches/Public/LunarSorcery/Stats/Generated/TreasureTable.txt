@@ -1,0 +1,4 @@
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_LunarSorceryDye",1,0,0,0,0,0,0,0

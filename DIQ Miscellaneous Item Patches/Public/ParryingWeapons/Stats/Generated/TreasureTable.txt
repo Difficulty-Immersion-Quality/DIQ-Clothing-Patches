@@ -1,0 +1,32 @@
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_PWP_Item_Container",1,0,0,0,0,0,0,0
+
+
+new treasuretable "PWP_Item_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_PWP_Shield_ParryingDagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Dagger_DaggerB_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_ParryingKnife",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_DrowParryingDagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Dagger_DrowDagger_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_Shortsword_Sidearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_Shortsword_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_Shortsword_1_Sidearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_ParryingStaff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_WalkingStaff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PWP_Shield_Wand",1,0,0,0,0,0,0,0

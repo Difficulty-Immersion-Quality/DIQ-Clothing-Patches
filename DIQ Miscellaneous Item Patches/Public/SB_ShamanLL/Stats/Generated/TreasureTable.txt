@@ -1,0 +1,8 @@
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_SB_Cursebringer_Conduit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SB_SpiritWarrior_Conduit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SB_WitchDoctor_Conduit",1,0,0,0,0,0,0,0

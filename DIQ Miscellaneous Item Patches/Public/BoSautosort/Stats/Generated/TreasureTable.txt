@@ -1,0 +1,53 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "BOS_Treasure_Bags"
+new subtable "1,1"
+object category "I_BOS_ee20a494e8be4f41a0dd1c3f47bfd616",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_de2822bb93e14474b0d417a3be907a5e",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_a68d68687b964afe9b1ee7cb98fb0718",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_c9acc792baa745e0bc5b74c59d5d2d8d",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_9df8142b081941a0aca5c4cdeb780470",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_8f83e3d4ff224275bfe5372d999e226d",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_f5dc078a33264f9b8f49654e56cb6284",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_dd1f792c33b348cc813e55a78fa5ad0f",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_42c0b583d5a64e99b6d618345eabf684",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_5b2c7c4ce6f9486da05bf9aba863e0c4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_15f50ff4ff9640d3a32e7e3896fcaa8f",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_6e5bfb478d1c430eb83e2018d99f021c",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_0448c83b6de348bc81f4f51e87967601",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_6dd3dc2a1b4b473180abd5344f5658e7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_4bf9662e34bf4dfab156df2f5c5d9c1f",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_96853ec5abc24d4f96278ef71461056e",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_d923ef13ce6e45d9aebb17e40fae00a1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_8d4f681e16fb4e09b5d5de983a30fe61",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_477a493f2c5b40508f196faa1fbfe183",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_b545d5b86d4b455db3944a607b1fdb94",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_5239fe77903445558c28e27d709ea43d",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BOS_033a5a0ddbeb45ce9c5e23ba29943d96",1,0,0,0,0,0,0,0
+
+
+
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_BOS_Bags_Bags",1,0,0,0,0,0,0,0

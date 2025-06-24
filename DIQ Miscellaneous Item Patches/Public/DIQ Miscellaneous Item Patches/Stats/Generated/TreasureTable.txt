@@ -1,0 +1,37 @@
+// JWL Crafting Framework - Withers injector
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_VR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC2S",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC3S",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC4S",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Scribes_Tools_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Scribes_Tools_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Scribes_Tools_VR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_MortarPestle_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_MortarPestle_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_JewelersTools_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_JewelersTools_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_JewelersTools_VR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Cooking_Cauldron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Cooking_Pan",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Cooking_Board",1,0,0,0,0,0,0,0

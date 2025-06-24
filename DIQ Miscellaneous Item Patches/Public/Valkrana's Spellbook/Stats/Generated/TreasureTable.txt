@@ -1,0 +1,97 @@
+//Applicable stores auto-populate when using T_Supply_Scrolls.
+new treasuretable "ValkranasSpellbook_Scrolls"
+new subtable "1,1"
+object category "I_OBJ_Scroll_Valkrana_SkeletalLemmings",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaShadowfellSalvo",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaUnsealSoul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaCorpseGrenade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaBoneLiquefaction",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaImpartUndeath",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaSkeleport",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaNegativeEnergyField",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaDreadSkeleton",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaArcVivisector",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaBoneEmperor",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "6,1"
+object category "I_OBJ_Potion_BoneLearningJuice",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Valkrana_SkeletalLemmings",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaShadowfellSalvo",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaUnsealSoul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaCorpseGrenade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaBoneLiquefaction",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaImpartUndeath",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaSkeleport",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaNegativeEnergyField",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaDreadSkeleton",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaArcVivisector",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaBoneEmperor",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Valkrana_SkeletalLemmings",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaShadowfellSalvo",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaCorpseGrenade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaBoneLiquefaction",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaSkeleport",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaImpartUndeath",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_Valkrana_SkeletalLemmings",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaShadowfellSalvo",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaUnsealSoul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaCorpseGrenade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaBoneLiquefaction",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaImpartUndeath",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaSkeleport",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaNegativeEnergyField",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ValkranaDreadSkeleton",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_Trade"
+CanMerge 1
+new subtable "0,1;1,1"
+object category "T_ValkranasSpellbook_Scrolls",1,0,0,0,0,0,0,0
+
+new treasuretable "Goblin_LootGoblin"
+CanMerge 1
+new subtable "0,1;1,1"
+object category "T_ValkranasSpellbook_Scrolls",1,0,0,0,0,0,0,0

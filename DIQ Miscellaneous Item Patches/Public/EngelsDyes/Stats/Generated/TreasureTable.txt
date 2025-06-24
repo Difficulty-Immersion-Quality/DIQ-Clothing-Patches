@@ -1,0 +1,37 @@
+new treasuretable "Engels_DyePrism_TT"
+new subtable "1,1"
+object category "I_Engels_Dye_CrimsonAbyss",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_StarryNight",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_Sunset",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_ChampagneRose",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_Inferno",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_Hex",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_BloodySnow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_RoyalFlush",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_PastelVaporwave",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_Tomb",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_CoralMoonstone",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_Limonite",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_ShadowCurse",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_Mondrian",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Engels_Dye_EmeraldGarnet",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Engels_Dyes",1,0,0,0,0,0,0,0

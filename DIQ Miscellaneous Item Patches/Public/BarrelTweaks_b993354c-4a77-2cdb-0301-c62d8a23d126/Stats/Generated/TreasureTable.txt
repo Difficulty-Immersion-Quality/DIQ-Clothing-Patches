@@ -1,0 +1,5 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_XEN_BarrelTweaks_AutoExtractor",1,0,0,0,0,0,0,0

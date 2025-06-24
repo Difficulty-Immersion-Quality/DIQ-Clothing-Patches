@@ -1,0 +1,34 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "SimpleSortingBags_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_SimpleSortingBagsPersonal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsCoating",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsGrenade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsArrow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsScroll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsElixir",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsPotion",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsDye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsBook",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsAccessory",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsArmor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsWeapon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SimpleSortingBagsVanity",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_SimpleSortingBagsMaster",1,0,0,0,0,0,0,0

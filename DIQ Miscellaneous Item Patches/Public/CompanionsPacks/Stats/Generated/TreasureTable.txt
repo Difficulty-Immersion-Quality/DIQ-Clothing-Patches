@@ -1,0 +1,27 @@
+new treasuretable "CompanionsPack_OBJ_Backpack_AllItems_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Astarion",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Gale",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Halsin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Jaheira",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Karlach",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Laezel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Minsc",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Minthara",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Shadowheart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_Wyll",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CompanionsPack_OBJ_Backpack_AllItems",1,0,0,0,0,0,0,0

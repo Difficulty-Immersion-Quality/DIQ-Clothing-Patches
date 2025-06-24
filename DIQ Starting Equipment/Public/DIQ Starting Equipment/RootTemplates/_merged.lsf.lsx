@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h034411c2g3767g48ccgb25bg8cc5fea157bf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2b249b98g8a94g4cb3g96dfg58c442608199" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Astarion" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e78bfd6e-d866-4be4-88b8-51ff784de4da" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Astarion_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Astarion_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Astarion_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h89de48e3g040cg46d6g9b80gbdb59425c530" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9edda6bbgfb8bg476cg9088g4eff363a6fe3" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Gale" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="15af0cff-c62f-4451-898f-d11bac1a4e8f" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Gale_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Gale_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Gale_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hf61e99acgca47g4fc9gaba4gbf9c52414d6e" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd7408428gf197g4619ga040g91ab234d3f12" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Karlach" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c4eb20c2-945e-491b-a968-dd7c24a4f74c" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Karlach_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Karlach_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Karlach_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h39f65f3fgfce7g48ddgb735gf85c642e97fa" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0e183560g993bg46fbga806g6646e304607b" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Laezel" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ca24bf57-7e3e-4e70-99e0-ca4a206fac5c" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Laezel_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Laezel_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Laezel_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd74eb532gef53g46cdg9f67g20644c17f9f0" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h39a1f96fgdfc0g47d3gb1e9g942b935bd6d7" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Shadowheart" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2323aa0a-9f9e-419e-a326-a8f9774579ab" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Shadowheart_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Shadowheart_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Shadowheart_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h2630e633g189eg44a2gaee4g5dc14a3d5908" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfe13a48dg031bg48bdgb80eg6f855b981506" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Wyll" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2e534ac4-0a67-4a3b-8afe-4b1ac23bf3cd" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Wyll_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Wyll_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Wyll_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h7fbac1c2g26d9g4490g9fa9ge646220ae5de" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4e5439c0g72f0g429bgbbffgd301e2fb30c0" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Halsin" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4eb69353-2155-4a06-b052-5403e1518b6a" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Halsin_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Halsin_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Halsin_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hda39c33cg9ac6g4260g8d94g8feabfeb13da" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4a8e767fgf0a7g41bfgbcbcg8b8558878c37" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Minthara" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0fdd2ef5-f66c-46a8-946e-8d5fa0dff740" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Minthara_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Minthara_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Minthara_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h682d56ceg1d31g4deeg9218g71b10e40bb47" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha17b76a8g8059g4e70ga63fgfccd0080d7c7" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Minsc" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bf85fdbf-af9b-4140-a125-74552f6f26e7" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Minsc_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Minsc_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Minsc_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h0bd7ff56g7f5eg423egb83aga333b980df60" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfb1e1849g7709g4367g9a59g7b8e60b81fb1" version="1" />
+					<attribute id="Icon" type="FixedString" value="CompanionsPacks_Icon_Jaheira" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="26d7c4de-a8fc-4289-bdf1-3afac3434efa" />
+					<attribute id="Name" type="LSString" value="CompanionsPack_OBJ_Backpack_Jaheira_Start" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="CompanionsPack_OBJ_Backpack_Jaheira_Start" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CompanionsPack_OBJ_Backpack_Jaheira_Start_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

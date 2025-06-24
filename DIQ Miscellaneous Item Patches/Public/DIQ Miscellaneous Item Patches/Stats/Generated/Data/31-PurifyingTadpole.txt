@@ -1,0 +1,4 @@
+new entry "SIAEL_Purifying_Tadpole"
+type "Object"
+using "SIAEL_Purifying_Tadpole"
+data "ValueOverride" "1"

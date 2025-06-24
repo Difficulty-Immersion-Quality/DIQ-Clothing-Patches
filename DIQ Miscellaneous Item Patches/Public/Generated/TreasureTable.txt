@@ -1,0 +1,53 @@
+//new subtable "1,1"
+//object category "I_MindWeaver_Custom_Robe_One",1,0,0,0,0,0,0,0
+//new subtable "1,1"
+//object category "I_MindWeaver_Custom_Bracers_One",1,0,0,0,0,0,0,0
+//new subtable "1,1"
+//object category "I_MindWeaver_Custom_Boots_One",1,0,0,0,0,0,0,0
+//new subtable "1,1"
+//object category "I_MindWeaver_Custom_Cowl_One",1,0,0,0,0,0,0,0
+//new subtable "1,1"
+//object category "I_MindWeaver_Custom_Ring_One",1,0,0,0,0,0,0,0
+//new subtable "1,1"
+//object category "I_MindWeaver_Custom_Amulet_One",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_MINDWEAVER_MindReaver_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MINDWEAVER_AstralSeer_dye",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_MINDWEAVER_MindReaver_Hood",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PSIONICWARDEN_Cowl",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PSIONICWARDEN_Cowl",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MINDWEAVER_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MINDWEAVER_AstralSeer_robe",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_MindWeaver_Custom_Bracers_One",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MindWeaver_Custom_Ring_One",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_MindWeaver_Custom_Cowl_One",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MindWeaver_Custom_Boots_One",1,0,0,0,0,0,0,0
+
+new treasuretable "SHA_MerregonTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_MindWeaver_Custom_Robe_One",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MindWeaver_Custom_Amulet_One",1,0,0,0,0,0,0,0

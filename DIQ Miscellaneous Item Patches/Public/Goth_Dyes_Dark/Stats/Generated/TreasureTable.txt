@@ -1,0 +1,54 @@
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Container_Goth_Dyes_Dark",1,0,0,0,0,0,0,0
+
+new treasuretable "PO_Container_Goth_Dyes_Dark"
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Silver_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Silver_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Red_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Red_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Purple_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Purple_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Darkblue_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Darkblue_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Teal_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Teal_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Pink_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Pink_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Green_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Green_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+CanMerge 1
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Remover_Dark_Metal",1,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+new treasuretable "IPO_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_SIAEL_Purifying_Tadpole",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_SIAEL_Purifying_Tadpole",1,0,0,0,0,0,0,0

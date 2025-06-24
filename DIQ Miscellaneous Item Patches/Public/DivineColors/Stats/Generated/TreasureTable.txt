@@ -1,0 +1,16 @@
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Avernus_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Bloodandfire",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Original_Sin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Divine_elegance",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Baron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Blood_baron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_white_wolf",1,0,0,0,0,0,0,0

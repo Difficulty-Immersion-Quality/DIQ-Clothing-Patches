@@ -1,0 +1,54 @@
+new treasuretable "RW_Dye_Backpack_Content"
+CanMerge 1
+new subtable "1,1"
+object category "I_RW_Dye_RedDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlueDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_WhiteDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_GreenDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_GoldDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_SilverDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BronzeDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_CopperDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BrassDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_PlatinumDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackRedDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackBlackDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackBlueDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackWhiteDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackGreenDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackGoldDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackSilverDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackBronzeDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackCopperDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackBrassDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BlackPlatinumDragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_RW_Dye_BhaalGoldDragon",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_RW_Dye_Backpack",1,0,0,0,0,0,0,0

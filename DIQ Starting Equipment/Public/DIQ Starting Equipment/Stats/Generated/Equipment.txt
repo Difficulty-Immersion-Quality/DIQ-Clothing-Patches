@@ -1,0 +1,443 @@
+new equipment "EQ_Shadowheart"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Mace"
+add equipmentgroup
+add equipment entry "CSS_Boots_ConceptSHeart_Start"
+add equipmentgroup
+add equipment entry "ARM_Shield"
+add equipmentgroup
+add equipment entry "CSS_ARM_ConceptSHeart_Start"
+add equipmentgroup
+add equipment entry "UNI_ShadowheartCirclet"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Shadowheart"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Shadowheart"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Shadowheart"
+add equipmentgroup
+add equipment entry "CSS_SCARF_ConceptSHeart_Start"
+add equipmentgroup
+add equipment entry "CSS_GLOVE_ConceptSHeart_Start"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Shadowheart_Start"
+
+new equipment "EQ_Wyll"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Rapier"
+add equipmentgroup
+add equipment entry "ARM_Shoes_E_Wyll"
+add equipmentgroup
+add equipment entry "ARM_Wyll_Keyart_Start"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Wyll"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Wyll"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Wyll"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Wyll_Start"
+
+new equipment "EQ_Laezel"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Longsword"
+add equipmentgroup
+add equipment entry "WPN_Shortbow"
+add equipmentgroup
+add equipment entry "ARM_Boots_Metal_Githyanki_Start"
+add equipmentgroup
+add equipment entry "J_GTY_ARM_Laezel_Start"
+add equipmentgroup
+add equipment entry "ARM_Gloves_Metal_Githyanki_Start"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Laezel"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Wyll"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Laezel"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Laezel_Start"
+
+new equipment "EQ_Gale"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "Tara_Book"
+add equipmentgroup
+add equipment entry "WPN_HUM_Quarterstaff_BSG_Gale_Aza"
+add equipmentgroup
+add equipment entry "ARM_BSG_Boots_Gale_Aza"
+add equipmentgroup
+add equipment entry "ARM_BSG_BattlemageAttire_Aza"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Gale"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Gale"
+add equipmentgroup
+add equipment entry "SPRW_Camp_Body_GaleRobes"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Gale_Start"
+
+new equipment "EQ_Astarion"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Shortbow"
+add equipmentgroup
+add equipment entry "WPN_Dagger"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "UNI_Astarion_StarterArmor"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Astarion"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Astarion"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Astarion"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Astarion_Start"
+
+new equipment "EQ_Karlach"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Greataxe"
+add equipmentgroup
+add equipment entry "UNI_Karlach_StarterArmor"
+add equipmentgroup
+add equipment entry "UNI_Karlach_Shoes"
+add equipmentgroup
+add equipment entry "WPN_LightCrossbow"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Karlach"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Karlach"
+add equipmentgroup
+add equipment entry "UNI_Karlach_Gloves"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Karlach"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Karlach_Start"
+
+new equipment "EQ_Halsin"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Quarterstaff_Druid"
+add equipmentgroup
+add equipment entry "UNI_Leather_Halsin"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather_Druid"
+add equipmentgroup
+add equipment entry "UNI_Halsin_Gloves"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Halsin"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Halsin"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Halsin"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Halsin_Start"
+
+new equipment "GOB_DrowCommander"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_DrowPoison"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Aza_Drow_Shortsword"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Gloves"
+add equipmentgroup
+add equipment entry "ARM_Aza_Drow_Robe"
+add equipmentgroup
+add equipment entry "MAG_Aza_Drow_Boots"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Minthara"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Minthara"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Minthara"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Minthara_Start"
+
+new equipment "EQP_Jaheira"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Scimitar_1"
+add equipmentgroup
+add equipment entry "MAG_HAV_Sylvan_Scimitar"
+add equipmentgroup
+add equipment entry "UNI_Leather_Jaheira"
+add equipmentgroup
+add equipment entry "UNI_Jaheira_Gloves"
+add equipmentgroup
+add equipment entry "UNI_Jaheira_Boots"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Jaheira"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Jaheira"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Jaheira"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Jaheira_Start"
+
+new equipment "EQP_Minsc"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Greater"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
+add equipmentgroup
+add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+add equipmentgroup
+add equipment entry "WPN_Longsword"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body_Minsc"
+add equipmentgroup
+add equipment entry "ARM_Gloves_Leather_Minsc"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Minsc"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Minsc"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Minsc"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "SimpleSortingBagsMaster"
+add equipmentgroup
+add equipment entry "CompanionsPack_OBJ_Backpack_Minsc_Start"

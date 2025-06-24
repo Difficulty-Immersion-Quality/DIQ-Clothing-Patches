@@ -1,0 +1,55 @@
+// ==================================== Custom starting containers used for OG clothing and auto-sort containers ====================================
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Shadowheart_Start_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_ChainShirt_Body_Shar",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Wyll_Start_TT"
+CanMerge 1
+new subtable "-1" 
+object category "I_ARM_Padded_Body",1,0,0,0,0,0,0,0
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Laezel_Start_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_HalfPlate_Body_Githyanki_Start_OG",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Metal_Githyanki_Start_OG",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Gloves_Metal_Githyanki_Start_OG",1,0,0,0,0,0,0,0
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Gale_Start_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Camp_Body_Gale",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_GaleRobe",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes",1,0,0,0,0,0,0,0
+
+// new treasuretable "CompanionsPack_OBJ_Backpack_Astarion_Start_TT"
+// CanMerge 1
+
+// new treasuretable "CompanionsPack_OBJ_Backpack_Karlach_Start_TT"
+// CanMerge 1
+
+// new treasuretable "CompanionsPack_OBJ_Backpack_Halsin_Start_TT"
+// CanMerge 1
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Minthara_Start_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_GOB_DrowCommander_Mace",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_GOB_DrowCommander_Leather_Armor",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Paladin_MomentumOnConcentration_Boots",1,0,0,0,0,0,0,0
+
+// new treasuretable "CompanionsPack_OBJ_Backpack_Jaheira_Start_TT"
+// CanMerge 1
+
+// new treasuretable "CompanionsPack_OBJ_Backpack_Minsc_Start_TT"
+// CanMerge 1

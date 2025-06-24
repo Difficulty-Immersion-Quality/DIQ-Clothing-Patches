@@ -1,0 +1,151 @@
+// ==================================== Karlach ====================================
+
+new entry "Goon_MAG_DevilsBlackmith_Gloves_Start"
+type "Armor"
+using "MAG_DevilsBlackmith_Gloves"
+data "RootTemplate" "b337cd63-d206-4229-84fd-4b77809f7eb3"
+data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
+data "Rarity" "Common"
+data "Boosts" ""
+data "Unique" ""
+data "ValueOverride" "1"
+
+new entry "Goon_MAG_DevilsBlackmith_Boots_Start"
+type "Armor"
+using "MAG_DevilsBlackmith_Boots"
+data "RootTemplate" "df040e30-b424-4a89-be1b-83ffd57eb5a1"
+data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
+data "Rarity" "Common"
+data "Unique" ""
+data "ValueOverride" "1"
+
+new entry "Goon_MAG_DevilsBlackmith_ScaleMail_Start"
+type "Armor"
+using "MAG_DevilsBlackmith_ScaleMail"
+data "RootTemplate" "5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7"
+data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
+data "Rarity" "Common"
+data "ArmorClass" "13"
+data "Boosts" ""
+data "PassivesOnEquip" ""
+data "StatusOnEquip" ""
+data "Unique" ""
+data "ValueOverride" "1"
+data "Ability Modifier Cap" "2"
+data "Proficiency Group" "MediumArmor"
+
+// ==================================== Wyll ====================================
+new entry "ARM_Wyll_Keyart_Start"
+type "Armor"
+using "ARM_Padded_Body"
+data "RootTemplate" "40f45948-b922-45ba-bffd-83525a874ef1"
+data "ValueOverride" "1"
+
+// ==================================== Lae'zel ====================================
+
+new entry "J_GTY_ARM_Laezel_Start"
+type "Armor"
+using "ARM_HalfPlate_Body_Githyanki"
+data "RootTemplate" "45a16c41-9313-4a07-b57e-13a5795017e2"
+data "ValueOverride" "1"
+data "ColorPresetResource" "91fd9049-0fcb-4e21-a8c9-1e2d433a47be"
+
+new entry "ARM_Boots_Metal_Githyanki_Start"
+type "Armor"
+using "ARM_Boots_Metal_Githyanki"
+data "ColorPresetResource" "91fd9049-0fcb-4e21-a8c9-1e2d433a47be"
+
+new entry "ARM_Gloves_Metal_Githyanki_Start"
+type "Armor"
+using "ARM_Gloves_Metal_Githyanki"
+data "ColorPresetResource" "91fd9049-0fcb-4e21-a8c9-1e2d433a47be"
+
+new entry "ARM_HalfPlate_Body_Githyanki_Start_OG"
+type "Armor"
+using "ARM_HalfPlate_Body_Githyanki"
+
+new entry "ARM_Gloves_Metal_Githyanki_Start_OG"
+type "Armor"
+using "ARM_Gloves_Metal_Githyanki"
+
+new entry "ARM_Boots_Metal_Githyanki_Start_OG"
+type "Armor"
+using "ARM_Boots_Metal_Githyanki"
+
+// ==================================== Shart ====================================
+
+new entry "CSS_ARM_ConceptSHeart_Start"
+type "Armor"
+using "ARM_ChainShirt_Body_Shar"
+data "RootTemplate" "cc6186ff-cff0-47a5-b3d6-e32b38fd9916"
+data "ValueOverride" "1"
+
+new entry "CSS_GLOVE_ConceptSHeart_Start"
+type "Armor"
+using "ARM_Gloves_Metal"
+data "RootTemplate" "1b0ce098-3352-4212-b550-66ca13d1b78e"
+data "ValueOverride" "1"
+
+new entry "CSS_SCARF_ConceptSHeart_Start"
+type "Armor"
+using "_Back_Magic"
+data "RootTemplate" "d0a4b2f1-fd09-4771-be58-65000a063fe8"
+data "ValueOverride" "1"
+
+new entry "CSS_Boots_ConceptSHeart_Start"
+type "Armor"
+using "ARM_Boots_Metal"
+data "RootTemplate" "589f15c6-0d87-4d67-9ea6-2a688434f419"
+data "ValueOverride" "1"
+
+// ==================================== Unique starting packs to store things in ====================================
+
+new entry "CompanionsPack_OBJ_Backpack_Astarion_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Astarion"
+data "RootTemplate" "e78bfd6e-d866-4be4-88b8-51ff784de4da"
+
+new entry "CompanionsPack_OBJ_Backpack_Gale_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Gale"
+data "RootTemplate" "15af0cff-c62f-4451-898f-d11bac1a4e8f"
+
+new entry "CompanionsPack_OBJ_Backpack_Karlach_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Karlach"
+data "RootTemplate" "c4eb20c2-945e-491b-a968-dd7c24a4f74c"
+
+new entry "CompanionsPack_OBJ_Backpack_Laezel_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Laezel"
+data "RootTemplate" "ca24bf57-7e3e-4e70-99e0-ca4a206fac5c"
+
+new entry "CompanionsPack_OBJ_Backpack_Shadowheart_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Shadowheart"
+data "RootTemplate" "2323aa0a-9f9e-419e-a326-a8f9774579ab"
+
+new entry "CompanionsPack_OBJ_Backpack_Wyll_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Wyll"
+data "RootTemplate" "2e534ac4-0a67-4a3b-8afe-4b1ac23bf3cd"
+
+new entry "CompanionsPack_OBJ_Backpack_Halsin_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Halsin"
+data "RootTemplate" "4eb69353-2155-4a06-b052-5403e1518b6a"
+
+new entry "CompanionsPack_OBJ_Backpack_Minthara_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Minthara"
+data "RootTemplate" "0fdd2ef5-f66c-46a8-946e-8d5fa0dff740"
+
+new entry "CompanionsPack_OBJ_Backpack_Minsc_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Minsc"
+data "RootTemplate" "bf85fdbf-af9b-4140-a125-74552f6f26e7"
+
+new entry "CompanionsPack_OBJ_Backpack_Jaheira_Start"
+type "Object"
+using "CompanionsPack_OBJ_Backpack_Jaheira"
+data "RootTemplate" "26d7c4de-a8fc-4289-bdf1-3afac3434efa"
