@@ -1,0 +1,43 @@
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_Gear__FF5",1,0,0,0,0,0,0,0
+
+new treasuretable "TW_Gear__FF5_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_TW_B_Pteroslaver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Pteroslaver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Pteroslaver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Pteroslaver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Fighter",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Fighter",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Fighter",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Fighter",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Halberd_Heavens",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Wild",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Wild",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Wild",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_B_Warden",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_Cape_Warden",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_G_Warden",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_FW_Warden",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_TW_HW_Warden",1,0,0,0,0,0,0,0
+
+

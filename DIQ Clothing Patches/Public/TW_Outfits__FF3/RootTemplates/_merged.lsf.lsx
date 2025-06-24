@@ -1070,13 +1070,13 @@
 					<attribute id="VisualTemplate" type="FixedString" value="c96c428d-9995-4c41-a807-795800b9712e" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
-						<node id="StatusList">
+						<!-- <node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="" />
+									<attribute id="Object" type="FixedString" value="MAG_FORCE_FORCE_WEAPON_LESSER" />
 								</node>
 							</children>
-						</node>
+						</node> -->
 						<node id="Tags">
 							<children>
 								<node id="Tag">
@@ -1274,7 +1274,7 @@
 								</node>
 							</children>
 						</node>
-						<node id="StatusList">
+						<!-- <node id="StatusList">
 							<children>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="MAG_BYPASS_SLASHING_RESISTANCE_TECHNICAL" />
@@ -1283,7 +1283,7 @@
 									<attribute id="Object" type="FixedString" value="MAG_DIAMONDSBANE_TECHNICAL" />
 								</node>
 							</children>
-						</node>
+						</node> -->
 						<node id="Tags">
 							<children>
 								<node id="Tag">
