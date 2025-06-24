@@ -1,0 +1,20 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+// new treasuretable "Light Helmets"
+// new treasuretable "LOOT_LightArmor_Helmets_GD"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_L_Gjermundbu_Helmet_1_GD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_ARM_L_Gjermundbu_Helmet_1_WH_GD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_ARM_Leather_Helmet_1_GD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_ARM_Peasant_Cap_1_GD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_ARM_Peasant_Cap_1_Hat_GD",1,0,0,0,0,0,0,0
+// new treasuretable "Medium Helmets"
+// new treasuretable "LOOT_MediumArmor_Helmets_GD"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_Mongolian_Leather_Helmet_1_GD",1,0,0,0,0,0,0,0
+// new treasuretable "Heavy Helmets"

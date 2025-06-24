@@ -38,7 +38,7 @@ object category "I_ARM_Gjermundbu_Helmet_GD",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Komuso_Monk_Hat_GD",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "LOOT_Kettle_Helmet_GD",1,0,0,0,0,0,0,0
+object category "I_ARM_Kettle_Helmet_GD",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Kettle_Helmet_WM_GD",1,0,0,0,0,0,0,0
 new subtable "1,1"
