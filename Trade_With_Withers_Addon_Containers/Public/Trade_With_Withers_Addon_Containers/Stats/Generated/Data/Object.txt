@@ -1,0 +1,31 @@
+new entry "DIQ_OBJ_Important_Container"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "2e52d532-af5c-4acc-a474-9dec53f30d2c"
+data "ValueOverride" "1"
+data "Weight" "1"
+type "Object"
+data "Rarity" Legendary
+
+new entry "DIQ_OBJ_Clothing_Container"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "98650c86-5aa3-420b-9207-446b228e7104"
+data "ValueOverride" "1"
+data "Weight" "1"
+type "Object"
+data "Rarity" Legendary
+
+new entry "DIQ_OBJ_Dye_Container"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "a1f3b878-9d75-4a41-ab8f-531d826a256a"
+data "ValueOverride" "1"
+data "Weight" "1"
+type "Object"
+data "Rarity" Legendary
+
+new entry "DIQ_OBJ_Weapon_Container"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "674f2474-8ce5-4dba-8e79-b4b74568e6db"
+data "ValueOverride" "1"
+data "Weight" "1"
+type "Object"
+data "Rarity" Legendary

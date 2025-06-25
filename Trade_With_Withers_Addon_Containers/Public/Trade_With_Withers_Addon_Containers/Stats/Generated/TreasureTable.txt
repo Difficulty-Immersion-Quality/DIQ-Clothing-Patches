@@ -1,0 +1,26 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_DIQ_OBJ_Important_Container",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DIQ_OBJ_Clothing_Container",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DIQ_OBJ_Dye_Container",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DIQ_OBJ_Weapon_Container",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"

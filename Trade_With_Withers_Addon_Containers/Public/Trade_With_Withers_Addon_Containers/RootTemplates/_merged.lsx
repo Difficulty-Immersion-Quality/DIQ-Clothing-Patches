@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>			
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="ha9756458g31e6g4613gbc5fg590376799740" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h869fd78fg884bg4865g8523g594ffaf770be" version="5" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h73ccbcb0gb849g4553g8bd8gf2d8e0437cc0" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Mailbox_C" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2e52d532-af5c-4acc-a474-9dec53f30d2c" />
+					<attribute id="Name" type="LSString" value="DIQ_OBJ_Important_Container" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ea8cc72a-e078-4ce7-bd63-14bcf1851f46" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c6ec5944-1d2b-67bb-f0d8-dd9960b6faf9" />
+					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Important_Container" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="17b1b3b7-d079-e531-eaf9-6dc33542900f" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="DIQ_OBJ_Important_Container_TT" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>	
+				</node>								
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he828b8cagdb9dg455cga9ebg48adbf3068b0" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hfe3f84beg7b0cg4a6ag9a0age97fb9852a13" version="5" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hca0bc2acg6a32g4a0eg93b8g0dbfa783a5c1" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_FUR_GEN_Wardrobe_Wood_Poor_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="98650c86-5aa3-420b-9207-446b228e7104" />
+					<attribute id="Name" type="LSString" value="DIQ_OBJ_Clothing_Container" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8188cbf2-4618-401e-b9e1-c2be419efdb8" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="dc78876a-e296-7bd2-4b74-db8fcb4d9fd0" />
+					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Clothing_Container" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6e76802f-6469-87b5-0929-f2e2298a9ae5" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="DIQ_OBJ_Clothing_Container_TT" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>				
+				</node>					
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hf30ef24cg94e5g440bg865cgdf77ac94d853" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h6254fb68gb1ecg4c06gafa3g8190ab064efa" version="5" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h91a98477g1dcag45e6ga805g5366d892a4f2" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_Barrel_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a1f3b878-9d75-4a41-ab8f-531d826a256a" />
+					<attribute id="Name" type="LSString" value="DIQ_OBJ_Dye_Container" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ea8cc72a-e078-4ce7-bd63-14bcf1851f46" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="9c8f2431-6d0a-e061-b431-b66e9d722811" />
+					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Dye_Container" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="de3fe690-bca8-4d41-abf8-b33ccae040e0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="DIQ_OBJ_Dye_Container_TT" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>
+				</node>					
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h5801eb1eg5dbcg40fcgb2c9gad0dd3e74f94" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h8b439cb1gb387g4150g8a81gf69b02f1d806" version="5" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h03012c26ge713g425ag8318ga98a1c03781a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GTY_Barrel_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="674f2474-8ce5-4dba-8e79-b4b74568e6db" />
+					<attribute id="Name" type="LSString" value="DIQ_OBJ_Weapon_Container" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8188cbf2-4618-401e-b9e1-c2be419efdb8" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="62bb9a89-67e7-1b96-a89a-d852a9503ba5" />
+					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Weapon_Container" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="f952bd7d-eb18-6314-113b-b64879a2fc3d" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="DIQ_OBJ_Weapon_Container_TT" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
