@@ -1,0 +1,54 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "DIQ_OBJ_Dye_Container_TT",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "GOB_Festivities_Trader"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "HAV_HarperQuarterMaster"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "HAV_Thiefling_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "HAV_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "MOO_BugBearvendor_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "WYR_Danthelon_Trader"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
+
+// new treasuretable "WYR_SharessCaress_Bartender_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ClockworkSoulDye",1,0,0,0,0,0,0,0
