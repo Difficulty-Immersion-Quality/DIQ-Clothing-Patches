@@ -35,3 +35,9 @@ new subtable "1,1"
 object category "I_UNI_Cooking_Pan",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_UNI_Cooking_Board",1,0,0,0,0,0,0,0
+
+// Mindweaver dye
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_MINDWEAVER_AstralSeer_dye",1,0,0,0,0,0,0,0
