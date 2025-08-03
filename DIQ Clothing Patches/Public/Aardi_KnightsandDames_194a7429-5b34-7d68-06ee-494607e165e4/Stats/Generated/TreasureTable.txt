@@ -1,0 +1,156 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "II_KnightsandDames_II"
+CanMerge 1
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_1_Hair",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_2_Hair",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_3_Hair",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_4_Hair",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Headwear_GH_5",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Cloak_Fanciful",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Nobility",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Nobility_Threads_Plain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Nobility_Threads_Lancer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Nobility_Threads_Spellbound",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Devotion",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Devotion_Higher",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Devotion_Mighty",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Chivalry",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Chivalry_Threads_Plain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Chivalry_Threads_Lancer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Chivalry_Threads_Spellbound",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Heroism_Ascendancy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Heroism_Dukedom",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Heroism_Peacockery",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Heroism_Regal_Ascendancy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Heroism_Regal_Dukedom",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Heroism_Regal_Peacockery",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Loyalty",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Loyalty_Threads_Plain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Loyalty_Threads_Charming",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Romance",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Romance_Threads_Plain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Romance_Threads_Charming",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Radiance_Threads_Plain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Radiance_Threads_Lancer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Radiance_Threads_Spellbound",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_HoldGuard_Short",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_HoldGuard",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Courage_Ancients",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Courage_Devotion",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Courage_Vengeance",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Courage_Crown",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Courage_FlamingFist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Villainy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Villainy_Threads",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Valour",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AARDI_ARM_Glory",1,0,0,0,0,0,0,0
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Volo_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "LOW_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "CRE_Expeditioner_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "CRE_GithQuartermistress_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "MOO_InfernalTrader_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "LOW_SorcerousSundries_Trade_Magic"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "LOW_SteepsTrader_Weapons"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
+// new treasuretable "WYR_Thiefling_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
