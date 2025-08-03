@@ -1,0 +1,6 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ArcanistDye",1,0,0,0,0,0,0,0
