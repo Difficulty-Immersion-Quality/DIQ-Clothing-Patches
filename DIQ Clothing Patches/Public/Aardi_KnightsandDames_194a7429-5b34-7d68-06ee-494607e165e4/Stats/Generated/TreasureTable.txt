@@ -97,7 +97,7 @@ new subtable "1,1"
 object category "I_AARDI_ARM_Glory",1,0,0,0,0,0,0,0
 
 // new treasuretable "TUT_Chest_Potions"
-new treasuretable "DIQ_OBJ_Dye_Container_TT"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
