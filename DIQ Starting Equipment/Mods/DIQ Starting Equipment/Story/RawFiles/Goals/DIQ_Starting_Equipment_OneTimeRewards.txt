@@ -11,12 +11,6 @@ LevelGameplayStarted(_,_)
 AND
 DB_Avatars(_Player)
 THEN
-PROC_OneTimeReward_GiveAllRewards(_Player);
-
-// Wrapper PROC to give both rewards
-PROC
-PROC_OneTimeReward_GiveAllRewards((GUIDSTRING)_Player)
-THEN
 PROC_OneTimeReward_GiveReward_SimpleSortingBags(1,1,1,_Player);
 PROC_OneTimeReward_GiveReward_InjuryKits(1,2,1,_Player);
 
