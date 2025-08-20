@@ -1,6 +1,10 @@
 new equipment "EQ_Shadowheart"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -50,6 +54,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Shadowheart_Start"
 new equipment "EQ_Wyll"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -90,6 +98,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Wyll_Start"
 
 new equipment "EQ_Laezel"
 add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
@@ -136,6 +148,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Laezel_Start"
 new equipment "EQ_Gale"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -178,6 +194,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Gale_Start"
 
 new equipment "EQ_Astarion"
 add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "OBJ_Kit_ThievesTools"
 add equipmentgroup
@@ -230,6 +250,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Astarion_Start"
 new equipment "EQ_Karlach"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -275,6 +299,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Karlach_Start"
 new equipment "EQ_Halsin"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -315,6 +343,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Halsin_Start"
 
 new equipment "GOB_DrowCommander"
 add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "OBJ_DrowPoison"
 add equipmentgroup
@@ -359,6 +391,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Minthara_Start"
 new equipment "EQP_Jaheira"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -401,6 +437,10 @@ add equipment entry "CompanionsPack_OBJ_Backpack_Jaheira_Start"
 
 new equipment "EQP_Minsc"
 add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
+add equipmentgroup
+add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
