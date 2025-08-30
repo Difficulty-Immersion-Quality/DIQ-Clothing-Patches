@@ -30,26 +30,20 @@ object category "I_UNI_GaleRobe",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Shoes",1,0,0,0,0,0,0,0
 
-// new treasuretable "CompanionsPack_OBJ_Backpack_Astarion_Start_TT"
-// CanMerge 1
+new treasuretable "CompanionsPack_OBJ_Backpack_Astarion_Start_TT"
+CanMerge 1
 
-// new treasuretable "CompanionsPack_OBJ_Backpack_Karlach_Start_TT"
-// CanMerge 1
+new treasuretable "CompanionsPack_OBJ_Backpack_Karlach_Start_TT"
+CanMerge 1
 
-// new treasuretable "CompanionsPack_OBJ_Backpack_Halsin_Start_TT"
-// CanMerge 1
+new treasuretable "CompanionsPack_OBJ_Backpack_Halsin_Start_TT"
+CanMerge 1
 
 new treasuretable "CompanionsPack_OBJ_Backpack_Minthara_Start_TT"
 CanMerge 1
-new subtable "-1"
-object category "I_GOB_DrowCommander_Mace",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_GOB_DrowCommander_Leather_Armor",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_MAG_Paladin_MomentumOnConcentration_Boots",1,0,0,0,0,0,0,0
 
-// new treasuretable "CompanionsPack_OBJ_Backpack_Jaheira_Start_TT"
-// CanMerge 1
+new treasuretable "CompanionsPack_OBJ_Backpack_Jaheira_Start_TT"
+CanMerge 1
 
-// new treasuretable "CompanionsPack_OBJ_Backpack_Minsc_Start_TT"
-// CanMerge 1
+new treasuretable "CompanionsPack_OBJ_Backpack_Minsc_Start_TT"
+CanMerge 1

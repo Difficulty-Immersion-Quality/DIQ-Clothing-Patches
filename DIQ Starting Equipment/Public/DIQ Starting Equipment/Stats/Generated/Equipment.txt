@@ -366,11 +366,17 @@ add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
 add equipmentgroup
 add equipment entry "WPN_Aza_Drow_Shortsword"
 add equipmentgroup
-add equipment entry "GOB_DrowCommander_Leather_Gloves"
-add equipmentgroup
 add equipment entry "ARM_Aza_Drow_Robe"
 add equipmentgroup
 add equipment entry "MAG_Aza_Drow_Boots"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Mace"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Armor"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Gloves"
+add equipmentgroup
+add equipment entry "MAG_Paladin_MomentumOnConcentration_Boots"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body_Minthara"
 add equipmentgroup
