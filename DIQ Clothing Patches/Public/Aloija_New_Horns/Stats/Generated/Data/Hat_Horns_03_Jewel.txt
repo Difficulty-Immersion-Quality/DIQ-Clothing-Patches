@@ -1,8 +1,0 @@
-new entry "Hat_Horns_03_Jewel"
-type "Armor"
-using "_Head"
-data "RootTemplate" "7ef8a48d-14c9-487b-b4c3-15a9fdaa2b3d"
-data "ArmorType" "Cloth"
-data "Weight" "0.01"
-data "Rarity" "Common"
-data "ValueOverride" "1"

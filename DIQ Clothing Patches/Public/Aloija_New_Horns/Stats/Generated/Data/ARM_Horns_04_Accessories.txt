@@ -1,8 +1,0 @@
-new entry "ARM_Horns_04_Accessories"
-type "Armor"
-using "_Head"
-data "RootTemplate" "7857f234-b035-44c0-aa8e-eba16768a9f6"
-data "ArmorType" "Cloth"
-data "Weight" "0.01"
-data "Rarity" "Common"
-data "ValueOverride" "1"
