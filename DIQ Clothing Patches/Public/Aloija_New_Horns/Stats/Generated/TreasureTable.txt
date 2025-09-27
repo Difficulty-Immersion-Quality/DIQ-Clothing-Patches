@@ -1,5 +1,47 @@
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
-object category "I_Hat_Horns_03_Jewel",1,0,0,0,0,0,0,0
+object category "I_ARM_Horns_03_Accessories",1,0,0,0,0,0,0,0
 object category "I_ARM_Horns_04_Accessories",1,0,0,0,0,0,0,0
+
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+// new treasuretable "TUT_Chest_Potions"
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_03_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "TUT_Chest_Potions "
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_04_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_04_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Entrance_Trade "
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_03_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Volo_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_04_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Volo_Trade "
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_03_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "WYR_Danthelon_Trader"
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_04_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "WYR_Danthelon_Trader "
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_03_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "LOW_Figaro_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_04_Accessories",1,0,0,0,0,0,0,0
+// new treasuretable "LOW_Figaro_Trade "
+// CanMerge 1
+// new subtable "1,1"
+// object category "ARM_Horns_03_Accessories",1,0,0,0,0,0,0,0
