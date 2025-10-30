@@ -1,3 +1,4 @@
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
@@ -20,3 +21,13 @@ new subtable "1,1"
 object category "I_CSS_CampBoots_ConceptSHeart",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CSS_ARM_ConceptSHeart_SHLDR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_ARM_ConceptSHeart_UNIQUETAV",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_ARM_ConceptSHeart_SHLDR_UNIQUETAV",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_CAMPARM_ConceptSHeart_SHLDR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_CAMPARM_ConceptSHeart_UNIQUETAV",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_CAMPARM_ConceptSHeart_SHLDR_UNIQUETAV",1,0,0,0,0,0,0,0
