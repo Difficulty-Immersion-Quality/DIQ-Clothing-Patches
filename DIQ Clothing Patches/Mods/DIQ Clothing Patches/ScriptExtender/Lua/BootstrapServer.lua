@@ -22,7 +22,7 @@ Ext.Osiris.RegisterListener("LevelGameplayStarted", 2, "after", function(_, _)
     end
 
     -- Register a single listener for all flags
-    Ext.Osiris.RegisterListener("CharacterFlagSet", 3, "after", function(characterUUID, flagName, flagValue)
+    Ext.Osiris.RegisterListener("FlagSet", 3, "after", function(characterUUID, flagName, flagValue)
         if characterUUID == shadowheartUUID and flagValue == 1 then
             for _, relevantFlag in ipairs(flagsToTrack) do
                 if flagName == relevantFlag then
