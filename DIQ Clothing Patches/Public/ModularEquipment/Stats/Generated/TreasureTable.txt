@@ -1,3 +1,5 @@
+
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
@@ -27,6 +29,8 @@ new treasuretable "MEQ_Item_Container_Cloaks_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_MEQ_Cloak_HalflingTop",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MEQ_Cloak_BeltedHalflingTop",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_MEQ_Cloak_CorsetA",1,0,0,0,0,0,0,0
 new subtable "1,1"
