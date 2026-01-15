@@ -9,13 +9,13 @@
           <attribute id="Author" type="LSString" value="Goonsack" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
           <attribute id="Description" type="LSString" value="A Trade with Withers Addon including containers for other mods to utilise." />
-          <attribute id="Folder" type="LSString" value="Trade_With_Withers_Addon_Containers" />
+          <attribute id="Folder" type="LSString" value="Trade with Withers Addon - Containers" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Trade_With_Withers_Addon_Containers" />
+          <attribute id="Name" type="FixedString" value="Trade with Withers Addon - Containers" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
