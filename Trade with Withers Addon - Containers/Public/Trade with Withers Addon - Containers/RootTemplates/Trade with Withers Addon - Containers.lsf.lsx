@@ -3,7 +3,35 @@
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
 	<region id="Templates">
 		<node id="Templates">
-			<children>			
+			<children>
+				<node id="GameObjects">
+					<!-- Wither's Wares -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h2e465646g71f2g482ega63fg53130bfaaf28" version="1" />
+					<!-- Containers with some curious wares and keepsakes. -->
+					<attribute id="Description" type="TranslatedString" handle="h71b4088dg1989g4773ga843gb6207c9c6fa9" version="1" />
+					<!-- How long has he been collecting all of this? -->
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h3c4d9874g03efg452eg9988g206caf631ce0" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Camp_Pack_Greater" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="165ddf26-6e63-4d88-a451-4559a17c9020" />
+					<attribute id="Name" type="LSString" value="DIQ_OBJ_Main_Container" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ae83daa-1096-4b38-9b8c-fc610a9306aa" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="7c185a47-6e01-0e3d-7ee9-45ff306b5296" />
+					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Main_Container" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="ff2391f2-8310-cba9-6814-88fe001e8e73" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="DIQ_OBJ_Main_Container_TT" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>				
+				</node>
 				<node id="GameObjects">
 					<!-- Wither's Very Important Mailbox -->
 					<attribute id="DisplayName" type="TranslatedString" handle="ha9756458g31e6g4613gbc5fg590376799740" version="1" />
@@ -20,6 +48,7 @@
 					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Important_Container" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="17b1b3b7-d079-e531-eaf9-6dc33542900f" />
+					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="InventoryList">
@@ -48,6 +77,7 @@
 					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Clothing_Container" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="6e76802f-6469-87b5-0929-f2e2298a9ae5" />
+					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="InventoryList">
@@ -76,6 +106,7 @@
 					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Dye_Container" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="de3fe690-bca8-4d41-abf8-b33ccae040e0" />
+					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="InventoryList">
@@ -104,6 +135,7 @@
 					<attribute id="Stats" type="FixedString" value="DIQ_OBJ_Weapon_Container" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="f952bd7d-eb18-6314-113b-b64879a2fc3d" />
+					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="InventoryList">

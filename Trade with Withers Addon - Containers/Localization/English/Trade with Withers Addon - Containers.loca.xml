@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<!-- DIQ_OBJ_Main_Container -->
+	<content contentuid="h2e465646g71f2g482ega63fg53130bfaaf28" version="1">Wither's Wares</content>
+	<content contentuid="h71b4088dg1989g4773ga843gb6207c9c6fa9" version="1">Containers with some curious wares and keepsakes.</content>
+	<content contentuid="h3c4d9874g03efg452eg9988g206caf631ce0" version="1">How long has he been collecting all of this?</content>
+
 	<!-- DIQ_OBJ_Important_Container -->
 	<content contentuid="ha9756458g31e6g4613gbc5fg590376799740" version="1">Wither's Very Important Mailbox</content>
 	<content contentuid="h869fd78fg884bg4865g8523g594ffaf770be" version="1">A container for housing many custom items, primarily utility items.</content>

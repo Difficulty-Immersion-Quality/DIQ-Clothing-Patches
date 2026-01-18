@@ -1,8 +1,5 @@
 local wares = {
-"2e52d532-af5c-4acc-a474-9dec53f30d2c",
-"98650c86-5aa3-420b-9207-446b228e7104",
-"a1f3b878-9d75-4a41-ab8f-531d826a256a",
-"674f2474-8ce5-4dba-8e79-b4b74568e6db",
+"165ddf26-6e63-4d88-a451-4559a17c9020",
 }
 
 Ext.Osiris.RegisterListener("PROC_StartTrade", 4, "before", function(player, trader, TRADEMODE, _)
