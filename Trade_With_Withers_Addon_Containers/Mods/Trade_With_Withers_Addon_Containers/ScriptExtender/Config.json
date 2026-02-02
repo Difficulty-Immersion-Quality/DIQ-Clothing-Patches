@@ -1,5 +1,0 @@
-{
-    "RequiredVersion": 1,
-    "ModTable": "Trade_With_Withers_Addon_Containers",
-    "FeatureFlags": ["Lua"]
-}

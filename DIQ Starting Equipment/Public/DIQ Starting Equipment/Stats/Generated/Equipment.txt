@@ -472,6 +472,8 @@ add equipment entry "ARM_Leather_Body_Minsc"
 add equipmentgroup
 add equipment entry "ARM_Gloves_Leather_Minsc"
 add equipmentgroup
+add equipment entry "ARM_Cloak_MinscBoo"
+add equipmentgroup
 add equipment entry "ARM_Camp_Body_Minsc"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Minsc"
