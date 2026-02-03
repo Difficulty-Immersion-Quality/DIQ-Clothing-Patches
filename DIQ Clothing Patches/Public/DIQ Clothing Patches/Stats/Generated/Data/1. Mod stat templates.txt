@@ -1,0 +1,16 @@
+// ==================================== FolderName ====================================
+// VersionNumber
+
+// ==================================== GOON_MOD_THING_BODY_1.txt
+
+new entry "GOON_MOD_THING_BODY"
+type "Armor"
+// using "ARM_Robe_Body"
+using "Goon_ARM_Body_Cosmetic_Template"
+
+// ==================================== GOON_MOD_THING_BODY_2.txt
+
+new entry "GOON_MOD_THING_BODY_2"
+type "Armor"
+// using "ARM_Robe_Body"
+using "Goon_ARM_Body_Cosmetic_Template"
