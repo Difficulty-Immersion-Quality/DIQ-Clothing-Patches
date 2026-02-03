@@ -1,3 +1,11 @@
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "-1"
+// object category "I_ASURAS_ALLURE_NO_STRAPS",1,0,0,0,0,0,0,0
+// new subtable "-1"
+// object category "I_ASURAS_ALLURE_NO_STRAPS_MSK",1,0,0,0,0,0,0,0
+
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "-1"
