@@ -1,4 +1,4 @@
-// 1.0
+// 1.0 (Celestial Threads)
 
 new entry "ASURAS_ALLURE_NO_STRAPS_MSK"
 type "Armor"

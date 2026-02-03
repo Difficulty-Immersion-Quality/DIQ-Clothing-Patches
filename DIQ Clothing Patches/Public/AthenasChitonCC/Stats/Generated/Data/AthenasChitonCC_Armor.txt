@@ -1,4 +1,4 @@
-// 1.1
+// 1.1 (Luminous Threads)
 // Note: needed to remain overrides due to sharing entry names across versions.
 
 new entry "ATHENAS_CHITON"
