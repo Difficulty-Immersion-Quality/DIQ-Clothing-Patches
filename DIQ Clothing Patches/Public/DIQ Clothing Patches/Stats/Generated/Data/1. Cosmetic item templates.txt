@@ -8,6 +8,17 @@ data "Weight" "0.01"
 data "ValueOverride" "1"
 data "Rarity" "Common"
 
+// ==================================== Dye ====================================
+
+new entry "Goon_OBJ_Dye_Cosmetic_Template"
+type "Object"
+using "_Dyes"
+data "UseCosts" "ActionPoint:0"
+data "Weight" "0.01"
+data "ValueOverride" "1"
+data "Rarity" "Common"
+data "Priority" "1"
+
 // ==================================== Armour ====================================
 
 // Chest

@@ -1,42 +1,52 @@
-new treasuretable "DEN_Entrance_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
-new treasuretable "HAV_HarperQuarterMaster"
-CanMerge 1
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "HAV_HarperQuarterMaster"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
-new treasuretable "MOO_BugBearvendor_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "MOO_BugBearvendor_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
-new treasuretable "LOW_Figaro_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "LOW_Figaro_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
-new treasuretable "GOB_Quartermaster"
-CanMerge 1
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "GOB_Quartermaster"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
-new treasuretable "WYR_Circus_KoboldMerchant"
-CanMerge 1
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "WYR_Circus_KoboldMerchant"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
 new subtable "1,1"
 object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
+// ===========================================================================================================================
 
 new treasuretable "AMX_CHEST_1_TT"
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_ShortsOutfits",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -57,8 +67,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_Other_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_DressOutfits",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_ExoticOutfits_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -75,8 +85,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Cloaks_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -95,16 +105,16 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Vase_Dyes_1",1,0,0,0,0,0,0,0
 
 
-new treasuretable "AMX_CHEST_2_TT"
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "AMX_CHEST_2_TT"
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_SUMMONED_BASKET_TT"
 new subtable "1,1"
 object category "I_AMX_SUMMONED_BASKET_PERM_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SUMMONED_BASKET_PERM_2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SUMMONED_BASKET_PERM_2",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_SUMMONED_BASKET_PERM_TT"
@@ -128,8 +138,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_Other_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_DressOutfits",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_ExoticOutfits_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -146,8 +156,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Cloaks_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -180,22 +190,22 @@ new subtable "1,1"
 object category "I_AMX_BLACKOUTFIT_2_SHORTS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLACKOUTFIT_3_SHORTS",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_1_OPEN_SHORTS",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_2_OPEN1_SHORTS",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_2_OPEN2_SHORTS",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_TOPLESS_SHORTS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_1_OPEN_SHORTS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_2_OPEN1_SHORTS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_2_OPEN2_SHORTS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_TOPLESS_SHORTS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BRA_SHORTS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_MIZORA_TOP_SHORTS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SHORTS_SHADOWHEART_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SHORTS_SHADOWHEART_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SHORTS_SHADOWHEART_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SHORTS_SHAR_DRESS_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -213,18 +223,18 @@ new subtable "1,1"
 object category "I_AMX_BLACKOUTFIT_2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLACKOUTFIT_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_1_OPEN",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_2_OPEN1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_2_OPEN2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_1_OPEN",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_2_OPEN1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_2_OPEN2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BIKER_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BIKER_1_OPEN1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BIKER_1_OPEN2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BIKER_1_OPEN1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BIKER_1_OPEN2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLACKOUTFIT_4",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -241,24 +251,24 @@ new subtable "1,1"
 object category "I_AMX_BLACKOUTFIT_6B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BIKER_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BIKER_2_OPEN1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BIKER_2_OPEN2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BIKER_2_OPEN1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BIKER_2_OPEN2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLACKOUTFIT_7",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_7_OPEN1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLACKOUTFIT_7_OPEN2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_7_OPEN1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLACKOUTFIT_7_OPEN2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_TUNIC_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_TUNIC_1_OPEN",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_TUNIC_1_OPEN",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ADVENTURER_1_BLACK",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_RICHTRIM_1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_RICHTRIM_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ROBE_2_BLACK",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -271,8 +281,8 @@ new subtable "1,1"
 object category "I_AMX_CULT_ABSOLUTE_OUTFIT_DARK_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_PANTS_TIEFLING_BRA_1A_BLACK",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_LEATHER_PANTS_TOPLESS_1A_BLACK",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_LEATHER_PANTS_TOPLESS_1A_BLACK",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SHIRT_C_BLACK_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -314,8 +324,8 @@ new subtable "1,1"
 object category "I_AMX_MINISKIRT_BLACK_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_MINISKIRT_BLACK_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_MINISKIRT_BLACK_1_TOPLESS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_MINISKIRT_BLACK_1_TOPLESS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SORCERER_ROBE_DARK_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -340,12 +350,12 @@ new subtable "1,1"
 object category "I_AMX_SORCERER_ROBE_BLACKBRONZE_1C",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_RUBYBANDIT_ARMOR_BLACK_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_RUBYBANDIT_ARMOR_BLACK_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_RUBYBANDIT_ARMOR_BLACK_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_RUBYBANDIT_ARMOR_BLACK_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_RUBYBANDIT_ARMOR_BLACK_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_RUBYBANDIT_ARMOR_BLACK_2B",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_BLACKOUTFITS_3_TT"
@@ -357,18 +367,18 @@ new subtable "1,1"
 object category "I_AMX_IRONSORCERER_ARMOR_3A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_IRONSORCERER_ARMOR_4A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_IRONSORCERER_ARMOR_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_IRONSORCERER_ARMOR_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_IRONSORCERER_ARMOR_3B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_IRONSORCERER_ARMOR_4B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_IRONSORCERER_ARMOR_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_IRONSORCERER_ARMOR_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_IRONSORCERER_ARMOR_3B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_IRONSORCERER_ARMOR_4B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_CHAINSHIRT_SHAR_1_DARK",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_CLOTH_PANTS_TOPLESS_1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_CLOTH_PANTS_TOPLESS_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_CLOTH_PANTS_BRA_T_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -379,12 +389,12 @@ new subtable "1,1"
 object category "I_AMX_CLOTH_PANTS_WORKER_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_CLOTH_PANTS_BRA_G_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_CLOTH_PANTS_BRA_G_2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_CLOTH_PANTS_BRA_G_2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_CLOTH_PANTS_BRA_G_1_BELTS",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_CLOTH_PANTS_BRA_G_2_BELTS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_CLOTH_PANTS_BRA_G_2_BELTS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_CLOTH_PANTS_BARBARIAN_BRA_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -393,8 +403,8 @@ new subtable "1,1"
 object category "I_AMX_CLOTH_PANTS_ELF_TOP_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_PANTS_ELF_TOP_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_CLOTH_PANTS_BANDAGES_2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_CLOTH_PANTS_BANDAGES_2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BARBARIAN_ARMOR_BLACK_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -419,8 +429,8 @@ new subtable "1,1"
 object category "I_AMX_ARMOR_DEATHMAGE_ROBE_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ARMOR_DEATHMAGE_ROBE_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ARMOR_DEATHMAGE_ROBE_1D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ARMOR_DEATHMAGE_ROBE_1D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ARMOR_DEATHKNIGHT_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -442,10 +452,10 @@ new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1D",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1E",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1E",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1F",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -458,8 +468,8 @@ new subtable "1,1"
 object category "I_AMX_DOUBLET_RICH_B_BLACK_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1G",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1H",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BLACK_1H",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ARMOR_PALADIN_PLATE_1_OATHBREAKER_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -468,8 +478,8 @@ new subtable "1,1"
 object category "I_AMX_ARMOR_ROBE_B_AIRY_BLACK_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OUTFIT_SHADOWHEART_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_PANTS_SHADOWHEART_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_PANTS_SHADOWHEART_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_PANTS_SHADOWHEART_BRA_LAEZEL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -484,8 +494,8 @@ new subtable "1,1"
 object category "I_AMX_INFERNAL_BLACKSMITH_OUTFIT_1D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_KARLACH_CLOTHING_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_KARLACH_PANTS_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_KARLACH_PANTS_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_KARLACH_OUTFIT_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -529,16 +539,16 @@ new subtable "1,1"
 object category "I_AMX_SHIRT_1_WHITE_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SHIRT_1_WHITE_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_CLOTH_PANTS_DRUID_TITS_1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_CLOTH_PANTS_DRUID_TITS_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SORCERER_ROBE_WHITEGOLD_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SORCERER_ROBE_WHITEGOLD_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SORCERER_ROBE_WHITEGOLD_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_CLOTH_PANTS_BANDAGES_1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_CLOTH_PANTS_BANDAGES_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_CLOTH_PANTS_BARBARIAN_BRA_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -549,10 +559,10 @@ new subtable "1,1"
 object category "I_AMX_LEATHER_PANTS_ELF_TOP_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_WHITE_CLOTH_PANTS_BRA_T_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_WHITE_CLOTH_PANTS_TOPLESS_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_WHITE_CLOTH_PANTS_BANDAGES_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_WHITE_CLOTH_PANTS_TOPLESS_1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_WHITE_CLOTH_PANTS_BANDAGES_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_WHITE_CLOTH_PANTS_REFUGEE_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -676,20 +686,20 @@ new subtable "1,1"
 object category "I_AMX_DRUID_ARMOR_C_1C",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SCANTY_METAL_ARMOR_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SCANTY_METAL_ARMOR_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SCANTY_METAL_ARMOR_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SCANTY_METAL_ARMOR_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SCANTY_METAL_ARMOR_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SCANTY_METAL_ARMOR_2B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SCANTY_METAL_ARMOR_3A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SCANTY_METAL_ARMOR_3B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SCANTY_METAL_ARMOR_3B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SCANTY_METAL_ARMOR_4A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SCANTY_METAL_ARMOR_4B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SCANTY_METAL_ARMOR_4B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ARMOR_PLATE_GOLD_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -716,12 +726,12 @@ new subtable "1,1"
 object category "I_AMX_ARMOR_PLATE_SILVER_2B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SCANTY_METAL_ARMOR_5A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SCANTY_METAL_ARMOR_5B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SCANTY_METAL_ARMOR_5B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SCANTY_METAL_ARMOR_6A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SCANTY_METAL_ARMOR_6B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SCANTY_METAL_ARMOR_6B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ROBE_OCEANQUEEN_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -805,10 +815,10 @@ new subtable "1,1"
 object category "I_AMX_ELVEN_BIKINIARMOR_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ELVEN_BIKINIARMOR_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ELVEN_CRESCENT_ARMOR_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ELVEN_CRESCENT_ARMOR_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ELVEN_CRESCENT_ARMOR_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ELVEN_CRESCENT_ARMOR_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ELVEN_CRESCENT_ARMOR_1C",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -826,47 +836,47 @@ new subtable "1,1"
 object category "I_AMX_BLACKSMITH_OUTFIT_1D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BANDIT_ARMOR_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BANDIT_ARMOR_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BANDIT_ARMOR_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BANDIT_ARMOR_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_RUBYBANDIT_ARMOR_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_RUBYBANDIT_ARMOR_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_RUBYBANDIT_ARMOR_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_RUBYBANDIT_ARMOR_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_RUBYBANDIT_ARMOR_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_RUBYBANDIT_ARMOR_2B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1D",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1E",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1E",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1F",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1G",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1H",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_LEATHER_ARMOR_A1_PANTS_BROWN_1H",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_DRESSOUTFITS_TT"
-new subtable "1,1"
-object category "I_AMX_NIGHTSONG_BIKINI_TOPLESS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_NIGHTSONG_BIKINI_TOPLESS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_NIGHTSONG_BIKINI",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_NIGHTSONG_NOAMULET_NOSHOULDERS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_NIGHTSONG_NOAMULET",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_NIGHTSONG_TOPLESS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_NIGHTSONG_TOPLESS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_DAISYDRESS",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -875,10 +885,10 @@ new subtable "1,1"
 object category "I_AMX_MIZORA_NOAMULET_STRAPLESS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_MIZORA_NOAMULET_SHORTSLEEVES",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_RICHTRIM_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SERAPH_ARMOR_0",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_RICHTRIM_2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SERAPH_ARMOR_0",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SERAPH_ARMOR_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -887,8 +897,8 @@ new subtable "1,1"
 object category "I_AMX_ANGELSONG_NOAMULET",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ANGELSONG_NOAMULET_NOSHOULDERS",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ANGELSONG_TOPLESS",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ANGELSONG_TOPLESS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ANGELSONG_BIKINI",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -899,8 +909,8 @@ new subtable "1,1"
 object category "I_AMX_PURELOVER_DRESS_GOLD",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_DARKLOVER_DRESS",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SERAPH_ARMOR_3",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SERAPH_ARMOR_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_DRESS_RICH_B_1A_ORIGINAL",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -925,8 +935,8 @@ new subtable "1,1"
 object category "I_AMX_SONGSTRESS_DRESS_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SONGSTRESS_DRESS_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SONGSTRESS_DRESS_1D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SONGSTRESS_DRESS_1D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SHAR_DRESS_2A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -990,113 +1000,113 @@ object category "I_AMX_SPEAR_SELUNE_1A",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_EXOTICOUTFITS_1_TT"
-new subtable "1,1"
-object category "I_AMX_EMPERORSNEWCLOTHES",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_EMPERORSNEWCLOTHES",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_GITH_HARNESS_1_COVERED",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_GITH_HARNESS_1_OPEN",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_GITH_HARNESS_2_COVERED",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_GITH_HARNESS_2_OPEN",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_HARNESS_1_OPEN",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_HARNESS_1_COVERED",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_HARNESS_2_OPEN",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_HARNESS_2_COVERED",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_GITH_HARNESS_1_OPEN",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_GITH_HARNESS_2_COVERED",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_GITH_HARNESS_2_OPEN",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_HARNESS_1_OPEN",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_HARNESS_1_COVERED",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_HARNESS_2_OPEN",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_HARNESS_2_COVERED",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_HARPYOUTFIT_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_HARPYOUTFIT_1_NOBRA",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESSCHAPS_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESSCHAPS_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESSCHAPS_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESSCHAPS_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_HARPYOUTFIT_1_NOBRA",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESSCHAPS_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESSCHAPS_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESSCHAPS_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESSCHAPS_2B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_MONSTER_OUTFIT_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_BLACKOUTFIT_6B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_MIZORA_TOP",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_MIZORA_TOP_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_CIVILIAN_UNISEX_WHITE_1D",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_BLACKOUTFIT_6B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_MIZORA_TOP",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_MIZORA_TOP_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_CIVILIAN_UNISEX_WHITE_1D",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_BLACKOUTFIT_6B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_MIZORA_TOP",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_MIZORA_TOP_2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_CIVILIAN_UNISEX_WHITE_1D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_BLACKOUTFIT_6B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_MIZORA_TOP",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_MIZORA_TOP_2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_CIVILIAN_UNISEX_WHITE_1D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_SCANTY_METAL_ARMOR_2B",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_EXOTICOUTFITS_2_TT"
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_BLACK_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_BLACK_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_BLACK_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_BLACK_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_MIZORA_TOP_B1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_MIZORA_TOP_B1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_MIZORA_TOP_B2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_B_MIZORA_TOP_B2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_SCANTY_METAL_ARMOR_A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_SCANTY_METAL_ARMOR_B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_ARMOR_PLATE_SILVER_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_ASSLESS_A_ARMOR_PLATE_GOLD_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OUTFIT_EXOTIC_DANCER_1A_REDGOLD",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OUTFIT_EXOTIC_DANCER_1B_REDGOLD",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OUTFIT_EXOTIC_DANCER_2A_REDGOLD",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OUTFIT_EXOTIC_DANCER_2B_REDGOLD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_BLACK_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_BLACK_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_BLACK_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_BLACK_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_RUBYBANDIT_ARMOR_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_RUBYBANDIT_ARMOR_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_MIZORA_TOP_B1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_MIZORA_TOP_B1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_MIZORA_TOP_B2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_B_MIZORA_TOP_B2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_SCANTY_METAL_ARMOR_A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_SCANTY_METAL_ARMOR_B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_ARMOR_PLATE_SILVER_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_ASSLESS_A_ARMOR_PLATE_GOLD_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OUTFIT_EXOTIC_DANCER_1A_REDGOLD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OUTFIT_EXOTIC_DANCER_1B_REDGOLD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OUTFIT_EXOTIC_DANCER_2A_REDGOLD",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OUTFIT_EXOTIC_DANCER_2B_REDGOLD",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_DRYAD_OUTFIT_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_DRYAD_OUTFIT_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_DRYAD_OUTFIT_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_MINDFLAYER_OUTFIT_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OUTFIT_GITHRAIDER_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OUTFIT_GITHRAIDER_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ROBE_LOVIATAR_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -1859,8 +1869,8 @@ new subtable "1,1"
 object category "I_AMX_ALLBASKETSPELLSRING_1_AC2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ALLBASKETSPELLSRING_1_AC4",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SuperiorTalismanOfJergal",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -1886,36 +1896,36 @@ object category "I_AMX_RING_OF_ABILITY_SCORES_6",1,0,0,0,0,0,0,0
 new treasuretable "AMX_UNDERWEAR_1_TT"
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELF_WHITE_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_ELF_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_ELF_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELF_BLACK_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_ELF_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_ELFBANDAGES_WHITE_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_ELFBANDAGES_BLACK_FULL_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_ELF_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_ELFBANDAGES_WHITE_FULL_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_ELFBANDAGES_BLACK_FULL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_GITH_BLACK_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GITH_BLACK_FULL_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GITH_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GITH_BLACK_FULL_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GITH_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_GITH_WHITE_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GITH_WHITE_FULL_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GITH_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GITH_WHITE_FULL_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GITH_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_HALFLING_WHITE_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_HALFLING_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_HALFLING_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_HALFLING_BLACK_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_HALFLING_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_HALFLING_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELFBARBARIAN_WHITE_FULL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -1926,36 +1936,36 @@ new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELFBARBARIAN_BROWN_FULL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELF_RED_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_ELF_RED_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_ELF_RED_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_GNOME_WHITE_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GNOME_WHITE_FULL_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GNOME_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GNOME_WHITE_FULL_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GNOME_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_GNOME_BLACK_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GNOME_BLACK_FULL_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_GNOME_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GNOME_BLACK_FULL_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_GNOME_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_DWARF_WHITE_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_DWARF_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_DWARF_WHITE_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_DWARF_BLACK_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_DWARF_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_DWARF_BLACK_BOTTOM_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELFDWARF_BLACK_FULL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELFDWARF_WHITE_FULL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_ELFGITH_BLACK_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_ELFGITH_BLACK_FULL_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_ELFGITH_BLACK_FULL_1B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_TIEFLING_WHITE_FULL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -1976,16 +1986,16 @@ new subtable "1,1"
 object category "I_AMX_UNDERWEAR_SUCCUBUS_BLACKSILVER_FULL_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_SUCCUBUS_WHITEGOLD_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_SUCCUBUS_BLACKSILVER_FULL_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_SUCCUBUS_BLACKSILVER_FULL_1C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_SUCCUBUS_BLACK_PANTIES_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_SUCCUBUS_BLACKSILVER_FULL_1B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_SUCCUBUS_BLACKSILVER_FULL_1C",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_SUCCUBUS_BLACK_PANTIES_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_UNDERWEAR_SHADOWBARBARIAN_DARK_FULL_1A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_UNDERWEAR_SHADOW_DARK_BOTTOM_1A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_UNDERWEAR_SHADOW_DARK_BOTTOM_1A",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_BELTS_1_TT"
@@ -2064,66 +2074,66 @@ new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2C",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_2D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_BLACK_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2C",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_BLACK_2D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_WHITE_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2C",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_SEXY_WHITE_2D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2C",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_BLACK_2D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_1A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_1B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2D",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2A",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2B",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2C",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_BLOODGUZZLER_ARMOR_PANTSLESS_WHITE_2D",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_LEATHER_ARMOR_TT"

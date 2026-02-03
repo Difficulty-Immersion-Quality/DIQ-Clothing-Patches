@@ -1,22 +1,52 @@
-new treasuretable "DIQ_OBJ_Clothing_Container_TT"
-CanMerge 1
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
+// new treasuretable "HAV_HarperQuarterMaster"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+
+// new treasuretable "MOO_BugBearvendor_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+
+// new treasuretable "LOW_Figaro_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+
+// new treasuretable "GOB_Quartermaster"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+
+// new treasuretable "WYR_Circus_KoboldMerchant"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
 
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
 // ===========================================================================================================================
 
 new treasuretable "AMX_CHEST_1_TT"
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_ShortsOutfits",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -37,6 +67,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_Other_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_DressOutfits",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_ExoticOutfits_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -53,6 +85,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous_2",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Cloaks_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -71,14 +105,16 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Vase_Dyes_1",1,0,0,0,0,0,0,0
 
 
-new treasuretable "AMX_CHEST_2_TT"
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new treasuretable "AMX_CHEST_2_TT"
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_SUMMONED_BASKET_TT"
 new subtable "1,1"
 object category "I_AMX_SUMMONED_BASKET_PERM_1",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SUMMONED_BASKET_PERM_2",1,0,0,0,0,0,0,0
 
 
 new treasuretable "AMX_SUMMONED_BASKET_PERM_TT"
@@ -102,6 +138,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_Other_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_DressOutfits",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Backpack_Weapons",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Backpack_ExoticOutfits_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -118,8 +156,8 @@ new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Miscellaneous_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_OBJ_Pouch_ArmorClass",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_OBJ_Pouch_Cloaks_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -1831,8 +1869,8 @@ new subtable "1,1"
 object category "I_AMX_ALLBASKETSPELLSRING_1_AC2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_ALLBASKETSPELLSRING_1_AC4",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_AMX_SUMMON_BASKET_AMULET",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMX_SuperiorTalismanOfJergal",1,0,0,0,0,0,0,0
 new subtable "1,1"
