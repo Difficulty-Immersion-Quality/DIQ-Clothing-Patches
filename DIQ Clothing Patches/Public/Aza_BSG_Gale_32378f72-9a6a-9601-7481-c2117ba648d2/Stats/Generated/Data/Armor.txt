@@ -1,20 +1,5 @@
-// ==================================== Aza_BSG_Gale_32378f72-9a6a-9601-7481-c2117ba648d2 ====================================
 // 1.5
 // Note: Both the tutorial chest and non-tutorial chest versions use the same internal folder names.
-
-// ==================================== Object.txt
-
-new entry "CONT_Chest_BSG_Gale_Aza"
-type "Object"
-// using "_Loot"
-using "Goon_Container_Cosmetic_Template"
-data "RootTemplate" "086d4340-acdb-4a5a-acb5-cdfcbeaadf71"
-// data "ValueUUID" "870797b7-fb40-47ae-be7a-544c05c158c8"
-// data "Rarity" "Rare"
-// data "GameSize" "Tiny"
-// data "Vitality" "1"
-
-// ==================================== Armor.txt
 
 new entry "ARM_BSG_BattlemageAttire_Aza"
 type "Armor"
@@ -43,17 +28,3 @@ data "RootTemplate" "a55e799a-796c-48aa-86dc-c43e91bd646d"
 // data "Rarity" "Uncommon"
 // data "Boosts" "UnlockSpell(Shout_UND_FeatherFall_Tower_Boots)"
 // data "PassivesOnEquip" "MAG_JumpBoost_Passive"
-
-// ==================================== Weapon.txt
-
-new entry "WPN_HUM_Quarterstaff_BSG_Gale_Aza"
-type "Weapon"
-// using "WPN_Quarterstaff_B"
-using "WPN_Quarterstaff"
-data "RootTemplate" "a41c3080-b7d1-42fc-96d4-2501dff5b6a8"
-// data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
-// data "Rarity" "Uncommon"
-// data "Weight" "1.6"
-// data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical);"
-// data "BoostsOnEquipMainHand" "UnlockSpell(Target_Topple);"
-// data "Weapon Properties" "Melee;Dippable;Versatile;Magical"

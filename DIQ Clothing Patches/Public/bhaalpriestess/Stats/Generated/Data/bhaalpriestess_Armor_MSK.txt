@@ -1,18 +1,4 @@
-// ==================================== bhaalpriestess ====================================
 // ???
-
-// ==================================== bhaalpriestess_Object.txt
-
-new entry "OBJ_DarkConn_Container"
-type "Object"
-// using "OBJ_Chest_LetterBox"
-using "Goon_Container_Cosmetic_Template"
-data "RootTemplate" "e3d20fc9-06ee-44ff-bea6-6dc6198fc622"
-// data "ValueOverride" "1"
-// data "Weight" "1"
-data "Rarity" "Legendary"
-
-// ==================================== bhaalpriestess_Armor_MSK.txt
 
 new entry "DARKEST_URGE_MSK"
 type "Armor"
@@ -473,49 +459,3 @@ data "RootTemplate" "70cfbcea-c069-4055-a879-d29fb6cdff9f"
 // data "MinLevel" "1"
 // data "Proficiency Group" ""
 data "ColorPresetResource" "0ba78585-683e-431d-9d1e-902f8f5973cd"
-
-// ==================================== bhaalpriestess_Armor.txt
-
-new entry "BHAALS_PRIESTESS_CLOAK_WACC"
-type "Armor"
-// using "ARM_Cloak"
-using "Goon_ARM_Back_Cosmetic_Template"
-// data "Level" ""
-// data "Slot" "Cloak"
-// data "ValueOverride" "300"
-// data "ValueLevel" "2"
-// data "ValueScale" ""
-// data "ValueRounding" "1"
-// data "Weight" "0.1"
-// data "Rarity" "Legendary"
-data "RootTemplate" "c49ca408-dcb0-4f2e-a49a-9ffb9c3e99b0"
-// data "Boosts" ""
-// data "PassivesOnEquip" ""
-// data "ArmorType" "Cloth"
-// data "Shield" "False"
-// data "Armor Class Ability" ""
-// data "ArmorClass" ""
-// data "MinLevel" ""
-// data "Proficiency Group" ""
-
-new entry "BHAALS_PRIESTESS_CLOAK_"
-type "Armor"
-// using "ARM_Cloak"
-using "Goon_ARM_Back_Cosmetic_Template"
-// data "Level" ""
-// data "Slot" "Cloak"
-// data "ValueOverride" "250"
-// data "ValueLevel" "2"
-// data "ValueScale" ""
-// data "ValueRounding" "1"
-// data "Weight" "0.1"
-// data "Rarity" "Legendary"
-data "RootTemplate" "5e829964-57b1-4bf4-a4f2-a56ec18e5086"
-// data "Boosts" ""
-// data "PassivesOnEquip" ""
-// data "ArmorType" "Cloth"
-// data "Shield" "False"
-// data "Armor Class Ability" ""
-// data "ArmorClass" ""
-// data "MinLevel" ""
-// data "Proficiency Group" ""

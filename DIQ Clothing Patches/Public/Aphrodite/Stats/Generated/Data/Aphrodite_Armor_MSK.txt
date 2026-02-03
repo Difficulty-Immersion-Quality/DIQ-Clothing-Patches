@@ -1,7 +1,4 @@
-// ==================================== Aphrodite ====================================
 // 0.2
-
-// ==================================== Aphrodite_Armor_MSK.txt
 
 new entry "APHRODITE_UNDERGARMENTS_MSK"
 type "Armor"

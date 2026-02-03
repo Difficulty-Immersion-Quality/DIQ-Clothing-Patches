@@ -1,8 +1,5 @@
-// ==================================== AthenasChitonCC ====================================
 // 1.1
 // Note: needed to remain overrides due to sharing entry names across versions.
-
-// ==================================== AthenasChitonCC_Armor.txt
 
 new entry "ATHENAS_CHITON"
 type "Armor"

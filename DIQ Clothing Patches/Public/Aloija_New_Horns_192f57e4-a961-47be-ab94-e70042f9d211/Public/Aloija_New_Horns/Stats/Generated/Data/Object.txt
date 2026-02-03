@@ -1,0 +1,8 @@
+// 2.0.1
+
+new entry "HOF_Acc_Pouch"
+type "Object"
+// using "OBJ_Backpack"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "2272f00a-d475-4039-a1fb-90a22e11592a"
+data "Rarity" "Legendary"

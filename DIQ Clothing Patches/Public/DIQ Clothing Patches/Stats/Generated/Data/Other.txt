@@ -1,3 +1,4 @@
+// TODO: Refactor.
 // ==================================== Artificer ====================================
 
 new entry "ARM_Artificer_RingMail_Body"

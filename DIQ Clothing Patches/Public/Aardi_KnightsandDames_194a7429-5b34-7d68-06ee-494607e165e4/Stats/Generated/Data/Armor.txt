@@ -1,16 +1,4 @@
-// ==================================== Aardi_KnightsandDames_194a7429-5b34-7d68-06ee-494607e165e4 ====================================
 // 1.0.0.24
-
-// ==================================== Object.txt
-
-new entry "AARDI_CONT_GEN_Chest_KnightsandDames"
-type "Object"
-// using "_Container"
-using "Goon_Container_Cosmetic_Template"
-data "RootTemplate" "2d59f7a4-2d35-45be-ab19-06b077fc0394"
-data "Rarity" "Legendary"
-
-// ==================================== Armor.txt
 
 new entry "AARDI_ARM_Nobility"
 type "Armor"
@@ -258,4 +246,3 @@ data "RootTemplate" "602738b8-d880-4c7b-8a49-a5e15fc8b0c0"
 // type "Armor"
 // using "ARM_Cloak"
 // data "RootTemplate" "63583fbd-1c83-48b0-b4a7-018058a1455d"
-

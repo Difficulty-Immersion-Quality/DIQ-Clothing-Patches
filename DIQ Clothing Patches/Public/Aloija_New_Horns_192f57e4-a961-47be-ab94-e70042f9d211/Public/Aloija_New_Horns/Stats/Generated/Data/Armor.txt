@@ -1,16 +1,4 @@
-// ==================================== Aloija_New_Horns_192f57e4-a961-47be-ab94-e70042f9d211 ====================================
 // 2.0.1
-
-// ==================================== Object.txt
-
-new entry "HOF_Acc_Pouch"
-type "Object"
-// using "OBJ_Backpack"
-using "Goon_Container_Cosmetic_Template"
-data "RootTemplate" "2272f00a-d475-4039-a1fb-90a22e11592a"
-data "Rarity" "Legendary"
-
-// ==================================== Armor.txt
 
 new entry "ARM_Horns_03_Accessories"
 type "Armor"
