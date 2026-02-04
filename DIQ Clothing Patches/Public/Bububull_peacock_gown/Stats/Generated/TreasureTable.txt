@@ -1,3 +1,24 @@
+
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CLT_Peacock_GOWN",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Peacock_Necklace",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Peacock_CAMP_GOWN",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_Peacock_shoes",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CAMP_Peacock_shoes",1,0,0,0,0,0,0,0
+
+
+
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
@@ -14,3 +35,39 @@ object category "I_ARM_Peacock_shoes",1,0,0,0,0,0,0,0
 CanMerge 1
 new subtable "1,1"
 object category "I_CAMP_Peacock_shoes",1,0,0,0,0,0,0,0
+
+
+// new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CLT_Peacock_GOWN",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Peacock_Necklace",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Peacock_CAMP_GOWN",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_Peacock_shoes",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CAMP_Peacock_shoes",1,0,0,0,0,0,0,0
+
+
+// new treasuretable "LOW_Figaro_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CLT_Peacock_GOWN",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Peacock_Necklace",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Peacock_CAMP_GOWN",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_Peacock_shoes",1,0,0,0,0,0,0,0
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CAMP_Peacock_shoes",1,0,0,0,0,0,0,0
