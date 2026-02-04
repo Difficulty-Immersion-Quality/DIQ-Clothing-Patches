@@ -1,4 +1,5 @@
 // ==================================== Container ====================================
+// using "Goon_Container_Cosmetic_Template"
 
 new entry "Goon_Container_Cosmetic_Template"
 type "Object"
@@ -9,6 +10,7 @@ data "ValueOverride" "1"
 data "Rarity" "Common"
 
 // ==================================== Dye ====================================
+// using "Goon_OBJ_Dye_Cosmetic_Template"
 
 new entry "Goon_OBJ_Dye_Cosmetic_Template"
 type "Object"
@@ -20,6 +22,16 @@ data "Rarity" "Common"
 data "Priority" "1"
 
 // ==================================== Armour ====================================
+// using "Goon_ARM_Body_Cosmetic_Template"
+// using "Goon_ARM_Head_Cosmetic_Template"
+// using "Goon_ARM_Hand_Cosmetic_Template"
+// using "Goon_ARM_Foot_Cosmetic_Template"
+// using "Goon_ARM_Back_Cosmetic_Template"
+// using "Goon_ARM_Neck_Cosmetic_Template"
+// using "Goon_ARM_Finger_Cosmetic_Template"
+// using "Goon_ARM_Underwear_Cosmetic_Template"
+// using "Goon_ARM_CampBody_Cosmetic_Template"
+// using "Goon_ARM_CampFoot_Cosmetic_Template"
 
 // Chest
 new entry "Goon_ARM_Body_Cosmetic_Template"
