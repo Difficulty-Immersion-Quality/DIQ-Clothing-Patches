@@ -20,7 +20,40 @@ new subtable "1,1"
 object category "I_Aloija's_CalimshanPirate_Boots_Camp",1,0,0,0,0,0,0,0
 
 
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_CalimshanPirate_Bag",1,0,0,0,0,0,0,0
+
+
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CalimshanPirate_Bag",1,0,0,0,0,0,0,0
+
+
+// new treasuretable "DEN_Volo_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CalimshanPirate_Bag",1,0,0,0,0,0,0,0
+
+
+// new treasuretable "WYR_Danthelon_Trader"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CalimshanPirate_Bag",1,0,0,0,0,0,0,0
+
+
+// new treasuretable "LOW_Figaro_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CalimshanPirate_Bag",1,0,0,0,0,0,0,0
+
+
+// new treasuretable "DEN_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_CalimshanPirate_Bag",1,0,0,0,0,0,0,0
+
+

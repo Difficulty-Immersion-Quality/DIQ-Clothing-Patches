@@ -1,0 +1,10 @@
+// ???
+
+new entry "OBJ_DarkConn_Container"
+type "Object"
+// using "OBJ_Chest_LetterBox"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "e3d20fc9-06ee-44ff-bea6-6dc6198fc622"
+// data "ValueOverride" "1"
+// data "Weight" "1"
+data "Rarity" "Legendary"

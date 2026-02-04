@@ -1,37 +1,16 @@
-// ==================================== Aardi_KnightsandDames_194a7429-5b34-7d68-06ee-494607e165e4 ====================================
 // 1.0.0.24
-
-// ==================================== Object.txt
-
-new entry "AARDI_CONT_GEN_Chest_KnightsandDames"
-type "Object"
-// using "_Container"
-using "AARDI_CONT_GEN_Chest_KnightsandDames"
-// data "RootTemplate" "2d59f7a4-2d35-45be-ab19-06b077fc0394"
-// data "Rarity" "Legendary"
-// data "Weight" "5"
-data "Weight" "0.01"
-// data "ValueOverride" ""
-data "ValueOverride" "1"
-
-// ==================================== Armor.txt
 
 new entry "AARDI_ARM_Nobility"
 type "Armor"
 // using "ARM_Robe_Body"
-using "AARDI_ARM_Nobility"
-// data "RootTemplate" "6a177d69-e791-4987-ae0d-74632576ae2c"
+using "Goon_ARM_Body_Cosmetic_Template"
+data "RootTemplate" "6a177d69-e791-4987-ae0d-74632576ae2c"
 // data "UseCosts" "ActionPoint:0"
-data "UseCosts" "ActionPoint:1"
 // data "ArmorClass" "17"
-data "ArmorClass" "10"
 // data "Weight" "0.01"
 // data "ValueOverride" ""
-data "ValueOverride" "1"
 // data "PassivesOnEquip" "ARM_SuperiorPlate_2_Passive;"
-data "PassivesOnEquip" ""
 // data "Rarity" ""
-data "Rarity" "Common"
 
 // new entry "AARDI_ARM_Nobility_Threads_Plain"
 // type "Armor"
@@ -216,15 +195,12 @@ data "Rarity" "Common"
 new entry "AARDI_ARM_Headwear_GH_1"
 type "Armor"
 // using "ARM_Hat"
-using "AARDI_ARM_Headwear_GH_1"
-// data "RootTemplate" "602738b8-d880-4c7b-8a49-a5e15fc8b0c0"
+using "Goon_ARM_Head_Cosmetic_Template"
+data "RootTemplate" "602738b8-d880-4c7b-8a49-a5e15fc8b0c0"
 // data "UseCosts" "ActionPoint:0"
-data "UseCosts" "ActionPoint:1"
 // data "Weight" "0.01"
 // data "ValueOverride" ""
-data "ValueOverride" "1"
 // data "Rarity" ""
-data "Rarity" "Common"
 
 // new entry "AARDI_ARM_Headwear_GH_1_Hair"
 // type "Armor"
@@ -270,4 +246,3 @@ data "Rarity" "Common"
 // type "Armor"
 // using "ARM_Cloak"
 // data "RootTemplate" "63583fbd-1c83-48b0-b4a7-018058a1455d"
-

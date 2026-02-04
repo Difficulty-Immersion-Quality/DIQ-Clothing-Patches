@@ -170,9 +170,9 @@ add equipment entry "Tara_Book"
 add equipmentgroup
 add equipment entry "WPN_HUM_Quarterstaff_BSG_Gale_Aza"
 add equipmentgroup
-add equipment entry "ARM_BSG_Boots_Gale_Aza"
+add equipment entry "ARM_BSG_Boots_Gale_Aza_Start"
 add equipmentgroup
-add equipment entry "ARM_BSG_BattlemageAttire_Aza"
+add equipment entry "ARM_BSG_BattlemageAttire_Aza_Start"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Gale"
 add equipmentgroup

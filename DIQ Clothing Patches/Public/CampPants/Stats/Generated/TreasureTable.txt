@@ -64,6 +64,7 @@ object category "I_EPI_Camp_Prison_Pants",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_EPI_Camp_DU_Rags_Pants",1,0,0,0,0,0,0,0
 
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"

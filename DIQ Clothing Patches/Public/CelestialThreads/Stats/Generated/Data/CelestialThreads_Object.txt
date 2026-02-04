@@ -17,8 +17,9 @@
 
 new entry "OBJ_CelestialThreads_Container"
 type "Object"
-using "OBJ_Chest_LetterBox"
+// using "OBJ_Chest_LetterBox"
+using "Goon_Container_Cosmetic_Template"
 data "RootTemplate" "d63cdbb3-238f-4033-a059-12b81a43edea"
-data "ValueOverride" "1"
-data "Weight" "0.1"
-data "Rarity" "Legendary"
+// data "ValueOverride" "1"
+// data "Weight" "1"
+data "Rarity" "Yellow"

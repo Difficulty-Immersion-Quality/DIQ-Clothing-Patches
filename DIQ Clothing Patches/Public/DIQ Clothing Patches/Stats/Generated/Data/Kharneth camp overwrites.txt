@@ -1,3 +1,4 @@
+// TODO: Refactor.
 // ==================================== Elven Weaponry - Robes ====================================
 
 new entry "EW_Robes_Underwear_Base_A"

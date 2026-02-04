@@ -1,4 +1,25 @@
+// new treasuretable "PLA_ZhentarimTrader_Extra"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_bububull_reddress",1,0,0,0,0,0,0,0
+
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_ARM_bububull_reddress",1,0,0,0,0,0,0,0
+
+// new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_bububull_reddress",1,0,0,0,0,0,0,0
+
+// new treasuretable "MOO_InfernalTrader_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_bububull_reddress",1,0,0,0,0,0,0,0
+
+// new treasuretable "LOW_Figaro_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ARM_bububull_reddress",1,0,0,0,0,0,0,0
