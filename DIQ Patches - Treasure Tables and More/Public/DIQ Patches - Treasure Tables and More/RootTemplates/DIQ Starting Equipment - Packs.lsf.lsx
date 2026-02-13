@@ -4,6 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!-- TODO: Comments and all that. -->
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h034411c2g3767g48ccgb25bg8cc5fea157bf" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h2b249b98g8a94g4cb3g96dfg58c442608199" version="1" />
