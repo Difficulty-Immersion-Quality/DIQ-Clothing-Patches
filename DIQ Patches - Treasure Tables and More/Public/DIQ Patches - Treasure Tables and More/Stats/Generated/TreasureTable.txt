@@ -1,0 +1,133 @@
+// ==================================== Trade with Wither's Addon - Containers ====================================
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_DIQ_OBJ_Main_Container",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Main_Container_TT"
+// CanMerge 1
+new subtable "1,1"
+object category "I_DIQ_OBJ_Important_Container",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DIQ_OBJ_Weapon_Container",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DIQ_OBJ_Clothing_Container",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DIQ_OBJ_Dye_Container",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"
+
+// ==================================== DIQ Starting Equipment ====================================
+
+// ==================================== Custom starting containers
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Shadowheart_Start_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_ChainShirt_Body_Shar",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Wyll_Start_TT"
+CanMerge 1
+new subtable "-1" 
+object category "I_ARM_Padded_Body",1,0,0,0,0,0,0,0
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Laezel_Start_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_HalfPlate_Body_Githyanki_Start_OG",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Boots_Metal_Githyanki_Start_OG",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Gloves_Metal_Githyanki_Start_OG",1,0,0,0,0,0,0,0
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Gale_Start_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Camp_Body_Gale",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_GaleRobe",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_Shoes",1,0,0,0,0,0,0,0
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Astarion_Start_TT"
+CanMerge 1
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Karlach_Start_TT"
+CanMerge 1
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Halsin_Start_TT"
+CanMerge 1
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Minthara_Start_TT"
+CanMerge 1
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Jaheira_Start_TT"
+CanMerge 1
+
+new treasuretable "CompanionsPack_OBJ_Backpack_Minsc_Start_TT"
+CanMerge 1
+
+// ==================================== DIQ Miscellaneous Item Patches ====================================
+
+// ==================================== JWL Crafting Framework - Withers injector
+
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_VR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC2S",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC3S",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Smithing_Hammer_UC4S",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Scribes_Tools_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Scribes_Tools_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Scribes_Tools_VR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_MortarPestle_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_MortarPestle_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_JewelersTools_UC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_JewelersTools_RR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_JewelersTools_VR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Cooking_Cauldron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Cooking_Pan",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_Cooking_Board",1,0,0,0,0,0,0,0
+
+// ==================================== Mindweaver dye ====================================
+
+new treasuretable "DIQ_OBJ_Dye_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_MINDWEAVER_AstralSeer_dye",1,0,0,0,0,0,0,0
