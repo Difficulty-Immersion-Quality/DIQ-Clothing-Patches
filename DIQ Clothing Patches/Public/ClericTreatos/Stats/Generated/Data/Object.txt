@@ -1,3 +1,5 @@
+// 4 (Cleric Camp Outfit- Plain Ilmater Kelemvor Helm Bhaal Mystra)
+
 new entry "CSS_ClericTreatoBag"
 type "Object"
 // using "_Container"

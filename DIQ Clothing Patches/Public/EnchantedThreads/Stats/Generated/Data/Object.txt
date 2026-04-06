@@ -1,3 +1,5 @@
+// 5.1 (Enchanted Threads: Enchanted Threads AIO)
+
 ///
 ///     "new entry" is the same name which you created for the "Stats" section of the _merged.lsx file.
 ///
@@ -16,9 +18,11 @@
 ///
 
 new entry "OBJ_EnchantedThreads_Container"
-using "OBJ_Chest_LetterBox"
-data "RootTemplate" "427b528c-7e10-4450-9095-816f00aa6d7e"
-data "ValueOverride" "1"
-data "Weight" "1"
 type "Object"
-data "Rarity" "REPLACE_WITH_RARITY"
+// using "OBJ_Chest_LetterBox"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "427b528c-7e10-4450-9095-816f00aa6d7e"
+// data "ValueOverride" "1"
+// data "Weight" "1"
+// type "Object"
+// data "Rarity" "REPLACE_WITH_RARITY"

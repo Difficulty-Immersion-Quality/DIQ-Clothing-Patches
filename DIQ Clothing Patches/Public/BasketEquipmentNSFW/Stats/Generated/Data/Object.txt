@@ -1,3 +1,6 @@
+// 1.1.5
+// Note: NSFW entries present as the nude NSFW templates don't exist in the SFW version but the treasure table override had to be adjusted so there's not a bunch of dud item entries.
+
 new entry "AMX_DYE_SELUNE_ORIGINAL_1A"
 type "Object"
 // using "_Dye_Basket"

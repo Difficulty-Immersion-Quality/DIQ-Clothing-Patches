@@ -1,4 +1,20 @@
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Everdawn_hiji_Cont",1,0,0,0,0,0,0,0
+
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Everdawn_hiji_Cont",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Everdawn_hiji_Cont",1,0,0,0,0,0,0,0
+
+new treasuretable "Everdawn_hiji_Cont_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_Everdawn_dress",1,0,0,0,0,0,0,0
@@ -24,3 +40,6 @@ new subtable "1,1"
 object category "I_Everdawn_brace_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Everdawn_brace_C",1,0,0,0,0,0,0,0
+
+
+
