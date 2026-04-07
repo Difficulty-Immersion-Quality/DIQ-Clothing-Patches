@@ -1,3 +1,5 @@
+// 1.2.0.3 (SanSpidersilk Armour: SanSpidersilkArmor)
+
 new entry "SPIDERSILK_ARMOR_ALT"
 type "Armor"
 // using "ARM_StuddedLeather_Body_Drow"
