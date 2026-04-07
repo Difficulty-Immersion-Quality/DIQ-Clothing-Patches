@@ -1,3 +1,5 @@
+
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Weapon_Container_TT"
 CanMerge 1
 new subtable "1,1"
