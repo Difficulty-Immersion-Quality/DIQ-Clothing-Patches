@@ -131,3 +131,62 @@ new treasuretable "DIQ_OBJ_Dye_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_MINDWEAVER_AstralSeer_dye",1,0,0,0,0,0,0,0
+
+// ==================================== Kharneth stuff ====================================
+
+// Elven_Weaponry_Dryad
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+new subtable "1,1"
+object category "I_EW_Dryad_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Dryad_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+
+// Elven_Weaponry_Plate
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Plate_Camp_Rare_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Camp_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Plate_Underwear_VeryRare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Annelace_Panties",1,0,0,0,0,0,0,0
+
+// Elven_Weaponry_Ranger
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Ranger_Camp_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Underwear_Uncommon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Ranger_Camp_VeryRare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_RangerArmor_Uncommon_Crate",1,0,0,0,0,0,0,0
+
+// Elven_Weaponry_Robes
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Robes_Camp_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Robes_Camp_Boots_Rare_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Robes_Underwear_Rare_A",1,0,0,0,0,0,0,0
+
+new treasuretable "DIQ_OBJ_Weapon_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Robes_Amulet_Letter",1,0,0,0,0,0,0,0
+
+// Elven_Weaponry_Rogue
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_EW_Rogue_Camp_Base_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_EW_Rogue_Shoes_Base_A",1,0,0,0,0,0,0,0

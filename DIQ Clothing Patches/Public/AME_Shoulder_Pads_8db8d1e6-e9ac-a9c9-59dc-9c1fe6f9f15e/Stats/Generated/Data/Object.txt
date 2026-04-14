@@ -1,0 +1,32 @@
+// 1.2
+
+new entry "CONT_Modular_OS_Cloak"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "322411f8-a17d-4575-9869-9129811a6984"
+// data "ValueOverride" "0"
+data "Rarity" "VeryRare"
+// data "Weight" "0"
+// data "Vitality" "100"
+
+new entry "CONT_Modular_OS_Helmet"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "a9c3eabb-e9fc-423e-9274-fef658f3fba0"
+// data "ValueOverride" "0"
+data "Rarity" "Rare"
+// data "Weight" "0"
+// data "Vitality" "100"
+
+new entry "CONT_Modular_OS_Underwear"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "db39d614-c08f-42fa-830e-76183285d7c3"
+// data "ValueOverride" "0"
+data "Rarity" "Uncommon"
+// data "Weight" "0"
+// data "Vitality" "100"
+

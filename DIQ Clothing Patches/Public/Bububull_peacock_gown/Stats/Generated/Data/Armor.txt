@@ -1,4 +1,4 @@
-// ???
+// ??? (Bububull's peacock gown - DELETED)
 
 new entry "CLT_Peacock_GOWN"
 type "Armor"

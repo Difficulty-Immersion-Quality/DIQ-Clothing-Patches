@@ -1,0 +1,9 @@
+
+new entry "PWP_Item_Container"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "ebad355d-afb9-45aa-a625-9aefaa26831d"
+// data "ValueOverride" "1"
+// data "Weight" "0.01"
+// data "Rarity" "Rare"

@@ -33,7 +33,13 @@ object category "I_ROBES_OF_THE_DRAGON_EMPRESS_MSK",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_EVENSTAR_DRESS_PATTERNED_MSK",1,0,0,0,0,0,0,0
 
+// new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_EnchantedThreads_Container",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_OBJ_EnchantedThreads_Container",1,0,0,0,0,0,0,0

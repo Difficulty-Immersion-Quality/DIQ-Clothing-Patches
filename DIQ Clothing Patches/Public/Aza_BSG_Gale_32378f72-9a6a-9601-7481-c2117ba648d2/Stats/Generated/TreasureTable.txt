@@ -18,3 +18,8 @@ new treasuretable "DIQ_OBJ_Weapon_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_WPN_HUM_Quarterstaff_BSG_Gale_Aza",1,0,0,0,0,0,0,0
+
+// new treasuretable "TUT_Chest_Potions"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_",1,0,0,0,0,0,0,0

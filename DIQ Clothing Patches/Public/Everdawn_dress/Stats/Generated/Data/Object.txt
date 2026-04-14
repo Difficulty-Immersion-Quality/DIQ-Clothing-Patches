@@ -1,7 +1,10 @@
+// 1.3 (Everdawn dress (clothes): Everdawn dress)
+
 new entry "Everdawn_hiji_Cont"
 type "Object"
-using "_Container"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
 data "RootTemplate" "d63f56ef-2070-41d4-babb-ecde8429ead3"
-data "ValueOverride" "1"
-data "Weight" "0.01"
+// data "ValueOverride" "1"
+// data "Weight" "0.01"
 data "Rarity" "Rare"

@@ -1,0 +1,10 @@
+// 1.2.0.3 (SanSpidersilk Armour: SanSpidersilkArmor)
+
+new entry "SPK_SpiderSilkAlt_Egg"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "84eb67df-1a8b-40c8-aebc-2b0ad65a03d5"
+// data "ValueOverride" "7"
+// data "Weight" "0.1"
+data "Rarity" "Rare"

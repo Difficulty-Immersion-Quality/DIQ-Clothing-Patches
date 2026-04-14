@@ -1,0 +1,50 @@
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "-1"
+object category "I_SPK_SpiderSilkAlt_Egg",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "-1"
+// object category "I_SPK_SpiderSilkAlt_Egg",1,0,0,0,0,0,0,0
+
+// new treasuretable "CRE_GithQuartermistress_Trade"
+// CanMerge 1
+// new subtable "-1"
+// object category "I_SPK_SpiderSilkAlt_Egg",1,0,0,0,0,0,0,0
+
+// new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+// CanMerge 1
+// new subtable "-1"
+// object category "I_SPK_SpiderSilkAlt_Egg",1,0,0,0,0,0,0,0
+
+// new treasuretable "MOO_InfernalTrader_Trade"
+// CanMerge 1
+// new subtable "-1"
+// object category "I_SPK_SpiderSilkAlt_Egg",1,0,0,0,0,0,0,0
+
+// new treasuretable "LOW_Figaro_Trade"
+// CanMerge 1
+// new subtable "-1"
+// object category "I_SPK_SpiderSilkAlt_Egg",1,0,0,0,0,0,0,0
+
+// new treasuretable "WYR_Danthelon_Trader"
+// CanMerge 1
+// new subtable "-1"
+// object category "I_SPK_SpiderSilkAlt_Egg",1,0,0,0,0,0,0,0
+
+new treasuretable "SPK_SpiderSilkAlt_Egg_TT"
+new subtable "-1"
+object category "I_SPIDERSILK_ARMOR_ALT",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SPIDERSILK_ARMOR_ALT_2",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SPIDERSILK_ARMOR_ALT_3",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SPIDERSILK_ARMOR_ALT_4",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SPK_GOB_DrowCommander_Leather_Boots",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_SPK_DrowCommander_Leather_Gloves",1,0,0,0,0,0,0,0
+

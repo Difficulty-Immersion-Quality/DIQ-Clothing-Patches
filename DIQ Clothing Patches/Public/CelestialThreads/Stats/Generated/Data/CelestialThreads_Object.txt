@@ -1,3 +1,5 @@
+// 2.0
+
 ///
 ///     "new entry" is the same name which you created for the "Stats" section of the _merged.lsx file.
 ///

@@ -1,4 +1,4 @@
-// 1 (The Witcher - Yennefer's wardrobe - Yennefer_outfit)
+// 1 (The Witcher - Yennefer's wardrobe: Yennefer_outfit)
 
 new entry "Yennefer_Novigrad"
 type "Armor"
