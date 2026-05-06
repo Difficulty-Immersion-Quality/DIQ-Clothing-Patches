@@ -1,0 +1,21 @@
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_LAR_CAT_TAIL_A_BELL",1,0,0,0,0,0,0,0
+
+// new treasuretable "LOW_SorcerousSundries_Trade_Magic"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_LAR_CAT_TAIL_A_BELL",1,0,0,0,0,0,0,0
+
+// new treasuretable "HAV_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_LAR_CAT_TAIL_A_BELL",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_LAR_CAT_TAIL_A_BELL",1,0,0,0,0,0,0,0
+

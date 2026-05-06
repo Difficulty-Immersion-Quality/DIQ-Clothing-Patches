@@ -1,0 +1,12 @@
+// Feline Starter Pack - Colourable Cat Tails and Ears - FelineStarterPack (2.1.0)
+
+new entry "LAR_CAT_TAIL_A_BELL"
+type "Armor"
+// using "ARM_Underwear"
+using "Goon_ARM_Underwear_Cosmetic_Template"
+// data "ValueOverride" "1"
+// data "Weight" "0.1"
+// data "Rarity" "Legendary"
+// data "PassivesOnEquip" ""
+// data "Boosts" ""
+data "RootTemplate" "1aac43e6-9b8e-4efc-beda-87d49fa0eef0"
