@@ -31,3 +31,11 @@ new subtable "1,1"
 object category "I_CSS_CAMPARM_ConceptSHeart_UNIQUETAV",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CSS_CAMPARM_ConceptSHeart_SHLDR_UNIQUETAV",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_SCARFANDMASK_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_HELMET_MASK_ConceptSHeart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_HELMET_MASK_ConceptSHeart_Eyehole",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CSS_Boots_ConceptSHeart_V2",1,0,0,0,0,0,0,0

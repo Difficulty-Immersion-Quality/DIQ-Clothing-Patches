@@ -1,4 +1,4 @@
-// 1.2.2
+// 1.2.3
 
 new entry "CONT_AgileArmor"
 type "Object"
@@ -128,11 +128,21 @@ data "RootTemplate" "f725b495-037b-4c1b-8715-254eb41a38fd"
 
 new entry "HUM_M_ARM_ScalemailDress"
 type "Armor"
-using "ARM_Robe_Body"
+// using "ARM_Robe_Body"
+using "Goon_ARM_Body_Cosmetic_Template"
 data "RootTemplate" "3041d8d0-0ae1-4c67-a968-e5efd286bc62"
-data "Weight" "0.1"
-data "ArmorType" "Cloth"
-data "Rarity" "Common"
+// data "Weight" "0.1"
+// data "ArmorType" "Cloth"
+// data "Rarity" "Common"
+
+new entry "HUM_M_ARM_Tunic_Leather"
+type "Armor"
+// using "ARM_Robe_Body"
+using "Goon_ARM_Body_Cosmetic_Template"
+data "RootTemplate" "56cea243-fb96-4404-966b-e39da59f22eb"
+// data "Weight" "0.1"
+// data "ArmorType" "Cloth"
+// data "Rarity" "Common"
 
 ------------------------------------------------
 
@@ -267,6 +277,15 @@ type "Armor"
 // using "ARM_Vanity_Body_Leather"
 using "Goon_ARM_CampBody_Cosmetic_Template"
 data "RootTemplate" "9a59834b-781b-49d8-8277-b13e81a70788"
+// data "Weight" "0.1"
+// data "ArmorType" "Cloth"
+// data "Rarity" "Rare"
+
+new entry "CLT_Camp_Tunic_Leather"
+type "Armor"
+// using "ARM_Vanity_Body_Leather"
+using "Goon_ARM_CampBody_Cosmetic_Template"
+data "RootTemplate" "98517094-d602-4d69-9a84-fbbf64fc80a4"
 // data "Weight" "0.1"
 // data "ArmorType" "Cloth"
 // data "Rarity" "Rare"
