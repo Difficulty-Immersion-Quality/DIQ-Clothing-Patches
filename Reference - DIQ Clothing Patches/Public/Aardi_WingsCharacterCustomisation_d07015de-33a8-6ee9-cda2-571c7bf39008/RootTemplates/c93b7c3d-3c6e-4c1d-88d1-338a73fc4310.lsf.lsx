@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c93b7c3d-3c6e-4c1d-88d1-338a73fc4310" />
+					<attribute id="Name" type="LSString" value="AARDI_ARM_Wings_Decayed_Camp" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="113ffe5a-b378-433d-8699-ae13cda2eb0e" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hed0bcc7cgcc17g44fdge136g115070b1390e" version="2" />
+					<attribute id="Stats" type="FixedString" value="ARM_Cloak" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

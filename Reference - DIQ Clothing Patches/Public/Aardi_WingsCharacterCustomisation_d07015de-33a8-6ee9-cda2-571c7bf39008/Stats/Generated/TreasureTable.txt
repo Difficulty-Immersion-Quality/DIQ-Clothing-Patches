@@ -1,21 +1,14 @@
-// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
 new treasuretable "II_ChestofPresents_II"
 CanMerge 1
 new subtable "1,1"
 object category "I_Aardi_CONT_GEN_Chest_Wings",1,0,0,0,0,0,0,0
-
-new treasuretable "DIQ_OBJ_Clothing_Container_TT"
-CanMerge 1
-new subtable "1,1"
-object category "I_Aardi_CONT_GEN_Chest_Wings",1,0,0,0,0,0,0,0
-
 new treasuretable "II_Aardi_Gifted_Wings_II"
 CanMerge 1
 new subtable "1,1"
 object category "I_Aardi_CONT_GEN_Chest_Wings_Cloak",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Aardi_CONT_GEN_Chest_WingDyes",1,0,0,0,0,0,0,0
-
 new treasuretable "II_Aardi_Dye_Feathers_II"
 CanMerge 1
 new subtable "1,1"
@@ -282,7 +275,6 @@ new subtable "1,1"
 object category "I_Aardi_LOOT_Dye_Wings_White_004",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Aardi_LOOT_Dye_Wings_White_005",1,0,0,0,0,0,0,0
-
 new treasuretable "II_CloakWings_II"
 CanMerge 1
 new subtable "1,1"

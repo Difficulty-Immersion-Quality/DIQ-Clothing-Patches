@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5cfb8d12-ab8b-48fd-b85f-795ba0aedaef" />
+					<attribute id="Name" type="LSString" value="Aardi_LOOT_Dye_Wings_Lime_001" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="55349655-1d15-498f-bd7d-977ce1e9f330" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2836ef80g3238ge60dg0a3eg2c5c34df60da" version="3" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_GreenSage_01" />
+					<attribute id="ColorPreset" type="guid" value="fab4494b-7616-5edf-ec72-bf5aeb2fdf17" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
