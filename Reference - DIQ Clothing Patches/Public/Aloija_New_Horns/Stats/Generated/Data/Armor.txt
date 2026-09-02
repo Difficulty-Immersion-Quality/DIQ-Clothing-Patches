@@ -1,0 +1,14 @@
+new entry "ARM_Horns_03_Accessories"
+type "Armor"
+using "ARM_Circlet"
+data "RootTemplate" "1828e83d-195f-411f-a14c-4e4162397241"
+data "Rarity" "Legendary"
+data "Unique" "0"
+
+new entry "ARM_Horns_04_Accessories"
+type "Armor"
+using "ARM_Circlet"
+data "RootTemplate" "7857f234-b035-44c0-aa8e-eba16768a9f6"
+data "Rarity" "Legendary"
+data "Unique" "0"
+

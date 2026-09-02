@@ -1,4 +1,4 @@
-// 2.0.1
+// 2.0.1 (Horns of Faerun)
 
 new entry "ARM_Horns_03_Accessories"
 type "Armor"
@@ -13,8 +13,9 @@ type "Armor"
 // using "ARM_Circlet"
 using "Goon_ARM_Head_Cosmetic_Template"
 data "RootTemplate" "7857f234-b035-44c0-aa8e-eba16768a9f6"
-data "Rarity" "Legendary"
-data "Unique" "0"
+// data "Rarity" "Legendary"
+// data "Unique" "0"
+
 
 // OLD
 new entry "Hat_Horns_03_Jewel"
