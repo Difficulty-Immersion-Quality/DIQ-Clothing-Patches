@@ -1,4 +1,5 @@
 // 1.0.0.30 (Knights and Dames)
+// TODO: Harmful template inheritance from non-generic armour templates.
 
 new entry "AARDI_CONT_GEN_Chest_KnightsandDames"
 type "Object"
