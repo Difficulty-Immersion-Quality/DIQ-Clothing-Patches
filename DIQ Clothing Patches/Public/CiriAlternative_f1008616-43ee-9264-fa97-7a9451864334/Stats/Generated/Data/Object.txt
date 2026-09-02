@@ -1,0 +1,9 @@
+// 1 (Lady of Space and Time - Ciri's alternative outfit: Lady of Space and Time - Dyeable)
+
+new entry "CONT_CiriAlt"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "48c8ed4f-fca6-4cba-98f5-b20be3c54fcd"
+// data "Weight" "0.1"
+

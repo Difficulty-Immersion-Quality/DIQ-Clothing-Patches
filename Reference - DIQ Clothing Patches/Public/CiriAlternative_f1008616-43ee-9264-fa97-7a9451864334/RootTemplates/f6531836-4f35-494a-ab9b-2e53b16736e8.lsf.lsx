@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f6531836-4f35-494a-ab9b-2e53b16736e8" />
+					<attribute id="Name" type="LSString" value="ARM_CiriAlt_Pants_Camp" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6205e631-596f-45fa-b217-4b93d52ed454" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1202980fgb27fgebefgbec9gf16217dc729c" version="1" />
+					<attribute id="Stats" type="FixedString" value="ARM_CiriAlt_Pants_Camp" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
