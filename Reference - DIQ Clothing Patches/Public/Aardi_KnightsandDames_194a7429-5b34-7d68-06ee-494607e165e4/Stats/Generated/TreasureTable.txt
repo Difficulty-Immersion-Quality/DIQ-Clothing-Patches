@@ -1,4 +1,4 @@
-// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
 new treasuretable "II_KnightsandDames_II"
 CanMerge 1
 new subtable "1,1"
@@ -95,13 +95,7 @@ new subtable "1,1"
 object category "I_AARDI_ARM_Valour",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AARDI_ARM_Glory",1,0,0,0,0,0,0,0
-
 new treasuretable "II_ChestofPresents_II"
-CanMerge 1
-new subtable "1,1"
-object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
-
-new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
 new subtable "1,1"
 object category "I_AARDI_CONT_GEN_Chest_KnightsandDames",1,0,0,0,0,0,0,0
