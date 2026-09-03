@@ -1,5 +1,4 @@
-// new treasuretable "TUT_Chest_Potions"
-new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
 object category "I_CONT_AgileArmor",1,0,0,0,0,0,0,0
