@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2b6ac3b3-9168-407b-b83d-beffc9f8316f" />
+					<attribute id="Name" type="LSString" value="OLD_Modular_ShoulderPads" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8e036eac-fc9c-4d16-9265-f71eacc9f3e9" />
+					<attribute id="ReadinessFlags" type="uint32" value="319" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb993a9f2g1a0agebacgddeag9b13e8396dca" version="12" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Alchemy_Myconid_Grenade_Feywild" />
+					<attribute id="Stats" type="FixedString" value="CONT_Modular_ShoulderPads" />
+					<attribute id="Description" type="TranslatedString" handle="hb84b7d3bg7773gdbd1g4e77g3d7a1b9d77e1" version="12" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="False" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CONT_Modular_ShoulderPads" />
+								</node>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CONT_Modular_OS_Helmet" />
+								</node>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CONT_Modular_OS_Underwear" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

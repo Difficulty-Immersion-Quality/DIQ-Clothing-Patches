@@ -1,4 +1,4 @@
-// 1.2
+// 1.2 (Ornate Shoulders)
 
 new entry "AME_MS_Dark_Justiciar"
 type "Armor"
