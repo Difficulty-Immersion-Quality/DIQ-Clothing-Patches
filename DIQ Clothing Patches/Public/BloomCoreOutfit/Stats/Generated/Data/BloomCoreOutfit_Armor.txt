@@ -1,4 +1,4 @@
-// 1.0 (Luminous Threads)
+// 1.0 (Luminous Threads: BloomCore Outfit)
 
 new entry "BLOOMCORE_OUTFIT"
 type "Armor"
