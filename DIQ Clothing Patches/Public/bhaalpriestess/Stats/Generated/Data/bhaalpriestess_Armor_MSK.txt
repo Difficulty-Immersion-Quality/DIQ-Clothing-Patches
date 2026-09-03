@@ -1,4 +1,4 @@
-// ???
+// 3.0 (✧ Blossom's Shunned and Forgotten Collection Vol. 1 ✧)
 
 new entry "DARKEST_URGE_MSK"
 type "Armor"
