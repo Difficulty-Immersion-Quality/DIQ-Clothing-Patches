@@ -1,4 +1,4 @@
-// 3 (Fancy noble gear)
+// 3 (Fancy noble gear: fancy noble gear)
 
 new entry "Opulent_duelist_gear"
 type "Armor"
