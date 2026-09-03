@@ -1,4 +1,4 @@
-// ??? (Midnight Lover Set (Body 1 and 2) - DELETED)
+// 1.0.0 (Midnight Lover Set (Body 1 and 2) - DELETED: BW_Midnight_Lover_Set)
 
 // --- spells ---
 
@@ -73,7 +73,7 @@ using "Goon_Container_Cosmetic_Template"
 data "RootTemplate" "1ef3bd27-0319-48d9-b65b-6317d5b66ec0"
 // data "Weight" "0.1"
 // data "GameSize" "Medium"
-// data "Rarity" "Rare"
+data "Rarity" "Rare"
 
 new entry "BW_ML_CROWN"
 type "Armor"

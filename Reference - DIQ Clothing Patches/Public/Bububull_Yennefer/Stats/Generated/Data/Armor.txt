@@ -70,20 +70,20 @@ data "Rarity" "Common"
 
 
 
-new entry "MAG_MagicalDefense_Yennefer
-type "PassiveData"
-data "DisplayName" "19cd05d3-262c-471b-a07a-93e9b3f0f4d4"
-data "Description" "5da86577-4098-4188-93e7-eb468eaf40e8"
-data "Icon" "PassiveFeature_ShieldMaster_Block"
-data "Properties" "Highlighted"
-data "BoostContext" "OnEquip;OnCreate"
-data "BoostConditions" "not WearingArmor(context.Source) and not HasShieldEquipped(context.Source)"
-data "Boosts" "ACOverrideFormula(10,true,Dexterity,Charisma)"
+// new entry "MAG_MagicalDefense_Yennefer
+// type "PassiveData"
+// data "DisplayName" "19cd05d3-262c-471b-a07a-93e9b3f0f4d4"
+// data "Description" "5da86577-4098-4188-93e7-eb468eaf40e8"
+// data "Icon" "PassiveFeature_ShieldMaster_Block"
+// data "Properties" "Highlighted"
+// data "BoostContext" "OnEquip;OnCreate"
+// data "BoostConditions" "not WearingArmor(context.Source) and not HasShieldEquipped(context.Source)"
+// data "Boosts" "ACOverrideFormula(10,true,Dexterity,Charisma)"
 
 
-new entry "MAG_warcaster_Yennefer
-type "PassiveData"
-data "DisplayName" "h2d5dacb3g8451g40f4g9c14g33df6c96eb6f;2"
-data "Description" "h2fc6ee3cg6be8g485ag809fgd66b52ba9e53;3"
-data "Icon" "PassiveFeature_WarCaster_OpportunitySpell"
-data "Properties" "Highlighted"
+// new entry "MAG_warcaster_Yennefer
+// type "PassiveData"
+// data "DisplayName" "h2d5dacb3g8451g40f4g9c14g33df6c96eb6f;2"
+// data "Description" "h2fc6ee3cg6be8g485ag809fgd66b52ba9e53;3"
+// data "Icon" "PassiveFeature_WarCaster_OpportunitySpell"
+// data "Properties" "Highlighted"
