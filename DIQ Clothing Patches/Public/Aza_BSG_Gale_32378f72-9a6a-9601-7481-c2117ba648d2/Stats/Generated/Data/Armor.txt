@@ -1,5 +1,5 @@
-// 1.5
-// Note: Both the tutorial chest and non-tutorial chest versions use the same internal folder names.
+// 1.6 (Gale's Better Starting Gear by AzazeL (Patch 7-8): 1. Gale's Better Starting Gear))
+// Note: 2. Gale's Better Starting Gear (Tutorial Chest) shares the same internal folder names.
 
 new entry "ARM_BSG_BattlemageAttire_Aza"
 type "Armor"
@@ -28,3 +28,4 @@ data "RootTemplate" "a55e799a-796c-48aa-86dc-c43e91bd646d"
 // data "Rarity" "Uncommon"
 // data "Boosts" "UnlockSpell(Shout_UND_FeatherFall_Tower_Boots)"
 // data "PassivesOnEquip" "MAG_JumpBoost_Passive"
+

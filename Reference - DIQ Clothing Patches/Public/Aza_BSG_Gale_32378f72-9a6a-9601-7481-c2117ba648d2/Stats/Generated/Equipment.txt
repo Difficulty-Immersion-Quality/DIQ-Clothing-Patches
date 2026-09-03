@@ -1,0 +1,29 @@
+new equipment "EQ_Gale"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_HUM_Quarterstaff_BSG_Gale_Aza"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_BSG_Boots_Gale_Aza"
+add equipmentgroup
+add equipment entry "ARM_BSG_BattlemageAttire_Aza"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Gale"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Gale"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Gale"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+

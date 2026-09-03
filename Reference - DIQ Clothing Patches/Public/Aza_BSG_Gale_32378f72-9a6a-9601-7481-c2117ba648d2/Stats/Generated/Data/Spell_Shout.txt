@@ -1,0 +1,7 @@
+new entry "Shout_Shield_Wizard_Gale_Aza"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Shield_Wizard"
+data "Cooldown" "OncePerCombat"
+data "UseCosts" "ReactionActionPoint:1;"
+
