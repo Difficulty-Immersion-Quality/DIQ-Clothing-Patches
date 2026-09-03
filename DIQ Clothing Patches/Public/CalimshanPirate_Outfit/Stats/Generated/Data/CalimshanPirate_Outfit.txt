@@ -1,4 +1,5 @@
-// 1.0.1
+// 1.0.1 (Calimshan Pirate Outfit)
+// TODO: Camp versions don't use unique templates.
 
 new entry "Aloija's_CalimshanPirate_Top_Camp"
 type "Armor"
