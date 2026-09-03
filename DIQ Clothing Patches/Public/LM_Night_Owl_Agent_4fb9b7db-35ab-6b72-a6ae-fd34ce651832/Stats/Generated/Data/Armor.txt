@@ -1,0 +1,30 @@
+// 4 (Night Owl Agent)
+
+new entry "HUM_F_NOA_Boots4"
+type "Armor"
+// using "ARM_Boots_Leather_Druid"
+using "Goon_ARM_Foot_Cosmetic_Template"
+data "RootTemplate" "07433a53-de67-4291-a105-678f92823d29"
+// data "Slot" "Boots"
+// data "ValueUUID" "9495e96a-7e7c-4e3a-8d81-51611908908c"
+
+new entry "HUM_F_NOA_Outfit6"
+type "Armor"
+// using "ARM_Leather_Body_Druid"
+using "Goon_ARM_Body_Cosmetic_Template"
+data "RootTemplate" "b2f5987a-7cf3-41df-8cd0-ab136e886c43"
+// data "Slot" "Breast"
+// data "UseCosts" "ActionPoint:1"
+// data "ArmorClass" "15"
+// data "PassivesOnEquip" "MAG_BardicInspiration_TempHP_Armor_Passive"
+
+new entry "HUM_F_NOA_Outfit6_TMTS"
+type "Armor"
+// using "ARM_Leather_Body_Druid"
+using "Goon_ARM_Body_Cosmetic_Template"
+data "RootTemplate" "c13ade05-22c5-4359-82a8-6ba0e0b9dab4"
+// data "Slot" "Breast"
+// data "UseCosts" "ActionPoint:1"
+// data "ArmorClass" "15"
+// data "PassivesOnEquip" "MAG_BardicInspiration_TempHP_Armor_Passive"
+

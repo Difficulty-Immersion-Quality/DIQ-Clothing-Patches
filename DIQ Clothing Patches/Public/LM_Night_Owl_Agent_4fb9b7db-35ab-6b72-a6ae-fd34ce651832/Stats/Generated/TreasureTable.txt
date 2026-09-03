@@ -1,0 +1,11 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_HUM_F_NOA_Outfit6",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HUM_F_NOA_Boots4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HUM_F_NOA_Outfit6_TMTS",1,0,0,0,0,0,0,0
