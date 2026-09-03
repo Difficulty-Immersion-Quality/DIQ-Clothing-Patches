@@ -5,7 +5,7 @@
 		<node id="Templates">
 			<children>					
 				<node id="GameObjects">	
-					<!-- <attribute id="Description" type="TranslatedString" handle="h37b9ff63g1a94g4af8gb0afgec72fb4b4984" version="1" />				
+					<attribute id="Description" type="TranslatedString" handle="h37b9ff63g1a94g4af8gb0afgec72fb4b4984" version="1" />				
 					<attribute id="DisplayName" type="TranslatedString" handle="h37f37464gd4d9g451dgb991g019016da85e0" version="1" />		
 					<attribute id="CanBePickedUp" type="bool" value="False" /> Toggles whether the object can be picked up.					
 					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_BASKET" />					
@@ -46,7 +46,7 @@
 							<attribute id="RotationQuat" type="fvec4" value="-0.04383415 -0.5523928 -0.04313926 0.8313113" />
 							<attribute id="Scale" type="float" value="0.5" /> This means that the object is half the size.
 						</node>						
-					</children> -->
+					</children>
 				</node>
 			</children>
 		</node>
