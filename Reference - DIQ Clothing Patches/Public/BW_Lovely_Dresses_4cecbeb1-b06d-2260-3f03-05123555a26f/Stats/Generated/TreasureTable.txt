@@ -1,0 +1,39 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "BW_Lovely_Dresses_Container"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Adventure_Princess_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Adventure_Princess_A_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Adventure_Princess_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Adventure_Princess_B_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Deathbed_Dress_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Deathbed_Dress_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Elegant_Dress_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Nurse_Dress_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Nurse_Dress_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Pirate_Princess_A",1,0,0,0,0,0,0,0
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Container",1,0,0,0,0,0,0,0
+new treasuretable "DEN_Volo_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Container",1,0,0,0,0,0,0,0
+new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Container",1,0,0,0,0,0,0,0
+new treasuretable "LOW_Figaro_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_Lovely_Dresses_Container",1,0,0,0,0,0,0,0
