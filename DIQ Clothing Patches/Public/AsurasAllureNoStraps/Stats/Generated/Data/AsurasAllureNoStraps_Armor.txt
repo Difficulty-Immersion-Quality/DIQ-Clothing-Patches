@@ -1,4 +1,4 @@
-// 1.0 (Celestial Threads)
+// 1.0 (Celestial Threads: Asuras Allure (No Skirt or Straps))
 
 new entry "ASURAS_ALLURE_NO_STRAPS"
 type "Armor"
