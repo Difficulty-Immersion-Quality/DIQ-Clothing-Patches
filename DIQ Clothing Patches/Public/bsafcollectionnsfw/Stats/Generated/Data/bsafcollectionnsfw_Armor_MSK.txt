@@ -1,4 +1,4 @@
-// ???
+// 2.0 (Blossom's Shunned and Forgotten Collection - DELETED: Blossom's Shunned and Forgotten Collection - NSFW Variants)
 
 new entry "NSFW_JERGALS_FORGOTTEN_ONE_MSK"
 type "Armor"
