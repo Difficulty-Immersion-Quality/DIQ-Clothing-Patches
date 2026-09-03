@@ -1,6 +1,7 @@
 // new treasuretable "DEN_Entrance_Trade"
 // CanMerge 1
 // new subtable "-1"
+
 // new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1
