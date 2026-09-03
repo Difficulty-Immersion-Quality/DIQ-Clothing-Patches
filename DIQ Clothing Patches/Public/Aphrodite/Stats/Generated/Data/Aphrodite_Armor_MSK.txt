@@ -1,4 +1,4 @@
-// 0.2
+// 0.2 (Aphrodite Outfit: Aphrodite)
 
 new entry "APHRODITE_UNDERGARMENTS_MSK"
 type "Armor"
