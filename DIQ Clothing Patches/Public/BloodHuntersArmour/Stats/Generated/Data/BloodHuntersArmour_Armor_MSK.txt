@@ -1,4 +1,4 @@
-// 1.0 (Luminous Threads)
+// 1.0 (Luminous Threads: Blood Hunter's Armour)
 
 new entry "BLOOD_HUNTERS_ARMOUR_MSK"
 type "Armor"
