@@ -1,4 +1,5 @@
-// 1.0
+// 1.0 (Camp Robes: CampRobes.zip)
+// No custom templates for clothes, but not no custom visuals either so who cares.
 
 new entry "OBJ_CampRobes_Backpack"
 type "Object"
