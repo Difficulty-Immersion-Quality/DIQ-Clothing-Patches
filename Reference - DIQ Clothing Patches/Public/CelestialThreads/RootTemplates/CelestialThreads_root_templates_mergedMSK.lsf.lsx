@@ -1,0 +1,1018 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h877538e-93d6-4904-b73d-76901043a361" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc28427d-ed31-438f-a4fa-5826078bf65f" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_BloodMoon Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aab99e6c-ba93-454e-81a5-f75a7cc032d0" />
+					<attribute id="Name" type="LSString" value="MARS_ATTIRE_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="MARS_ATTIRE_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fc017bc3-2d59-44fa-a9b8-5ce5bad9bc36" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fc017bc3-2d59-44fa-a9b8-5ce5bad9bc36" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fc017bc3-2d59-44fa-a9b8-5ce5bad9bc36" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fc017bc3-2d59-44fa-a9b8-5ce5bad9bc36" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h02031e4-6817-42ec-bc76-7a2eafc1e190" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9a4da63-0391-401e-9a8b-6a328e19dec8" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Selunite Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0de75f5a-33db-4e6b-9129-9cde7e88f020" />
+					<attribute id="Name" type="LSString" value="SELUNA_GOWN__MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="SELUNA_GOWN__MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c57248e6-b4fa-4fe8-8be2-906aeb4bda92" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c57248e6-b4fa-4fe8-8be2-906aeb4bda92" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c57248e6-b4fa-4fe8-8be2-906aeb4bda92" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c57248e6-b4fa-4fe8-8be2-906aeb4bda92" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h10f0d2c-8d07-4c94-a9cf-98ece81595e8" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h62624a5-8760-4365-a063-59a6e176e8ab" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Lehenga Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="13ebbbb5-ba9b-4de4-bcd5-e13360676fa4" />
+					<attribute id="Name" type="LSString" value="LEELA_LEHENGA_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="LEELA_LEHENGA_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="91c28d8f-d40c-4100-a225-0c0467b72f72" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="91c28d8f-d40c-4100-a225-0c0467b72f72" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="91c28d8f-d40c-4100-a225-0c0467b72f72" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="91c28d8f-d40c-4100-a225-0c0467b72f72" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h30d5a33-8109-408e-88b3-e65066d2f8e6" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h5bfb69d-2542-44f9-bfe2-90de818dcff0" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Moonlight Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4f30559c-acf8-448d-87f9-5814e4c10272" />
+					<attribute id="Name" type="LSString" value="AMELIES_MOONLIGHT_GOWN_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="AMELIES_MOONLIGHT_GOWN_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="14505979-e5e3-4aaf-a5ae-9e996c7769f4" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="14505979-e5e3-4aaf-a5ae-9e996c7769f4" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="14505979-e5e3-4aaf-a5ae-9e996c7769f4" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="14505979-e5e3-4aaf-a5ae-9e996c7769f4" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h064379f-6393-4be9-99b0-0b301eb88448" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="haff3427-c586-4446-a3c3-c844a2bb35b9" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Spider Dress Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2ef40e74-8dec-48af-b8b9-8f606b91f956" />
+					<attribute id="Name" type="LSString" value="GOWN_OF_THE_ARACHNE_BAEQESHEL_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="GOWN_OF_THE_ARACHNE_BAEQESHEL_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="168aed8b-5f86-4e69-b5aa-a09b96e71bd6" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="168aed8b-5f86-4e69-b5aa-a09b96e71bd6" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="168aed8b-5f86-4e69-b5aa-a09b96e71bd6" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="168aed8b-5f86-4e69-b5aa-a09b96e71bd6" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h33e1d82-aed8-49ba-9f12-ee1c4c546fda" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h049771a-947a-477a-8987-313d2606d004" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_MerWedDress Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a3dcc8af-fa6f-4d8c-8262-74ee9bca2dac" />
+					<attribute id="Name" type="LSString" value="BHAALS_BRIDE_GOWN_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="BHAALS_BRIDE_GOWN_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f2b8d984-47c4-4a8a-9d18-50ecd10f866d" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f2b8d984-47c4-4a8a-9d18-50ecd10f866d" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f2b8d984-47c4-4a8a-9d18-50ecd10f866d" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f2b8d984-47c4-4a8a-9d18-50ecd10f866d" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h2d39b9e-e09e-4129-9b87-c7e32cbd3368" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hf87f471-b963-4822-9fed-11de22debeeb" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Fairy Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1e65cb1a-b486-441c-a0ae-f4dbab6b2066" />
+					<attribute id="Name" type="LSString" value="DAISY_DRESS_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="DAISY_DRESS_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="74c9c020-945d-469e-8756-0bbd6d08e1a0" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="74c9c020-945d-469e-8756-0bbd6d08e1a0" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="74c9c020-945d-469e-8756-0bbd6d08e1a0" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="74c9c020-945d-469e-8756-0bbd6d08e1a0" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="ha95e2f7-4fa8-40b7-bcca-97712c9e9ebd" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h5f1e214-0cac-421c-bd03-d30cb1fffa44" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Goth Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ad9b5b17-9e58-49bb-82a0-acf6561540fc" />
+					<attribute id="Name" type="LSString" value="DAHLIA_DRESS_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="DAHLIA_DRESS_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="dcd29426-2a55-4ad5-8f5a-a0c704a04662" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="dcd29426-2a55-4ad5-8f5a-a0c704a04662" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="dcd29426-2a55-4ad5-8f5a-a0c704a04662" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="dcd29426-2a55-4ad5-8f5a-a0c704a04662" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbac8515-5721-48e3-aa19-5fcffd23673d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hf7efefa-a620-4ded-a698-4b1f42b62ec8" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Goth Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a92aca5d-b922-4794-9c95-ff2e4aa3bc5f" />
+					<attribute id="Name" type="LSString" value="DAHLIA_DRESS_T_NO_SOCKS_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="DAHLIA_DRESS_T_NO_SOCKS_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="bb5f7e6b-0ed6-49be-a7d2-305a3bc34ff7" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="bb5f7e6b-0ed6-49be-a7d2-305a3bc34ff7" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="bb5f7e6b-0ed6-49be-a7d2-305a3bc34ff7" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="bb5f7e6b-0ed6-49be-a7d2-305a3bc34ff7" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h51b6698-6d55-4ec4-948a-f183169c0e50" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h774cc3a-a3ed-4a52-8077-c356f61e643a" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Bodysuit Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="5ac7e354-d40f-4394-83d0-eb78dea45f97" />
+					<attribute id="Name" type="LSString" value="ASURAS_ALLURE_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="ASURAS_ALLURE_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="729f0b41-e373-45b3-895a-87fccb5c1030" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="e912bdad-823d-4d03-97d7-85d1bd8e60c9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="e912bdad-823d-4d03-97d7-85d1bd8e60c9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="729f0b41-e373-45b3-895a-87fccb5c1030" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="729f0b41-e373-45b3-895a-87fccb5c1030" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="729f0b41-e373-45b3-895a-87fccb5c1030" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he688fb8-beda-496b-bfe5-9761cdb5c002" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha9a19e3-967c-4cd8-8bed-81d03528626e" version="1" />
+					<attribute id="Icon" type="FixedString" value="CelestialThreads_Skirt Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="94148787-dabe-4db2-a535-d69f99b7ca76" />
+					<attribute id="Name" type="LSString" value="ASURAS_SKIRT__MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="97f37571-35e8-4cc8-8b0d-ff92d20ae0bb" />
+					<attribute id="Stats" type="FixedString" value="ASURAS_SKIRT__MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Boots" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b127a0e2-d298-46fd-beeb-7d21d2a3483c" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="7a54c89e-6711-44dc-a472-1505dbd20af0" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="7a54c89e-6711-44dc-a472-1505dbd20af0" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b127a0e2-d298-46fd-beeb-7d21d2a3483c" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b127a0e2-d298-46fd-beeb-7d21d2a3483c" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b127a0e2-d298-46fd-beeb-7d21d2a3483c" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="0a84d753-b3aa-4609-9226-e8eb48150baf" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="3e77fb17-e655-4b58-8f8a-a6dcb9491d9a" version="5" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="4cba7b42-4bad-4187-a632-7075c5c753cc" version="1" />
+					<attribute id="Icon" type="FixedString" value="ContainerCT Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d63cdbb3-238f-4033-a059-12b81a43edea" />
+					<attribute id="Name" type="LSString" value="CONT_CelestialThreads_Container" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ea8cc72a-e078-4ce7-bd63-14bcf1851f46" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="de76c98f-f1af-fbb2-fdc0-ff122f04c99a" />
+					<attribute id="Stats" type="FixedString" value="OBJ_CelestialThreads_Container" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3b6138df-435d-bd58-34b4-61e82d75a3aa" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CelestialThreads_TreasureTable" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

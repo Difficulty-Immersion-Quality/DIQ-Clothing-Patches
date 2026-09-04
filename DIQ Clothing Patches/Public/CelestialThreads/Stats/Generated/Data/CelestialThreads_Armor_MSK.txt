@@ -1,4 +1,4 @@
-// 2.0
+// 2.0 (Celestial Threads: Celestial Threads AIO)
 
 new entry "MARS_ATTIRE_MSK"
 type "Armor"

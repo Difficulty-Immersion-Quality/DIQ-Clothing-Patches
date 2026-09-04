@@ -1,3 +1,5 @@
+// 2.0 (Celestial Threads: Celestial Threads AIO)
+
 ///
 ///     "new entry" is the same name which you created for the "Stats" section of the _merged.lsx file.
 ///
@@ -15,11 +17,11 @@
 ///     Legendary   | Yellow
 ///
 
-new entry "OBJ_CelestialThreads_Container"
-type "Object"
-// using "OBJ_Chest_LetterBox"
-using "Goon_Container_Cosmetic_Template"
-data "RootTemplate" "d63cdbb3-238f-4033-a059-12b81a43edea"
-// data "ValueOverride" "1"
-// data "Weight" "1"
-data "Rarity" "Yellow"
+// new entry "OBJ_CelestialThreads_Container"
+// type "Object"
+// // using "OBJ_Chest_LetterBox"
+// using "Goon_Container_Cosmetic_Template"
+// data "RootTemplate" "d63cdbb3-238f-4033-a059-12b81a43edea"
+// // data "ValueOverride" "1"
+// // data "Weight" "1"
+// data "Rarity" "Yellow"
