@@ -1,4 +1,4 @@
-// 4.1
+// 4.1 (Dark Consort Outfit)
 
 new entry "DarkConsortOutfit"
 type "Armor"
