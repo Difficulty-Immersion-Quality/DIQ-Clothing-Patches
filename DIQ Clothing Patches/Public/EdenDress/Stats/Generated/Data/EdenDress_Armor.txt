@@ -1,6 +1,6 @@
-// 1.0 (Enchanted Threads: Infernal Sorceress (Wingless))
+// 1.1 (Enchanted Threads: Eden Dress (No Gith) - Sockless Version)
 
-new entry "INFERNAL_SORCERESS_MSK"
+new entry "EDEN_DRESS"
 type "Armor"
 // using "ARM_Leather_Body"
 using "Goon_ARM_Body_Cosmetic_Template"
@@ -12,7 +12,7 @@ using "Goon_ARM_Body_Cosmetic_Template"
 // data "ValueRounding" "1"
 // data "Weight" "1.5"
 // data "Rarity" "Legendary"
-data "RootTemplate" "87cab28e-4968-4f54-bd4f-6a1f13940f78"
+data "RootTemplate" "421182f1-4593-4d83-986e-5d7a9fe28cbe"
 // data "Boosts" ""
 // data "PassivesOnEquip" ""
 // data "ArmorType" "Leather"
@@ -21,4 +21,3 @@ data "RootTemplate" "87cab28e-4968-4f54-bd4f-6a1f13940f78"
 // data "ArmorClass" "11"
 // data "MinLevel" "1"
 // data "Proficiency Group" "LightArmor"
-data "ColorPresetResource" "c6b23b6d-57e3-40e4-8efc-d32dbb591da3"

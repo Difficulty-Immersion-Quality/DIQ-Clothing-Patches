@@ -16,11 +16,9 @@
 ///
 
 new entry "OBJ_EnchantedThreads_Container"
-type "Object"
-// using "OBJ_Chest_LetterBox"
-using "Goon_Container_Cosmetic_Template"
+using "OBJ_Chest_LetterBox"
 data "RootTemplate" "427b528c-7e10-4450-9095-816f00aa6d7e"
-// data "ValueOverride" "1"
-// data "Weight" "1"
-// type "Object"
-// data "Rarity" "REPLACE_WITH_RARITY"
+data "ValueOverride" "1"
+data "Weight" "1"
+type "Object"
+data "Rarity" "REPLACE_WITH_RARITY"

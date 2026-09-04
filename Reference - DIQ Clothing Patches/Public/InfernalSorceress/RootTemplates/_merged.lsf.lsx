@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he5c8412-08fe-4b9e-8ee8-023267805715" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h7a48a2d-ded5-41c4-958a-54cfb18f83fb" version="1" />
+					<attribute id="Icon" type="FixedString" value="InfernalSorceress_Demon Lace Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4f20b0ae-701c-498b-8bcc-72c712d28bce" />
+					<attribute id="Name" type="LSString" value="INFERNAL_SORCERESS" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="02ae5d88-8044-43df-8363-02a2900776db" />
+					<attribute id="Stats" type="FixedString" value="INFERNAL_SORCERESS" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="869b1fd5-0c72-4d3f-a0db-56b716595448" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="869b1fd5-0c72-4d3f-a0db-56b716595448" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="869b1fd5-0c72-4d3f-a0db-56b716595448" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="869b1fd5-0c72-4d3f-a0db-56b716595448" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hfcd8b83-9dd2-4d6f-8f33-27da3414afc5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h0978b7b-b436-450a-a2ec-a77925b3b070" version="1" />
+					<attribute id="Icon" type="FixedString" value="InfernalSorceress_Demon Lace Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="87cab28e-4968-4f54-bd4f-6a1f13940f78" />
+					<attribute id="Name" type="LSString" value="INFERNAL_SORCERESS_MSK" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="02ae5d88-8044-43df-8363-02a2900776db" />
+					<attribute id="Stats" type="FixedString" value="INFERNAL_SORCERESS_MSK" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Breast" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="03c1e204-d554-4b85-a779-d427366376fa" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="03c1e204-d554-4b85-a779-d427366376fa" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="03c1e204-d554-4b85-a779-d427366376fa" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="03c1e204-d554-4b85-a779-d427366376fa" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
