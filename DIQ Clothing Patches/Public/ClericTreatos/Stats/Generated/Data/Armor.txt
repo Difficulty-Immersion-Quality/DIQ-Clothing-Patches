@@ -1,4 +1,4 @@
-// 4 (Cleric Camp Outfit- Plain Ilmater Kelemvor Helm Bhaal Mystra)
+// 6.1 (Cleric Camp Outfit- Plain Ilmater Kelemvor Helm Bhaal Mystra: Cleric Camp)
 
 new entry "CSS_IlmaterHelmNecklace"
 type "Armor"
