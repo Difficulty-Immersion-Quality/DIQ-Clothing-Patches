@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="95393848-8901-4cd2-b7f1-cba2edde663d" />
+					<attribute id="Name" type="LSString" value="CONT_Emily" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ea8cc72a-e078-4ce7-bd63-14bcf1851f46" />
+					<attribute id="VisualTemplate" type="FixedString" value="3c83e4d2-0212-b57d-661b-6c2cf1e8af83" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8f3bdfc9-ca29-2c13-796c-0625980b1f01" />
+					<attribute id="CastShadow" type="bool" value="False" />
+					<attribute id="RecieveDecal" type="bool" value="False" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5c9fb46dgeb8ag3540gb8a2g9848921cb378" version="6" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="Emily_CONT" />
+					<attribute id="Stats" type="FixedString" value="CONT_Emily" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="Description" type="TranslatedString" handle="hddeff1bbg23e2g0139gc873g867a2558c67d" version="6" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9b6f9531-c2d3-47b2-9153-861425152eb3" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.20361535 -0.00439322 -0.20579423" />
+									<attribute id="Max" type="fvec3" value="0.20583095 0.5607831 0.1862223" />
+									<attribute id="Radius" type="float" value="0.0960515" />
+									<attribute id="Height" type="float" value="0.448918" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.20361535 -0.00439322 -0.20579423" />
+									<attribute id="Max" type="fvec3" value="0.20583095 0.5607831 0.1862223" />
+									<attribute id="Radius" type="float" value="0.192103" />
+									<attribute id="Height" type="float" value="0.448918" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.20361535 -0.00439322 -0.20579423" />
+									<attribute id="Max" type="fvec3" value="0.20583095 0.5607831 0.1862223" />
+									<attribute id="Radius" type="float" value="0.192103" />
+									<attribute id="Height" type="float" value="0.448918" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="CONT_Emily_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

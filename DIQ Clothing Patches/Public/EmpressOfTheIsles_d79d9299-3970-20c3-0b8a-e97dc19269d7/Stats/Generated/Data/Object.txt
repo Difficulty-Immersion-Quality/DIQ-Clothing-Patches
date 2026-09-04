@@ -1,0 +1,12 @@
+// 1 (Empress of the Isles - Emily Kaldwin's outfit: Empress Of The Isles - Dyeable)
+// 5 (Empress of the Isles - Emily Kaldwin's outfit - Empress of the Isles)
+// TODO: ARM_Emily_Scarf_CloakSlot (16d36bec-8145-489e-b00d-8f95e1fae1b3) doesn't point to its stat entry.
+// But due to the mod having two versions and 2 iterations of the same template, I reported instead of fixing.
+
+new entry "CONT_Emily"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "95393848-8901-4cd2-b7f1-cba2edde663d"
+// data "Weight" "0.1"
+
