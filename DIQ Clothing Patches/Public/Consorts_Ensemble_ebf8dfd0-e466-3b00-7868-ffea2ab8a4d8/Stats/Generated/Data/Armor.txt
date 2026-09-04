@@ -1,0 +1,7 @@
+// 1.0.0.13 (Consort's Ensemble)
+
+new entry "ARM_Consorts_Ensemble"
+type "Armor"
+// using "ARM_Robe_Body"
+data "RootTemplate" "39721fe4-848a-4f59-8f69-13c64e47d53e"
+
