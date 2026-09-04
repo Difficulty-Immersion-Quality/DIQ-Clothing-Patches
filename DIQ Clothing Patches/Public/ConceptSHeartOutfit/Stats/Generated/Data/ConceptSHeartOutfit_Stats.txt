@@ -1,4 +1,4 @@
-// 3.6 (Asymmetrical Shadowheart Concept Outfit)
+// 3.6 (Asymmetrical Shadowheart Concept Outfit: Concept Art Shadowheart)
 
 new entry "CSS_ConceptSHeartOutfit_Box"
 type "Object"
