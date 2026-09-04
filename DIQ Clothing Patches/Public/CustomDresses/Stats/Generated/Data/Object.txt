@@ -1,4 +1,4 @@
-// 2.3 (Lab's Boratory (Misc Mods Collection) - Flowy Dresses)
+// 2.3 (Lab's Boratory (Misc Mods Collection): Flowy Dresses)
 
 new entry "OBJ_Backpack_Dress"
 type "Object"
