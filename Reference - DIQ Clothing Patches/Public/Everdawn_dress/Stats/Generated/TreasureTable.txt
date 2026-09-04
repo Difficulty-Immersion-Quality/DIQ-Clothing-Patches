@@ -1,0 +1,44 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Everdawn_hiji_Cont",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Everdawn_hiji_Cont",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Everdawn_hiji_Cont",1,0,0,0,0,0,0,0
+
+new treasuretable "Everdawn_hiji_Cont_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Everdawn_dress",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_A_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_B_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_C_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_dress_D_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_brace_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_brace_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Everdawn_brace_C",1,0,0,0,0,0,0,0
+
+
+
