@@ -1,0 +1,49 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "Kascayde_FANGsDress_Inv"
+CanMerge 1
+new subtable "1,1"
+object category "I_Kascayde_F_FANG_Dress",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_FANG_tights",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Kascayde_F_FANG_hat",1,0,0,0,0,0,0,0
+
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Trader_Utility"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_ZhentQuartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Figaro_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Kascayde_FANGsDress_chest",1,0,0,0,0,0,0,0
