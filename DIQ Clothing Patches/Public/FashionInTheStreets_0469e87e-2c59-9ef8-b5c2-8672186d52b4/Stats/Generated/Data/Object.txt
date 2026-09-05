@@ -1,0 +1,11 @@
+// 2 (Fashion in the streets - Dishonored 2 outfits: Fashion in the streets)
+// Camp versions don't have unique templates, it's fine.
+
+new entry "CONT_FashionInTheStreets"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "288254ee-9e03-43bd-a57f-dc98100393ff"
+// data "Weight" "20"
+// data "GameSize" "Medium"
+
