@@ -1,0 +1,97 @@
+// 2.8 (Modular Equipment)
+
+new entry "MEQ_CloakUnderwear_Prototype"
+// using "ARM_Underwear_Humans_C"
+using "Goon_ARM_Underwear_Cosmetic_Template"
+// data "ValueOverride" "1"
+// data "Weight" "0.01"
+// data "Rarity" "Rare"
+
+
+new entry "MEQ_CloakUnderwear_CorsetA"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "a6773c24-9482-4569-9dd3-133acb90f7b3"
+
+new entry "MEQ_CloakUnderwear_CinchedCorsetA"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "17338f1a-fbbe-42b1-825f-17ba6eaf9303"
+
+new entry "MEQ_CloakUnderwear_CorsetedHalflingTop"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "4bf4b4de-f931-40ba-9c44-9f6ff643150a"
+
+new entry "MEQ_CloakUnderwear_BeltedHumanTopA"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "a57d016f-8ca2-4fbe-9e94-a9599b927186"
+
+new entry "MEQ_CloakUnderwear_PlainShirt"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "86b58fc8-2526-4049-98fe-339e0cfd6c87"
+
+new entry "MEQ_CloakUnderwear_CorsetedShirtD"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "9ec9665c-6235-4012-946a-7b40311d186c"
+
+new entry "MEQ_CloakUnderwear_CorsetedShirt"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "af426908-67db-4e7a-8fc1-a69351473c40"
+
+new entry "MEQ_CloakUnderwear_BeltedShirt"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "3459ae53-1880-477d-b091-ca4dfc6b666b"
+
+new entry "MEQ_CloakUnderwear_BarbarianTop"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "c053c526-5a05-4e1e-8883-323761611289"
+
+new entry "MEQ_CloakUnderwear_BarbarianTop2"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "8b022f88-3de3-4203-aeaa-a0d2504b3c79"
+
+new entry "MEQ_CloakUnderwear_DaisyTop"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "0eb30834-7c03-4482-bbc4-2de7b4e2d0b3"
+
+new entry "MEQ_CloakUnderwear_DaisyTop_CorsetE"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "0adc9b47-b2f3-4a0f-af76-0e381051c9ca"
+
+new entry "MEQ_CloakUnderwear_BeltedDaisyTop_CorsetE"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "0795b387-e8a4-4ee5-b81f-947e084344ff"
+
+new entry "MEQ_CloakUnderwear_DaisyTop_LeatherA"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "e694b1d3-0450-4dc0-a1cf-3eeeba436ebc"
+
+new entry "MEQ_CloakUnderwear_BeltedDaisyTop_LeatherA"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "646e77f3-6b6d-4caf-abf6-5de4452b38e5"
+
+new entry "MEQ_CloakUnderwear_CorsetEForRichDress"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "0c1ca854-5ef0-4678-98d0-83ede705faf6"
+
+new entry "MEQ_CloakUnderwear_LeatherCorset"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "7038d68c-328e-4db2-98d0-e88d285f56e0"
+
+new entry "MEQ_CloakUnderwear_BeltedLeatherCorset"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "90fff4df-83b4-431b-86d8-20cc0d48583f"
+
+new entry "MEQ_CloakUnderwear_LeatherVest"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "054ab254-3fa4-4a60-8337-d6ed102d1f6b"
+
+new entry "MEQ_CloakUnderwear_SleevedLeatherVest"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "8f430ad8-5ce0-43bb-a07a-2c1131930ac1"
+
+new entry "MEQ_CloakUnderwear_BandagedGithTop"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "6df7354b-0d5b-4028-a50f-bd08d663f08e"
+
+new entry "MEQ_CloakUnderwear_WrapTop"
+using "MEQ_CloakUnderwear_Prototype"
+data "RootTemplate" "848faa74-3fcf-4b5d-a892-01e0c18197ad"

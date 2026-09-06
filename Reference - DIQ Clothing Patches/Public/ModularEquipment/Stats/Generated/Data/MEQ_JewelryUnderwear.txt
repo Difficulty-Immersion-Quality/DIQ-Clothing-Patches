@@ -1,0 +1,51 @@
+new entry "MEQ_HeadUnderwear_Prototype"
+using "ARM_Underwear_Humans_C"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Rare"
+
+
+new entry "MEQ_HeadUnderwear_BeadedNecklaces"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "a13a2ecf-d9f2-4c9d-ba02-ef55e725f9bf"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_DaggerNecklace"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "ffad70e8-991c-45eb-954f-da977c499576"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_BeadedAndDaggerNecklaces"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "79aade3c-3301-42d8-aaff-dced72128b1d"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_DaggerNecklace_Rings"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "e65219b1-ab61-4cee-a8fd-fbc1df3c5599"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_BeadedAndDaggerNecklaces_Rings"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "23950262-a1ba-4f25-9fb6-aee01ccd77b3"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_Rings"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "309c2d85-420d-4fca-8f2d-b9eff59a8070"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_BeadedBracelets"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "53175703-34a6-440e-8609-dc332d4f44a5"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_BeadedBracelets_Rings"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "12f53b78-c6ff-44e7-b38d-4b37a3ac1c79"
+data "ColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new entry "MEQ_HeadUnderwear_LoviatarArmlet"
+using "MEQ_HeadUnderwear_Prototype"
+data "RootTemplate" "3a82b29b-dffd-4827-b847-e7d337d7a9b4"
+data "ColorPresetResource" "22b8166e-8bfc-42b2-8173-18f64170ab52"

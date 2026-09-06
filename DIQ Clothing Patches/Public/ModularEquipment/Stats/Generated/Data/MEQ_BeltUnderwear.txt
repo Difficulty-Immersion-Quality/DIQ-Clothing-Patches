@@ -1,0 +1,69 @@
+// 2.8 (Modular Equipment)
+
+new entry "MEQ_BeltUnderwear_Prototype"
+// using "ARM_Underwear_Humans_C"
+using "Goon_ARM_Underwear_Cosmetic_Template"
+// data "ValueOverride" "1"
+// data "Weight" "0.01"
+// data "Rarity" "Rare"
+
+
+new entry "MEQ_BeltUnderwear_BanditBelt_CorsetE"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "ec4a553d-8d4a-46b7-9cd4-7c23e15e5be8"
+
+new entry "MEQ_BeltUnderwear_ShoulderBelt"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "c5151f2f-8f03-470d-8d76-00dc021fff27"
+
+new entry "MEQ_BeltUnderwear_LeatherCincher"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "a2e4c2dc-d4ba-41c6-b064-b98eb56df3e6"
+
+new entry "MEQ_BeltUnderwear_CincherBelt"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "b851ec99-e5d5-49c9-8a2d-56294c079357"
+
+new entry "MEQ_BeltUnderwear_CorsetE"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "f1cf65a3-9ae5-46b1-94cc-36ac6b3290e4"
+
+new entry "MEQ_BeltUnderwear_CinchedCorsetE"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "68eed93f-0ca0-4266-8c3d-19e52a2c4b6e"
+
+new entry "MEQ_BeltUnderwear_BeltedCorsetE"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "448c1903-441f-4c77-a744-12d3b34cf123"
+
+new entry "MEQ_BeltUnderwear_WizardsBelts"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "f8de8eb5-3f2c-447b-8338-563ab6366fa3"
+
+new entry "MEQ_BeltUnderwear_WizardsCincher"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "7f1d0f34-9c03-441d-a076-86af128195b8"
+
+new entry "MEQ_BeltUnderwear_OpportunistsBelt"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "420dfd06-6821-4ef7-802a-2f71a256216e"
+
+new entry "MEQ_BeltUnderwear_OpportunistsBeltAndWand"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "aa513227-ee6b-4749-95cb-234c40a98e0f"
+
+new entry "MEQ_BeltUnderwear_OpportunistsCorset"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "b836991e-e729-4442-ae1f-b2a4060b4e73"
+
+new entry "MEQ_BeltUnderwear_CinchedAndBeltedCorsetE"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "31a3641b-6bce-416d-accf-94bb6dccff53"
+
+new entry "MEQ_BeltUnderwear_DoubleBelt"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "d2c2dc3c-0a3f-4be1-90fd-8430baf07d32"
+
+new entry "MEQ_BeltUnderwear_BanditAndCincherBelts"
+using "MEQ_BeltUnderwear_Prototype"
+data "RootTemplate" "42a57b81-9822-4a3f-803c-b31c898583d1"

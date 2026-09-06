@@ -1,0 +1,6 @@
+
+new entry "MEQ_UniversalArmorPassive"
+type "PassiveData"
+data "DisplayName" "h86d1101fg71d3g4c47g9805gcf68ad5d1112;1"
+data "Description" "hf05e94e7g44f0g44cag8194g37f397f398f3;1"
+data "Boosts" "IF(MEQ_IsUniversalACBoost(1)):AC(1); IF(MEQ_IsUniversalACBoost(2)):AC(2); IF(MEQ_IsUniversalACBoost(3)):AC(3); IF(MEQ_IsUniversalACBoost(4)):AC(4); IF(MEQ_IsUniversalACBoost(5)):AC(5); IF(MEQ_IsUniversalACBoost(6)):AC(6); IF(MEQ_IsUniversalACBoost(7)):AC(7); IF(MEQ_IsUniversalACBoostGreaterEqual(8)):AC(8)"

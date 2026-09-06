@@ -1,0 +1,39 @@
+// 2.8 (Modular Equipment)
+
+new entry "MEQ_Dye_Prototype"
+// using "_Dyes"
+using "Goon_OBJ_Dye_Cosmetic_Template"
+// data "ValueOverride" "1"
+// data "Weight" "0.01"
+data "Rarity" "Rare"
+
+
+new entry "MEQ_Dye_Default"
+using "MEQ_Dye_Prototype"
+data "RootTemplate" "429bbc71-6ff9-40d3-a4a3-5214491fc516"
+
+new entry "MEQ_Dye_Nude"
+using "MEQ_Dye_Prototype"
+data "RootTemplate" "4ed2ebc3-fab4-4d13-862c-ef154e438222"
+
+new entry "MEQ_Dye_DarkerBoots"
+using "MEQ_Dye_Prototype"
+data "RootTemplate" "f48668b0-055d-4e37-aeb6-17fd1588e0aa"
+
+new entry "MEQ_Dye_HalfPlate"
+using "MEQ_Dye_Prototype"
+data "RootTemplate" "03daf024-dae5-4260-a77f-102734e6c9c3"
+
+new entry "MEQ_Dye_MetalBeads"
+using "MEQ_Dye_Prototype"
+data "RootTemplate" "d280d62d-9ef6-4969-9e02-212223d32cc9"
+
+
+
+new entry "MEQ_Dye_Remover"
+// using "OBJ_Dye_Remover"
+using "Goon_OBJ_Dye_Cosmetic_Template"
+data "RootTemplate" "79ba5940-f5d6-4aef-aea2-c2bd9f274c8c"
+// data "ValueOverride" "1"
+// data "Weight" "0.01"
+// data "Rarity" "Rare"

@@ -1,0 +1,77 @@
+
+new ItemCombination "MEQ_Dye_Default"
+data "Type 1" "Object"
+data "Object 1" "MEQ_Dye_Default"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "64492fc1-6732-4bbf-9159-4ec04f1ade2e"
+
+new ItemCombinationResult "MEQ_Dye_Default_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "MEQ_Dye_Nude"
+data "Type 1" "Object"
+data "Object 1" "MEQ_Dye_Nude"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "82ba4280-a44a-4a3e-954f-8fb7b813f84d"
+
+new ItemCombinationResult "MEQ_Dye_Nude_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "MEQ_Dye_DarkerBoots"
+data "Type 1" "Object"
+data "Object 1" "MEQ_Dye_DarkerBoots"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "eb4beca2-5751-4457-946d-fe55ba787272"
+
+new ItemCombinationResult "MEQ_Dye_DarkerBoots_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "MEQ_Dye_HalfPlate"
+data "Type 1" "Object"
+data "Object 1" "MEQ_Dye_HalfPlate"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "18f4cf1c-f011-4ddf-bdc2-7dccb0fc2a46"
+
+new ItemCombinationResult "MEQ_Dye_HalfPlate_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "MEQ_Dye_MetalBeads"
+data "Type 1" "Object"
+data "Object 1" "MEQ_Dye_MetalBeads"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "0e4ffb08-0107-4794-9c72-0dfc2e216772"
+
+new ItemCombinationResult "MEQ_Dye_MetalBeads_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "MEQ_Dye_Remover"
+data "Type 1" "Object"
+data "Object 1" "MEQ_Dye_Remover"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+
+new ItemCombinationResult "MEQ_Dye_Remover_1"
+data "ResultAmount 1" "1"
+
