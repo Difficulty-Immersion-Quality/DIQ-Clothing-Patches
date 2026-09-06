@@ -20,6 +20,13 @@
               <attribute id="UUID" type="FixedString" value="54362e18-d28c-4f97-9000-aea2414e4579" />
               <attribute id="Version64" type="int64" value="36591764152254464" />
             </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="LoadoutRestored_ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec" />
+              <attribute id="MD5" type="LSWString" value="" />
+              <attribute id="Name" type="LSWString" value="Starting Equipment Restored" />
+              <attribute id="UUID" type="FixedString" value="ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec" />
+              <attribute id="Version64" type="int64" value="36591746972385291" />
+            </node>
           </children>
         </node>
         <node id="ModuleInfo">
@@ -39,10 +46,10 @@
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="UUID" type="FixedString" value="719a427f-93f9-46ce-b5c8-9a9201112a52" />
-          <attribute id="Version64" type="int64" value="36591764152254464" />
+          <attribute id="Version64" type="int64" value="36591764152254465" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version64" type="int64" value="36591764152254464" />
+              <attribute id="Version64" type="int64" value="36591764152254465" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
