@@ -1,0 +1,26 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CONT_TrissDLC",1,0,0,0,0,0,0,0
+
+new treasuretable "CONT_TrissDLC_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_TrissDLC_Dress",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissDLC_boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissDLC_Headdress",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissDLC_Necklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissDLC_Dress_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissDLC_boots_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissDLC_Headdress_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissDLC_Necklace_D",1,0,0,0,0,0,0,0

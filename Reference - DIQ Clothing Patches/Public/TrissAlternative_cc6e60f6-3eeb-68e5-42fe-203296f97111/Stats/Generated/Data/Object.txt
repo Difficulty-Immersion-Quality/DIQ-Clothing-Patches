@@ -1,0 +1,6 @@
+new entry "CONT_TrissDLC"
+type "Object"
+using "_Container"
+data "RootTemplate" "2ebdb9dc-a2a7-4248-8fe1-11baa87e56e6"
+data "Weight" "0.1"
+
