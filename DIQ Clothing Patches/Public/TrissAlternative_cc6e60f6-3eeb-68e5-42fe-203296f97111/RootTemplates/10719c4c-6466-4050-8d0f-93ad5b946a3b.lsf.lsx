@@ -25,7 +25,6 @@
 					<attribute id="SoundAttenuation" type="int16" value="-1" />
 					<attribute id="IsPointerBlocker" type="bool" value="False" />
 					<attribute id="Icon" type="FixedString" value="trissdlc_dress" />
-					<attribute id="Stats" type="FixedString" value="ARM_Robe_Body" />
 					<!-- <attribute id="Stats" type="FixedString" value="ARM_Robe_Body" /> -->
 					<attribute id="Stats" type="FixedString" value="ARM_TrissDLC_Dress" />
 					<attribute id="Description" type="TranslatedString" handle="hee4b41d3gd109g2e4egc348g76b956fc0ac2" version="3" />
