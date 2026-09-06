@@ -1,4 +1,5 @@
-// 1.0.0.129
+// 1.0.0.129 (Wings Character Customization - WCC)
+// TODO: Templates don't point to stat entries.
 
 new entry "Aardi_CONT_GEN_Chest_Wings"
 type "Object"

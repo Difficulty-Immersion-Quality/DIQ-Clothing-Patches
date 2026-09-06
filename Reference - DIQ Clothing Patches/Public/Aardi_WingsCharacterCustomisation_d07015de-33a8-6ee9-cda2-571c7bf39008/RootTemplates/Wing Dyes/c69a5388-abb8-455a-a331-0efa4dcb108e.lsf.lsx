@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c69a5388-abb8-455a-a331-0efa4dcb108e" />
+					<attribute id="Name" type="LSString" value="Aardi_LOOT_Dye_Wings_Brown_001" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6904ea3d-89b6-4db7-a0bc-d890423e9312" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h83f8f061g4e66gef59gd568gcd69c77dd1c7" version="2" />
+					<attribute id="ColorPreset" type="guid" value="7b6182c5-ea89-3141-2519-accd9d1eb39e" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

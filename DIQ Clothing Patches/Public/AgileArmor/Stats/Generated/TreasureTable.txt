@@ -36,6 +36,7 @@ new subtable "1,1"
 object category "I_HUM_M_ARM_ScalemailDress",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_HUM_M_ARM_Tunic_Leather",1,0,0,0,0,0,0,0
+
 new subtable "1,1"
 object category "I_CLT_Camp_Body_A",1,0,0,0,0,0,0,0
 new subtable "1,1"

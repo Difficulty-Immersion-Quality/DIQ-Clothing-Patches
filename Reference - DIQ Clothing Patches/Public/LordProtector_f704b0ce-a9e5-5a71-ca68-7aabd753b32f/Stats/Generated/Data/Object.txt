@@ -1,0 +1,6 @@
+new entry "CONT_Corvo"
+type "Object"
+using "_Container"
+data "RootTemplate" "bda4fe4a-8945-4525-8e14-66e83a152815"
+data "Weight" "0.1"
+

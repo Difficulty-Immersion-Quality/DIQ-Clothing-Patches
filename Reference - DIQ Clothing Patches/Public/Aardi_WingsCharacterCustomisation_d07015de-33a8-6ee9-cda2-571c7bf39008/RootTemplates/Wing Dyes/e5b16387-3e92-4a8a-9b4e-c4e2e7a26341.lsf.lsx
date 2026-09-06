@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="e5b16387-3e92-4a8a-9b4e-c4e2e7a26341" />
+					<attribute id="Name" type="LSString" value="Aardi_CONT_GEN_Chest_WingDyes" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6c852107-00f9-4749-b147-2635b4fb369e" />
+					<attribute id="DisplayName" type="TranslatedString" handle="heab25c55g328eg3d71g4bceg466fe6bd381b" version="3" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="II_Aardi_Dye_Feathers_II" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

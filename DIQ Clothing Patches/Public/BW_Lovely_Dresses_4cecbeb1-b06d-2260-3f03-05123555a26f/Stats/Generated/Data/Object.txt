@@ -1,0 +1,7 @@
+new entry "BW_Lovely_Dresses_Container"
+type "Object"
+// using "OBJ_Backpack"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "ac4ce8f8-a0b8-4ff0-b320-f5fe0198636b"
+data "Rarity" "Legendary"
+

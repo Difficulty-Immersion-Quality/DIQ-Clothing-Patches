@@ -1,0 +1,69 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_Hospital_Nurse"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Figaro_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0
+
+new treasuretable "Figaro_Assistant"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Wyll_Keyart_Camp",1,0,0,0,0,0,0,0

@@ -1,4 +1,4 @@
-// 1.2
+// 1.2 (Ornate Shoulders)
 
 new entry "CONT_Modular_OS_Cloak"
 type "Object"

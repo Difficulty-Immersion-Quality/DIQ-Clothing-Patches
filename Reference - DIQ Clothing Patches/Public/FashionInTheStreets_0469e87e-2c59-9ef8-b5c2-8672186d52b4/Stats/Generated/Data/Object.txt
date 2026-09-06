@@ -1,0 +1,7 @@
+new entry "CONT_FashionInTheStreets"
+type "Object"
+using "_Container"
+data "RootTemplate" "288254ee-9e03-43bd-a57f-dc98100393ff"
+data "Weight" "20"
+data "GameSize" "Medium"
+

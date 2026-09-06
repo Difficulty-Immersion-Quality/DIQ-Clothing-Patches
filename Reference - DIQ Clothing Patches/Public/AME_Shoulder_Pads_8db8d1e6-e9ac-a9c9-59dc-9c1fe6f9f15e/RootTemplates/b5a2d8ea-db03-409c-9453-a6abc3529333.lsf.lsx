@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="b5a2d8ea-db03-409c-9453-a6abc3529333" />
+					<attribute id="Name" type="LSString" value="AME_MS_Sharran_Shadowheart" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="543d5c85-d5c5-4768-be78-b8173c4e6450" />
+					<attribute id="ReadinessFlags" type="uint32" value="319" />
+					<attribute id="VisualTemplate" type="FixedString" value="c006b76a-4501-6826-9570-41f50c5ad93b" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="2decbf95-d8d6-f569-6d41-ad851ee4b329" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hdb54ce5dg7acagfe71g4f30gf76cada8faa6" version="6" />
+					<attribute id="Icon" type="FixedString" value="02_Shadowheart" />
+					<attribute id="Stats" type="FixedString" value="AME_MS_Sharran_Shadowheart" />
+					<attribute id="Hostile" type="bool" value="False" />
+					<attribute id="Description" type="TranslatedString" handle="h52023e5bg63cdg1494g6935gce674735b132" version="6" />
+					<children>
+						<node id="Equipment">
+							<children>
+								<node id="ShortHair" />
+								<node id="LongHair" />
+								<node id="WavyShortHair" />
+								<node id="WavyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="DreadShortHair" />
+								<node id="DreadLongHair" />
+								<node id="AfroShortHair" />
+								<node id="AfroLongHair" />
+								<node id="Visuals">
+									<children>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0aaa0135-a954-d3b9-322f-0f1ede19e7b5" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="ParentRace" />
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets">
+													<children>
+														<node id="Object" key="MapKey">
+															<attribute id="MapKey" type="FixedString" value="02 Colour" />
+															<attribute id="ForcePresetValues" type="bool" value="True" />
+															<attribute id="MaterialPresetResource" type="FixedString" value="8276b648-984a-d320-c7bd-ba692b927f5d" />
+															<attribute id="GroupName" type="FixedString" value="02 Colour" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

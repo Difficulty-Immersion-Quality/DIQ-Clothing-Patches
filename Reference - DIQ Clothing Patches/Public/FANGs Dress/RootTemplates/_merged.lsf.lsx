@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha3b07743g1b1cg4357ga6c2g63cf2e005de7" version="1" />
+					<attribute id="Icon" type="FixedString" value="FANG_Dress_Icon" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="IsInspector" type="bool" value="False" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ee7ab27d-56ff-4988-9bc4-74e540a85a4c" />
+					<attribute id="Name" type="LSString" value="OBJ_Kascayde_FANGsDress_chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ea8cc72a-e078-4ce7-bd63-14bcf1851f46" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="0729dea5-31d8-a61c-d66e-009ba2159efd" />
+					<attribute id="PickupSound" type="FixedString" value="bde30693-165c-4af7-b751-eda032329605" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Scale" type="float" value="1" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Kascayde_FANGsDress_chest" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6bf60367-b5ce-d8c3-de85-0693248c2d31" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855909" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1.1683" />
+									<attribute id="Max" type="fvec3" value="0.66381705 0.50248957 0.41646057" />
+									<attribute id="Min" type="fvec3" value="-0.66381705 0.008066714 -0.43554217" />
+									<attribute id="Radius" type="float" value="0.508077" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1.1683" />
+									<attribute id="Max" type="fvec3" value="0.66381705 0.50248957 0.41646057" />
+									<attribute id="Min" type="fvec3" value="-0.66381705 0.008066714 -0.43554217" />
+									<attribute id="Radius" type="float" value="0.508077" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1.1683" />
+									<attribute id="Max" type="fvec3" value="0.33190852 0.50248957 0.20823029" />
+									<attribute id="Min" type="fvec3" value="-0.33190852 0.008066714 -0.21777108" />
+									<attribute id="Radius" type="float" value="0.2540385" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Kascayde_FANGsDress_Inv" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha3b07743g1b1cg4357ga6c2g63cf2e005de7" version="1" />
+					<attribute id="Icon" type="FixedString" value="FANG_Dress_Icon" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8e9b44ba-0881-43bc-aa13-ab619960c7e0" />
+					<attribute id="Name" type="LSString" value="Kascayde_F_FANG_Dress" />
+					<attribute id="ParentTemplateId" type="FixedString" value="10338c7e-39c8-44b3-a0a2-2a76af453718" />
+					<attribute id="Stats" type="FixedString" value="Kascayde_F_FANG_Dress" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d9e99c01-7ace-056f-f539-c03b89acd86d" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692452" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="2" />
+							<children>
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets">
+													<children>
+														<node id="Object">
+															<attribute id="ForcePresetValues" type="bool" value="False" />
+															<attribute id="GroupName" type="FixedString" value="02 Colour" />
+															<attribute id="MapKey" type="FixedString" value="02 Colour" />
+															<attribute id="MaterialPresetResource" type="FixedString" value="7f019a5d-423a-4178-9087-d99abae00e8d" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="44afd4ed-45a5-498e-83de-9f6180483f9a" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fb5b03c9-bc4c-460d-a08f-6cdc223a0c7d" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="ed65493f-cdf0-4bf5-86af-1bfe2d4b9e9c" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fb965f4f-7bf2-4d53-84f5-8fce044d4f37" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="42337376-d99e-4362-bee3-1e97101cd1d6" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="218f91f5-f079-4f58-8cb7-3bb4e8de4dde" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f7ffb83b-fc4e-48db-99b3-0c6049710c54" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="ed65493f-cdf0-4bf5-86af-1bfe2d4b9e9c" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fb965f4f-7bf2-4d53-84f5-8fce044d4f37" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="42337376-d99e-4362-bee3-1e97101cd1d6" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfc5b2d94g174ag4830ga775gad51f4912e2c" version="1" />
+					<attribute id="Icon" type="FixedString" value="FANG_Tights_Icon" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="82c64b5d-276e-413a-91a9-fe9c1c078c43" />
+					<attribute id="Name" type="LSString" value="Kascayde_F_FANG_tights" />
+					<attribute id="ParentTemplateId" type="FixedString" value="10338c7e-39c8-44b3-a0a2-2a76af453718" />
+					<attribute id="Stats" type="FixedString" value="Kascayde_F_FANG_tights" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d9e99c01-7ace-056f-f539-c03b89acd86d" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692452" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="2" />
+							<children>
+								<node id="ParentRace" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets">
+													<children>
+														<node id="Object">
+															<attribute id="ForcePresetValues" type="bool" value="False" />
+															<attribute id="GroupName" type="FixedString" value="02 Colour" />
+															<attribute id="MapKey" type="FixedString" value="02 Colour" />
+															<attribute id="MaterialPresetResource" type="FixedString" value="7f019a5d-423a-4178-9087-d99abae00e8d" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="80403222-2762-48f2-a3f2-070dee497e7d" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc80daedeg2dfdg488bgae74g284a84c031f0" version="1" />
+					<attribute id="Icon" type="FixedString" value="FANG_Hat_Icon" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4805de92-49bf-43d4-8aef-f9e32e1b8a49" />
+					<attribute id="Name" type="LSString" value="Kascayde_F_FANG_hat" />
+					<attribute id="ParentTemplateId" type="FixedString" value="10338c7e-39c8-44b3-a0a2-2a76af453718" />
+					<attribute id="Stats" type="FixedString" value="Kascayde_F_FANG_hat" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d9e99c01-7ace-056f-f539-c03b89acd86d" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692452" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="2" />
+							<children>
+								<node id="ParentRace" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets">
+													<children>
+														<node id="Object">
+															<attribute id="ForcePresetValues" type="bool" value="False" />
+															<attribute id="GroupName" type="FixedString" value="02 Colour" />
+															<attribute id="MapKey" type="FixedString" value="02 Colour" />
+															<attribute id="MaterialPresetResource" type="FixedString" value="7f019a5d-423a-4178-9087-d99abae00e8d" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="6eeedf58-4fbe-4ead-af79-27ad44a40a26" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

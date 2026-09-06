@@ -1,5 +1,3 @@
-// 5.1 (Enchanted Threads: Enchanted Threads AIO)
-
 ///
 ///     "new entry" is the same name which you created for the "Stats" section of the _merged.lsx file.
 ///

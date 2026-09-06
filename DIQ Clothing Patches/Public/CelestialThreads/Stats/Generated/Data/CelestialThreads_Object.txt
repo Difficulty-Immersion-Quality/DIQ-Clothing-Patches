@@ -1,4 +1,4 @@
-// 2.0
+// 2.0 (Celestial Threads: Celestial Threads AIO)
 
 ///
 ///     "new entry" is the same name which you created for the "Stats" section of the _merged.lsx file.

@@ -1,0 +1,8 @@
+new entry "CSS_ClericTreatoBag"
+type "Object"
+using "_Container"
+data "RootTemplate" "a8a65bf7-72b2-40c2-a1fb-14be3f38c16c"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "Rare"
+data "ItemGroup" ""

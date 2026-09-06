@@ -1,0 +1,7 @@
+new entry "OBJ_DarkConn_Container"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "e3d20fc9-06ee-44ff-bea6-6dc6198fc622"
+data "ValueOverride" "1"
+data "Weight" "1"
+type "Object"
+data "Rarity" "Legendary"

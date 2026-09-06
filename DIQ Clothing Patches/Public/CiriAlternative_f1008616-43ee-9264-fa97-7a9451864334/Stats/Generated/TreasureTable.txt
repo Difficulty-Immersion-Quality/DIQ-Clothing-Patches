@@ -1,0 +1,24 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CONT_CiriAlt",1,0,0,0,0,0,0,0
+
+new treasuretable "CONT_CiriAlt_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_CiriAlt_Top",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CiriAlt_Top_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CiriAlt_Pants",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CiriAlt_Hand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CiriAlt_Top_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CiriAlt_Top_Camp_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CiriAlt_Pants_Camp",1,0,0,0,0,0,0,0

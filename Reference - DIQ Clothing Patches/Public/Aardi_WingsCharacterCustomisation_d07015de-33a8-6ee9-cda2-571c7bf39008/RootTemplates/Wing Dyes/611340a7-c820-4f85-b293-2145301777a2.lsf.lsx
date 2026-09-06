@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="611340a7-c820-4f85-b293-2145301777a2" />
+					<attribute id="Name" type="LSString" value="Aardi_LOOT_Dye_Wings_Aqua_005" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1f16af26-209a-4b17-8d1e-2d029c023c9c" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4c15146bg8ff9gaf51g8c56gf2cd640ac52e" version="1" />
+					<attribute id="ColorPreset" type="guid" value="82505d47-9da2-9cbe-010b-7cb1694dc51f" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,10 @@
+// 2 (High Priestess to the Lambent Flame - Nadinia's outfit: High Priestess to the Lambent Flame)
+
+new entry "CONT_Nadinia"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "f5dec6e0-9777-465d-9d77-9b768a3f3006"
+// data "Weight" "0.1"
+
+

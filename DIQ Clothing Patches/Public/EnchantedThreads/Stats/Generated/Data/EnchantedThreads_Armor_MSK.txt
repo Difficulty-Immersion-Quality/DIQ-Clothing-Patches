@@ -1,4 +1,6 @@
 // 5.1 (Enchanted Threads: Enchanted Threads AIO)
+// TODO: Currently doesn't support some optional files:
+// Infernal Sorceress (Black and SIlver) & Infernal Sorceress (Skin-tinted)
 
 new entry "ATLANTIS_DRESS_MSK"
 type "Armor"

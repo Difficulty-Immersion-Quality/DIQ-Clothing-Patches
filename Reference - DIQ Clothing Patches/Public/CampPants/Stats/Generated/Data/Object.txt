@@ -1,0 +1,7 @@
+new entry "BELINN_OBJ_Stock_CampPants"
+type "Object"
+using "OBJ_Chest_LetterBox"
+data "RootTemplate" "2d600e38-ad81-408a-a32a-5e7badb9ab8d"
+data "Weight" ""
+data "Vitality" "-1"
+data "Rarity" ""

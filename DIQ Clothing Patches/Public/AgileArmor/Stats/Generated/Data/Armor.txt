@@ -1,4 +1,4 @@
-// 1.2.3
+// 1.2.3 (Agile Armor: AgileArmor)
 
 new entry "CONT_AgileArmor"
 type "Object"
@@ -146,12 +146,11 @@ data "RootTemplate" "56cea243-fb96-4404-966b-e39da59f22eb"
 
 ------------------------------------------------
 
-new entry "CONT_AgileArmor_camp"
-type "Object"
+// new entry "CONT_AgileArmor_camp"
+// type "Object"
 // using "OBJ_Chest_Heavy"
-using "Goon_Container_Cosmetic_Template"
-data "RootTemplate" "f7212c3c-e911-4dc3-8dbe-3783fc7de5de"
-data "Rarity" "Rare"
+// data "RootTemplate" "f7212c3c-e911-4dc3-8dbe-3783fc7de5de"
+// data "Rarity" "Rare"
 // data "Weight" "10"
 // data "Vitality" "50"
 

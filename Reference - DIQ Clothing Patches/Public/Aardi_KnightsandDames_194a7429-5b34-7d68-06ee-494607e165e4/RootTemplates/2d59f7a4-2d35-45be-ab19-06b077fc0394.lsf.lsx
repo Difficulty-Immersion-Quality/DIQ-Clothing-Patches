@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="10" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2d59f7a4-2d35-45be-ab19-06b077fc0394" />
+					<attribute id="Name" type="LSString" value="AARDI_CONT_GEN_Chest_KnightsandDames" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="51446e33-fea9-4166-9b7e-74b8e3fc9809" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h961b930aga38fg4038gb255g9a78dbf6cb90" version="3" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="II_KnightsandDames_II" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

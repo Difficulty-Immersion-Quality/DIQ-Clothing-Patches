@@ -1,0 +1,6 @@
+new entry "CONT_CiriAlt"
+type "Object"
+using "_Container"
+data "RootTemplate" "48c8ed4f-fca6-4cba-98f5-b20be3c54fcd"
+data "Weight" "0.1"
+

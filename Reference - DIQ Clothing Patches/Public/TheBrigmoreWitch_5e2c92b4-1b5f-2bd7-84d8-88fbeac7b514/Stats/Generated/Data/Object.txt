@@ -1,0 +1,6 @@
+new entry "OBJ_Bag_Delilah"
+type "Object"
+using "_Container"
+data "RootTemplate" "7b99e79b-0d79-4380-830c-e5fedd41fb49"
+data "Weight" "0.1"
+

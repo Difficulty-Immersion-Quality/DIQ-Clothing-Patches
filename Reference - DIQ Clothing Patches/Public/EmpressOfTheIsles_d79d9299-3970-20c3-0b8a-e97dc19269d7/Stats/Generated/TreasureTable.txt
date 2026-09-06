@@ -1,0 +1,25 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_CONT_Emily",1,0,0,0,0,0,0,0
+new treasuretable "CONT_Emily_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Emily_Scarf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Outfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Outfit_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Outfit_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Outfit_TMTS_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Boots_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Emily_Scarf_CloakSlot",1,0,0,0,0,0,0,0

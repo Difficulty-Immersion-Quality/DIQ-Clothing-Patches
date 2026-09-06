@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="048c5436-38b6-4506-8f41-644b2e83a187" />
+					<attribute id="Name" type="LSString" value="Aardi_CONT_GEN_Chest_Wings_Underwear" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="659eee5a-78f7-4efc-a680-740bac3a6be3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2024979agdea7ga804gd625g661a8f05c1fe" version="3" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Aardi_CONT_GEN_Chest_Wings_Underwear" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

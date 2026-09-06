@@ -1,4 +1,5 @@
 // treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
 // new treasuretable "TUT_Chest_Potions"
 new treasuretable "DIQ_OBJ_Clothing_Container_TT"
 CanMerge 1

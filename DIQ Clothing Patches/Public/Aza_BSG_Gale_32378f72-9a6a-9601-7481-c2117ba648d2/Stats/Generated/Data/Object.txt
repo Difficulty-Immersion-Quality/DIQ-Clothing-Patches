@@ -1,5 +1,5 @@
-// 1.5
-// Note: Both the tutorial chest and non-tutorial chest versions use the same internal folder names.
+// 1.6 (Gale's Better Starting Gear by AzazeL (Patch 7-8): 1. Gale's Better Starting Gear))
+// Note: 2. Gale's Better Starting Gear (Tutorial Chest) shares the same internal folder names.
 
 new entry "CONT_Chest_BSG_Gale_Aza"
 type "Object"
@@ -7,6 +7,6 @@ type "Object"
 using "Goon_Container_Cosmetic_Template"
 data "RootTemplate" "086d4340-acdb-4a5a-acb5-cdfcbeaadf71"
 // data "ValueUUID" "870797b7-fb40-47ae-be7a-544c05c158c8"
-// data "Rarity" "Rare"
+data "Rarity" "Rare"
 // data "GameSize" "Tiny"
 // data "Vitality" "1"

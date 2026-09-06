@@ -1,0 +1,19 @@
+new entry "FANG_Dress_BUFF_Passive"
+type "PassiveData"
+data "DisplayName" "h08680501g8fceg4b33g8676g9bcb27d4adca"
+data "Description" "h7f351341g47cfg49d1gaaa2gd43e5b0adec9"
+data "Icon" "PassiveFeature_Generic_Blood"
+data "StatsFunctorContext" "OnSurfaceEnter"
+data "Conditions" "InSurface('SurfaceBlood',context.Source)"
+data "StatsFunctors" "ApplyStatus(MAG_HARPERS_OBSCURITY_SAVING_THROWS, 100, -1)"
+
+
+
+new entry "FANG_Dress_BUFF_Passive2"
+type "PassiveData"
+data "DisplayName" "h08680501g8fceg4b33g8676g9bcb27d4adca"
+data "Description" "h7f351341g47cfg49d1gaaa2gd43e5b0adec9"
+data "Icon" "PassiveFeature_Generic_Blood"
+data "BoostConditions" "InSurface('SurfaceBlood')"
+data "Boosts" "Advantage(AllSavingThrows)"
+

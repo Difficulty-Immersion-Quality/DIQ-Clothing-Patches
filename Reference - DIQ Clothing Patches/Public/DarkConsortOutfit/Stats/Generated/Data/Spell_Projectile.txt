@@ -1,0 +1,4 @@
+new entry "Projectile_Fly_Bat"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Fly"

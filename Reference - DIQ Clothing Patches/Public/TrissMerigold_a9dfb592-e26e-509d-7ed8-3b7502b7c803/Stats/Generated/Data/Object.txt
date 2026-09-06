@@ -1,0 +1,6 @@
+new entry "CONT_TrissMerigold"
+type "Object"
+using "_Container"
+data "RootTemplate" "8baa1497-49fb-44e6-afb9-da6d072fe159"
+data "Weight" "0.1"
+

@@ -1,0 +1,29 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Bag_Delilah",1,0,0,0,0,0,0,0
+new treasuretable "OBJ_Bag_Delilah_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Boots_Delilah",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Gloves_Delilah",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Outfit_Delilah",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Outfit_Delilah_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_OutfitCollar_Delilah",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_OutfitCollar_Delilah_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Camp_Delilah",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Camp_Delilah_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CampCollar_Delilah",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CampCollar_Delilah_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_CampShoes_Delilah",1,0,0,0,0,0,0,0

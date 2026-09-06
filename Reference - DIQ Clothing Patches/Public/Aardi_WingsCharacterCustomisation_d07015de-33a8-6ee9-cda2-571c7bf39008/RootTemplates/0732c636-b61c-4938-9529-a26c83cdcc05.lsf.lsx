@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="0732c636-b61c-4938-9529-a26c83cdcc05" />
+					<attribute id="Name" type="LSString" value="AARDI_ARM_Wings_DragonChromatic" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="465340b0-523f-48ac-a832-4db4a1183c74" />
+					<attribute id="VisualTemplate" type="FixedString" value="06754966-9fd0-4fb2-bf12-50da763de8c6" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h217d1c51gc9b5gcc06g66e6g0177ae2b78e7" version="6" />
+					<attribute id="Icon" type="FixedString" value="Item_ALCH_Ingredient_Part_MudMephitWing" />
+					<attribute id="Description" type="TranslatedString" handle="h018e00f2g3a54g2d14g8debg77b6ac8821ac" version="1" />
+					<attribute id="ShortDescriptionParams" type="LSString" value="Can be dyed by any dye that is not for feathers, as these wings possess none." />
+					<children>
+						<node id="Equipment">
+							<children>
+								<node id="ShortHair" />
+								<node id="LongHair" />
+								<node id="WavyShortHair" />
+								<node id="WavyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="DreadShortHair" />
+								<node id="DreadLongHair" />
+								<node id="AfroShortHair" />
+								<node id="AfroLongHair" />
+								<node id="Visuals">
+									<children>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c172b725-65f2-4e9d-bcbc-9391fe445ed5" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="4a7f972b-1b3e-4192-a5e8-c52b0920534a" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="06754966-9fd0-4fb2-bf12-50da763de8c6" />
+												</node>
+											</children>
+										</node>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="912763eb-003c-4827-81c9-d4a4a1bceea9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="1a286358-27ad-4ed1-9e6c-c2cd84e11b33" />
+												</node>
+											</children>
+										</node>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="6076a13e-e470-43c5-aa59-4e2f1e42fbdc" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="ParentRace" />
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

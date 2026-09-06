@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<!-- This is the name of the container. -->
+					<attribute id="DisplayName" type="TranslatedString" handle="0a84d753-b3aa-4609-9226-e8eb48150baf" version="3" /> <!-- Generate a unique Handle, and replace the text here. Then go into the ProjectTitle_Localization.xml file, and replace the Container Name contentuid with the unique Handle you just generated. -->
+
+					<!-- This is the description of the container. -->
+					<attribute id="Description" type="TranslatedString" handle="3e77fb17-e655-4b58-8f8a-a6dcb9491d9a" version="5" /> <!-- Generate a unique Handle, and replace the text here. Then go into the ProjectTitle_Localization.xml file, and replace the Container Description contentuid with the unique Handle you just generated. -->
+
+					<!--This is the flavor text, which appears inside of quotes underneath the description.  -->
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="4cba7b42-4bad-4187-a632-7075c5c753cc" version="1" /> <!-- Generate a unique Handle, and replace the text here. Then go into the ProjectTitle_Localization.xml file, and replace the Flavor Text contentuid with the unique Handle you just generated. -->
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Backpack_A_Posed_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+
+					<!-- This is the MapKey/"RootTemplate". -->
+					<attribute id="MapKey" type="FixedString" value="d63cdbb3-238f-4033-a059-12b81a43edea" /> <!-- Generate a brand new UUID, and place it here. Then go into the Object.txt file and replace the "RootTemplate" with the same UUID. -->
+
+					<!-- This is the unique name of the container. -->
+					<attribute id="Name" type="LSString" value="CONT_CelestialThreads_Container" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ea8cc72a-e078-4ce7-bd63-14bcf1851f46" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="de76c98f-f1af-fbb2-fdc0-ff122f04c99a" />
+
+					<!-- This is the internal "new entry" name for your container, which is used in the Object.txt file. Make sure it contains NO spaces, special characters, or numbers. This name also allows for it to be placed inside of TreasureTables. -->
+					<attribute id="Stats" type="FixedString" value="OBJ_CelestialThreads_Container" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3b6138df-435d-bd58-34b4-61e82d75a3aa" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<!-- This is the TreasureTable name for your container. Make sure it contains NO spaces, special characters, or numbers. -->
+									<attribute id="Object" type="FixedString" value="CelestialThreads_TreasureTable" /> <!-- Once named, place it into the TreasureTable.txt file's "new treasuretable" section. -->
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

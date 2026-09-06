@@ -1,4 +1,4 @@
-// ??? (Bububull's Lolth dress - DELETED: Bububull_Lolth_dress)
+// 1.1 (Bububull's Lolth dress - DELETED: Bububull's Lolth dress)
 
 new entry "ARM_bububull_reddress"
 type "Armor"

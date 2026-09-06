@@ -1,0 +1,6 @@
+new entry "CONT_Emily"
+type "Object"
+using "_Container"
+data "RootTemplate" "95393848-8901-4cd2-b7f1-cba2edde663d"
+data "Weight" "0.1"
+

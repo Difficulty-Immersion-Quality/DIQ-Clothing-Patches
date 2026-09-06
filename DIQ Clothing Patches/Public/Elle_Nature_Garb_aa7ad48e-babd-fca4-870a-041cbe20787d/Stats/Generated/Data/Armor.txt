@@ -1,4 +1,4 @@
-// 1.0.0.6
+// 1.0.0.6 (Nature's Garb)
 
 new entry "ARM_Nature_Garb"
 type "Armor"
@@ -6,3 +6,4 @@ type "Armor"
 using "Goon_ARM_Body_Cosmetic_Template"
 data "RootTemplate" "0556201b-39e0-4e7e-81d9-e61c5385581a"
 // data "Rarity" "Uncommon"
+

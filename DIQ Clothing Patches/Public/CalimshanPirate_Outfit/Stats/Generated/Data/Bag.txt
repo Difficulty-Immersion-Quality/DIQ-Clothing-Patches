@@ -1,4 +1,5 @@
-// 1.0.1
+// 1.0.1 (Calimshan Pirate Outfit)
+// TODO: Camp versions don't use unique templates.
 
 new entry "CalimshanPirate_Bag"
 type "Object"

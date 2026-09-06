@@ -1,5 +1,4 @@
-// 1.0 (Luminous Threads)
-// Note: needed to remain overrides due to sharing entry names across versions.
+// 1.0 (Luminous Threads: Athena's Chiton)
 
 new entry "ATHENAS_CHITON"
 type "Armor"

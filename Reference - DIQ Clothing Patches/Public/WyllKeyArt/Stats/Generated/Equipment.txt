@@ -1,0 +1,28 @@
+new equipment "EQ_Wyll"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Rapier"
+add equipmentgroup
+add equipment entry "ARM_Shoes_E_Wyll"
+add equipmentgroup
+add equipment entry "ARM_Wyll_Keyart"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Camp_Pack"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body_Wyll"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_Wyll"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Wyll"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"

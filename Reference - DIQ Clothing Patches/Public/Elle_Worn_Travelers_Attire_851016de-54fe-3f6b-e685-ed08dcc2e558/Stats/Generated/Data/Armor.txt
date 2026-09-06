@@ -1,0 +1,7 @@
+new entry "ARM_Elle_Worn_Travelers_Attire"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "ee10e00d-6f21-4d08-943f-efeec5c03335"
+data "ArmorClass" "11"
+data "Rarity" "Uncommon"
+

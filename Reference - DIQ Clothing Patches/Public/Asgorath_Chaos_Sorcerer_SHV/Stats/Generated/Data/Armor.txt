@@ -1,0 +1,4 @@
+new entry "ARM_Robe_Body_Sorcerer_AsgorathChaos"
+type "Armor"
+using "ARM_Robe_Body_Sorcerer"
+data "RootTemplate" "034dbc2b-766c-4b63-92af-3d8ea4b57099"

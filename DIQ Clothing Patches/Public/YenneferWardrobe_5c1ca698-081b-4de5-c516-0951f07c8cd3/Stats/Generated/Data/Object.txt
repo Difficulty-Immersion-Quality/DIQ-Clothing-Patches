@@ -1,0 +1,9 @@
+// 1 (Lilac and gooseberries - Yennefer of Vengerberg's wardrobe: Lilac and gooseberries)
+
+new entry "CONT_Yennefer"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "ec651ff3-9b15-4abd-a316-97d60d838e44"
+// data "Weight" "0.1"
+

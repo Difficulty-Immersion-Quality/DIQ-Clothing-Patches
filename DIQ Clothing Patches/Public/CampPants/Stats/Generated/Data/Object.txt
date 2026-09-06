@@ -1,5 +1,6 @@
-// 2.1 
-// TODO: Support for cloak and headgear + AIO versions
+// 2.1 (Camp Pants - Item Shipment Framework: Camp Pants)
+// TODO: Support for cloak and headgear + AIO versions.
+// TODO: There are 31 stat entries but 34 templates?
 
 new entry "BELINN_OBJ_Stock_CampPants"
 type "Object"

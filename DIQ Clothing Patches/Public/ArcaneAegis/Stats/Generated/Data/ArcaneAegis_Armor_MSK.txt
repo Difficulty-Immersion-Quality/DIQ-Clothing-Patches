@@ -1,4 +1,4 @@
-// 1.0 (Luminous Threads)
+// 1.0 (Luminous Threads: Arcane Aegis)
 
 new entry "ARCANE_AEGIS_MSK"
 type "Armor"

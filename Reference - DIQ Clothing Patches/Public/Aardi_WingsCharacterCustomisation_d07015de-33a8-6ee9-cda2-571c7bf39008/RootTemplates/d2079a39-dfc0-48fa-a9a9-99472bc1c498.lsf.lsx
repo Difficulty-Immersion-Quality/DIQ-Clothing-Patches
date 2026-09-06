@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d2079a39-dfc0-48fa-a9a9-99472bc1c498" />
+					<attribute id="Name" type="LSString" value="Aardi_CONT_GEN_Chest_Wings" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="51446e33-fea9-4166-9b7e-74b8e3fc9809" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he5977ee4g5220gce21g0cc2gd1f80eb21305" version="2" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="II_Aardi_Gifted_Wings_II" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

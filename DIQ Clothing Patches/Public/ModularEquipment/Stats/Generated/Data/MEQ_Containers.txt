@@ -1,0 +1,44 @@
+// 2.8 (Modular Equipment)
+
+new entry "MEQ_Item_Container_Prototype"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+// data "ValueOverride" "1"
+// data "Weight" "0.01"
+data "Rarity" "Rare"
+
+new entry "MEQ_Item_Container_Cloaks"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "4708b966-e0a5-4551-9871-43cf42302419"
+
+new entry "MEQ_Item_Container_Belts"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "0ba966b2-4449-48d9-ad67-a2295a20c81c"
+
+new entry "MEQ_Item_Container_Body"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "3a28a13a-15d9-4986-bb54-f6fe1a56afbc"
+
+new entry "MEQ_Item_Container_GlovesBoots"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "4d6d3acb-281c-413d-a947-83e0181bae52"
+
+new entry "MEQ_Item_Container_Underwear"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "d60cf143-7f44-4136-a179-e5a7173067e4"
+
+new entry "MEQ_Item_Container_Jewelry"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "051d0bce-ee12-4463-b469-298b891b5378"
+
+new entry "MEQ_Item_Container_Camp"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "f56e65cc-98cd-41ac-95c0-cb8e46128c5e"
+
+new entry "MEQ_Item_Container_UnderwearArmour"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "3c4e6abe-09fb-49e7-9889-724fd0ddbeeb"
+
+new entry "MEQ_Item_Container_Dyes"
+using "MEQ_Item_Container_Prototype"
+data "RootTemplate" "16be7f1d-ec00-4fde-95a3-0526b11cbbd2"

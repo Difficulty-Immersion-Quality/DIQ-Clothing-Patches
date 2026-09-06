@@ -5,11 +5,21 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -58,11 +68,21 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -96,6 +116,7 @@ add equipment entry "SimpleSortingBagsMaster"
 add equipmentgroup
 add equipment entry "CompanionsPack_OBJ_Backpack_Wyll_Start"
 
+// TODO: ARM_HalfPlate_Githyanki_Destroyed_Crash
 new equipment "EQ_Laezel"
 add initialweaponset "Melee"
 add equipmentgroup
@@ -103,11 +124,21 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -116,16 +147,26 @@ add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Superior"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Supreme"
+// add equipmentgroup
+// add equipment entry "WPN_Longsword"
+// add equipmentgroup
+// add equipment entry "WPN_Shortbow"
 add equipmentgroup
-add equipment entry "WPN_Longsword"
+add equipment entry "WPN_Longsword_Gith_0"
 add equipmentgroup
-add equipment entry "WPN_Shortbow"
+add equipment entry "WPN_HeavyCrossbow_Gith_0"
+// add equipmentgroup
+// add equipment entry "ARM_Boots_Metal_Githyanki_Start"
 add equipmentgroup
-add equipment entry "ARM_Boots_Metal_Githyanki_Start"
+add equipment entry "ARM_Boots_Metal_Githyanki"
+// add equipmentgroup
+// add equipment entry "J_GTY_ARM_Laezel_Start"
 add equipmentgroup
-add equipment entry "J_GTY_ARM_Laezel_Start"
+add equipment entry "ARM_HalfPlate_Body_Githyanki"
+// add equipmentgroup
+// add equipment entry "ARM_Gloves_Metal_Githyanki_Start"
 add equipmentgroup
-add equipment entry "ARM_Gloves_Metal_Githyanki_Start"
+add equipment entry "ARM_Bracers_Metal_Githyanki_Laezel"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body_Laezel"
 add equipmentgroup
@@ -152,11 +193,21 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -199,6 +250,8 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Kit_ThievesTools"
 add equipmentgroup
 add equipment entry "OBJ_Kit_ThievesTools"
@@ -212,6 +265,14 @@ add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -254,11 +315,21 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -303,11 +374,21 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -348,6 +429,8 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_DrowPoison"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
@@ -355,6 +438,14 @@ add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -405,11 +496,21 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
@@ -452,6 +553,8 @@ add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
 add equipment entry "Goon_OBJ_Injury_Kit_B"
 add equipmentgroup
+add equipment entry "Nzx_WyeFey_Injury_Kit"
+add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
@@ -459,6 +562,14 @@ add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Small"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Greater"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Superior"
+add equipmentgroup
+add equipment entry "Nzx_WyeFeyPotion_Supreme"
 add equipmentgroup
 add equipment entry "FallenStar_Wifi_Healing_Potion_Small"
 add equipmentgroup
