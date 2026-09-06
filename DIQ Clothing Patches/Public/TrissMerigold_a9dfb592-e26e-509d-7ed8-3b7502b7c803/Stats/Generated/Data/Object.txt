@@ -1,0 +1,10 @@
+// 2 (Fourteenth of the Hill - Triss Merigold's outfit: Fourteenth of the Hill)
+
+new entry "CONT_TrissMerigold"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "8baa1497-49fb-44e6-afb9-da6d072fe159"
+// data "Weight" "0.1"
+
+

@@ -1,0 +1,23 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_CONT_TrissMerigold",1,0,0,0,0,0,0,0
+new treasuretable "CONT_TrissMerigold_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_Outfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_BlouseOutfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_Outfit_T",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_BlouseOutfit_T",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_Gloves_T",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TrissMerigold_Boots_T",1,0,0,0,0,0,0,0
