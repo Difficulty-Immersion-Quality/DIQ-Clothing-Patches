@@ -1,0 +1,24 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CONT_Corvo",1,0,0,0,0,0,0,0
+
+new treasuretable "CONT_Corvo_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Corvo_Gun",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Corvo_Outfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Corvo_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Corvo_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Corvo_Mask",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Corvo_Outfit_Camp",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Corvo_Boots_Camp",1,0,0,0,0,0,0,0
