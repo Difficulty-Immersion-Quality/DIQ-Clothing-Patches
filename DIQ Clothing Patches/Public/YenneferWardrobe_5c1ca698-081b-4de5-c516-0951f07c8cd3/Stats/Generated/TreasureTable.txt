@@ -1,0 +1,40 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CONT_Yennefer",1,0,0,0,0,0,0,0
+
+new treasuretable "CONT_Yennefer_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Classic_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Classic_Collar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Classic_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Classic_Hood",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Classic_HoodOff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Classic_Skirt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Classic_Vest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_DLC_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_DLC_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_DLC_Outfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_DLC_Scarf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Yen_Lingerie",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Yen_Lingerie_Choker",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Yen_Towel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Yen_Towel_Body",1,0,0,0,0,0,0,0
