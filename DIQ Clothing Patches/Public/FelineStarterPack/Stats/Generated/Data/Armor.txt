@@ -1,4 +1,4 @@
-// Feline Starter Pack - Colourable Cat Tails and Ears - FelineStarterPack (2.1.0)
+// 2.1.0 (Feline Starter Pack - Colourable Cat Tails and Ears: FelineStarterPack)
 
 new entry "LAR_CAT_TAIL_A_BELL"
 type "Armor"
