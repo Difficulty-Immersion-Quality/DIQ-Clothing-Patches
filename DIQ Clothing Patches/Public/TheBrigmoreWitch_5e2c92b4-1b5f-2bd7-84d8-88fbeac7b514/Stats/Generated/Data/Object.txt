@@ -1,0 +1,9 @@
+// 4 (The Brigmore Witch - Delilah Copperspoon's outfit: The Brigmore Witch)
+
+new entry "OBJ_Bag_Delilah"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "7b99e79b-0d79-4380-830c-e5fedd41fb49"
+// data "Weight" "0.1"
+
