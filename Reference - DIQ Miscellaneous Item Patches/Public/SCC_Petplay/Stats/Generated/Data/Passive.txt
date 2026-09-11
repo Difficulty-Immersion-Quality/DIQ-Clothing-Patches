@@ -1,0 +1,14 @@
+new entry "SCC_BondedBySubmission_MastersRing_Passive"
+type "PassiveData"
+using "TWN_BondedByLove_HusbandsRing_Passive"
+data "DisplayName" "h6d130c9eg2622g0d56g262eg0c45689fde0a;1"
+data "Description" "hfb914ea6gcb81g03e9g11c4g2b525d780bdf;1"
+data "Properties" "IsHidden"
+
+new entry "SCC_BondedBySubmission_PetsCollar_Passive"
+type "PassiveData"
+using "TWN_BondedByLove_WifesRing_Passive"
+data "DisplayName" "ha84b8d4egd044ge240g10ceg6404e81ffbbd;1"
+data "Description" "hadac39deg1dfdgd05bg3ef4g81bd991090cb;1"
+data "Properties" "IsHidden"
+

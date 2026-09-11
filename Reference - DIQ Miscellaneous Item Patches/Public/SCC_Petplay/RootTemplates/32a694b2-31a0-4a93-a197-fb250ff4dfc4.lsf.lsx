@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="32a694b2-31a0-4a93-a197-fb250ff4dfc4" />
+					<attribute id="Name" type="LSString" value="Pet_Collar_SCC_RED_Gloves" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6a955143-c800-4cd2-b668-efe3f166f629" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h18eb64bbg084fg7381g54d8gee27f6cc9422" version="2" />
+					<attribute id="Stats" type="FixedString" value="Pet_Collar_SCC_Red_Gloves" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

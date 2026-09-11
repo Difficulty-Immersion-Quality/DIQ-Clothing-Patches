@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="OneTimeReward">
+					<attribute id="Amount" type="uint32" value="6" />
+					<attribute id="ItemTemplateId" type="FixedString" value="6a955143-c800-4cd2-b668-efe3f166f629" />
+					<attribute id="UUID" type="guid" value="7949c950-34d1-4528-be5a-756b21b6cf9e" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

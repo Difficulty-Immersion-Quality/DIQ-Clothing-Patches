@@ -1,0 +1,38 @@
+new entry "WEARING_SCC_PETCOLLAR"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "DisplayName" "he59b0b62g781ag096ag0712g87a06ae349ef;3"
+data "Description" "hc6178629g9485g3614ga8f7gf36dd3a125f2;1"
+data "Boosts" "FallDamageMultiplier(0.5)"
+data "StatusPropertyFlags" "DisablePortraitIndicator;DisableOverhead;DisableCombatlog"
+data "OnRemoveFunctors" "RemoveStatus(LEASH_TARGET);RemoveStatus(SCC_BE_THE_CAT_TECHNICAL)"
+
+new entry "SCC_LEASH_VFX"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "GARROTE_VFX"
+data "DisplayName" "he662569fge8d1g9cccgb377g5f05632373f5;1"
+data "Description" "h11c2c645g9258g7646gcd20gb5b22211ddb8;1"
+data "StatusPropertyFlags" "DisableOverhead;DisablePortraitIndicator;DisableCombatlog"
+data "BeamEffect" "a604c06a-572b-4129-a814-c32d366110bc"
+
+new entry "WEARING_SCC_PETCOLLAR_BLUE"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "WEARING_SCC_PETCOLLAR"
+
+new entry "WEARING_SCC_PETCOLLAR_GREEN"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "WEARING_SCC_PETCOLLAR"
+
+new entry "WEARING_SCC_PETCOLLAR_PURPLE"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "WEARING_SCC_PETCOLLAR"
+
+new entry "WEARING_SCC_PETCOLLAR_PINK"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "WEARING_SCC_PETCOLLAR"
+

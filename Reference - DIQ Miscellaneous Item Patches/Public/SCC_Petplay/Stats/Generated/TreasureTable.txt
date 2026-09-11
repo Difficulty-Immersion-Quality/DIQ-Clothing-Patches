@@ -1,0 +1,13 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Pet_Collar_SCC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Master_Domination_Ring",1,0,0,0,0,0,0,0
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Pet_Collar_SCC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Master_Domination_Ring",1,0,0,0,0,0,0,0

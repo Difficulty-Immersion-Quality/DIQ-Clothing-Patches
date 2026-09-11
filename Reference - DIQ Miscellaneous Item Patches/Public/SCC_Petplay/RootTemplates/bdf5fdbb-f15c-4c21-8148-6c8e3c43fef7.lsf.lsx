@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="bdf5fdbb-f15c-4c21-8148-6c8e3c43fef7" />
+					<attribute id="Name" type="LSString" value="Master_Domination_Ring" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7ff7d7b1-6fdd-44b7-b0ca-d9f4ebf5bb72" />
+					<attribute id="VisualTemplate" type="FixedString" value="f4b71ddc-239e-ae9c-2d8d-06128c4ebfbe" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha0ef9621gb581ge891g8fdfg1e7d74fd6da8" version="9" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_B_1" />
+					<attribute id="Stats" type="FixedString" value="Master_Domination_Ring" />
+					<attribute id="Description" type="TranslatedString" handle="h0ce31009g7330g3422gd995g26f93d17ff16" version="9" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hc6d6f808g856ag17cag9d68g145b3cbf4510" version="4" />
+					<attribute id="ShortDescription" type="TranslatedString" handle="h6b6bf629g7057ga974gd656gbdd490eb8a48" version="9" />
+					<attribute id="InteractionFilterType" type="uint8" value="2" />
+					<children>
+						<node id="InteractionFilterList">
+							<children>
+								<node id="InteractionFilter">
+									<attribute id="Object" type="guid" value="486a2562-31ae-437b-bf63-30393e18cbdd" />
+								</node>
+								<node id="InteractionFilter">
+									<attribute id="Object" type="guid" value="b99b6a5d-8445-44e4-ac58-81b2ee88aab1" />
+								</node>
+								<node id="InteractionFilter">
+									<attribute id="Object" type="guid" value="1f0551f3-d769-47a9-b02b-5d3a8c51978c" />
+								</node>
+								<node id="InteractionFilter">
+									<attribute id="Object" type="guid" value="ee978587-6c68-4186-9bfc-3b3cc719a835" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

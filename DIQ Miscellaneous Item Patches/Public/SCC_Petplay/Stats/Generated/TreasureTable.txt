@@ -1,0 +1,31 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Important_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_Pet_Collar_SCC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Master_Domination_Ring",1,0,0,0,0,0,0,0
+// Added:
+new subtable "1,1"
+object category "I_Pet_Collar_SCC_Blue",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Pet_Collar_SCC_Green",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Pet_Collar_SCC_Pink",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Pet_Collar_SCC_Purple",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Pet_Collar_SCC_Red_Helm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Pet_Collar_SCC_Red_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Pet_Collar_SCC_Red_Gloves",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Entrance_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_Pet_Collar_SCC",1,0,0,0,0,0,0,0
+// new subtable "1,1"
+// object category "I_Master_Domination_Ring",1,0,0,0,0,0,0,0

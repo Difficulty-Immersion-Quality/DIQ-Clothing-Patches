@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="OneTimeRewards">
+        <node id="root">
+            <children>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="6a955143-c800-4cd2-b668-efe3f166f629"/>
+                    <attribute id="UUID" type="guid" value="7949c950-34d1-4528-be5a-756b21b6cf9e"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="3"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="bdf5fdbb-f15c-4c21-8148-6c8e3c43fef7"/>
+                    <attribute id="UUID" type="guid" value="7682eecd-d845-4a63-b36b-0986a023d22b"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="9513aa49-4026-4100-9177-e64efc0f9dbb"/>
+                    <attribute id="UUID" type="guid" value="30aabba7-223e-4a39-8ace-59a0ace302f8"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="2308b6e5-d0e4-4398-8655-dbb6f81af588"/>
+                    <attribute id="UUID" type="guid" value="3589414d-89b3-4a7a-908c-d075cd700659"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="071ae24b-14e9-410d-b704-760881f1e598"/>
+                    <attribute id="UUID" type="guid" value="57181bc7-d4f1-49ad-96d5-43d310d37941"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="e2da3307-a6fd-4f62-b5af-857058967778"/>
+                    <attribute id="UUID" type="guid" value="d6b22e00-e267-4e09-8880-bfaedb5680d6"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="1"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="583e7401-6cf6-4c2d-bf30-4b2580330347"/>
+                    <attribute id="UUID" type="guid" value="da2e9efa-f027-449d-b0ad-bac1442403d1"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="eeaf2daf-e05b-4eeb-84db-ff6dd8191c9a"/>
+                    <attribute id="UUID" type="guid" value="acf2fba7-9095-4910-bb3d-7e5577b42f85"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="819f0ab2-92f5-4c2e-84c5-5642c839783d"/>
+                    <attribute id="UUID" type="guid" value="9fb690d7-6679-4a8f-9694-3ca0c9eb14b8"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="2"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="32a694b2-31a0-4a93-a197-fb250ff4dfc4"/>
+                    <attribute id="UUID" type="guid" value="0e38c0fe-4e3a-4ada-89ac-9f091b1e22d8"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

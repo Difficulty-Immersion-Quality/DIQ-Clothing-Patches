@@ -1,0 +1,18 @@
+new entry "HEAD_PATTED_SCC"
+type "StatusData"
+data "StatusType" "INCAPACITATED"
+data "DisplayName" "hecc7cd0eg04fbg675bgb843gbb6972374481;1"
+data "Description" "hca3cecabgf39cg86f3gb7dag856c133875b5;1"
+data "Icon" "Spell_Enchantment_HoldPerson"
+data "SoundLoop" "Spell_Status_HoldPerson"
+data "SoundStop" "Spell_Status_HoldPerson_Stop"
+data "Sheathing" "Sheathed"
+
+new entry "HEAD_PATTER_SCC"
+type "StatusData"
+data "StatusType" "INCAPACITATED"
+data "DisplayName" "hf2fdf1a5g57f8gf868g72b9g8f23631efc51;1"
+data "Description" "hf791b4dagc938g91e9g770bgdba125acae96;1"
+data "Icon" "Spell_Enchantment_HoldPerson"
+data "Sheathing" "Sheathed"
+
