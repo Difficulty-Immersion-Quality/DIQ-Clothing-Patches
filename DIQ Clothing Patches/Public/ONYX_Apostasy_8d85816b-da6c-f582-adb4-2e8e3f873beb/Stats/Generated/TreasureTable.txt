@@ -1,0 +1,109 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
+
+new treasuretable "ONYX_Cont_Tome_Apostasy"
+CanMerge 1
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Cont_Page_Apostasy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Cont_Page_Apostasy2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Boots_Alt",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Bracers",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Cape",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Cape_Left",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Cape_Right",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Dye_NightSpirit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Dye_FuriousStorm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Dye_SoulDrinker",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Dye_SilentMoon",1,0,0,0,0,0,0,0
+
+new treasuretable "ONYX_Cont_Page_Apostasy"
+CanMerge 1
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V1_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V2_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V3_TMTS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V4_TMTS",1,0,0,0,0,0,0,0
+
+new treasuretable "ONYX_Cont_Page_Apostasy2"
+CanMerge 1
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V1_TRM1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V2_TRM1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V3_TRM1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Armor_V4_TRM1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Bracers_TRM1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_CapeTRM1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Cape_LeftTRM1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ONYX_Apostasy_Cape_RightTRM1",1,0,0,0,0,0,0,0
+
+// new treasuretable "DEN_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
+
+// new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
+
+// new treasuretable "HAV_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
+
+// new treasuretable "MOO_InfernalTrader_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
+
+// new treasuretable "LOW_Weaponsmith_Trade"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
+
+// new treasuretable "WYR_Circus_KoboldMerchant_Magic"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
+
+// new treasuretable "LOW_SteepsTrader_BooksAndScrolls"
+// CanMerge 1
+// new subtable "1,1"
+// object category "I_ONYX_Cont_Tome_Apostasy",1,0,0,0,0,0,0,0
