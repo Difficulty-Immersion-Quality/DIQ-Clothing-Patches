@@ -1,0 +1,18 @@
+// 2 (Apostasy (Clothing - Ayuro Collab): ONYX - Apostasy)
+
+// new entry "MAG_CharismaCaster_CantripBooster_Passive_override"
+// type "PassiveData"
+// using "MAG_CharismaCaster_CantripBooster_Passive"
+// data "DisplayName" "h41062fe6ga057gcc84g8263gdefaea7b5f15;1"
+
+// new entry "MAG_CharismaCaster_TempHP_Passive_override"
+// type "PassiveData"
+// using "MAG_CharismaCaster_TempHP_Passive"
+// data "DisplayName" "h8b473000ga80dg1d81g40cfg5a2f3bcfcb94;1"
+// data "Description" "h9a9a25c1ga42fgf833g4831g9c50c79b3e5e;1"
+
+// new entry "UNI_UND_RingOfMindShielding_Passive_override"
+// type "PassiveData"
+// using "UNI_UND_RingOfMindShielding_Passive"
+// data "DisplayName" "hb3e38886g4ee9g3750g8560ga5a793877c46;1"
+

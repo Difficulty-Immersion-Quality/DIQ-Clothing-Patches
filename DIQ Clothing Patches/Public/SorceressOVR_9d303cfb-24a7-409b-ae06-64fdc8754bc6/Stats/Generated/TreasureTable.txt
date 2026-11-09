@@ -1,0 +1,18 @@
+// treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+// new treasuretable "TUT_Chest_Potions"
+new treasuretable "DIQ_OBJ_Clothing_Container_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_CONT_Sorceress",1,0,0,0,0,0,0,0
+
+new treasuretable "CONT_Sorceress_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Sorceress_Top",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Sorceress_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Sorceress_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Sorceress_Skirt",1,0,0,0,0,0,0,0

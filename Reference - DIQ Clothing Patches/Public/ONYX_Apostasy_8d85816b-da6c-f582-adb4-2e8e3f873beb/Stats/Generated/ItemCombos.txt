@@ -1,0 +1,48 @@
+new ItemCombination "ONYX_Dye_NightSpirit"
+data "Type 1" "Object"
+data "Object 1" "ONYX_Dye_NightSpirit"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "32395465-cb26-b3ee-15f3-01d5cb681182"
+
+new ItemCombinationResult "ONYX_Dye_NightSpirit_1"
+data "ResultAmount 1" "1"
+
+new ItemCombination "ONYX_Dye_FuriousStorm"
+data "Type 1" "Object"
+data "Object 1" "ONYX_Dye_FuriousStorm"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "ded2fb7e-b1d7-6122-e21a-8cfd637619f9"
+
+new ItemCombinationResult "ONYX_Dye_FuriousStorm_1"
+data "ResultAmount 1" "1"
+
+new ItemCombination "ONYX_Dye_SoulDrinker"
+data "Type 1" "Object"
+data "Object 1" "ONYX_Dye_SoulDrinker"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "610a54aa-9b28-e2e3-cba0-1a4be05566d9"
+
+new ItemCombinationResult "ONYX_Dye_SoulDrinker_1"
+data "ResultAmount 1" "1"
+
+new ItemCombination "ONYX_Dye_SilentMoon"
+data "Type 1" "Object"
+data "Object 1" "ONYX_Dye_SilentMoon"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "30941d24-c695-0407-b4ee-8c3b57296ba0"
+
+new ItemCombinationResult "ONYX_Dye_SilentMoon_1"
+data "ResultAmount 1" "1"
+

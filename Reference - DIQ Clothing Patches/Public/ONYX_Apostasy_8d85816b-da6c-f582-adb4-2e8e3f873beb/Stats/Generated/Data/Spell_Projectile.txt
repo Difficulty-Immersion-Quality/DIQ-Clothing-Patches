@@ -1,0 +1,7 @@
+new entry "Projectile_LOW_GithyankiProdigy_VacuumMissile_override"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_LOW_GithyankiProdigy_VacuumMissile"
+data "Icon" "Spell_IntellectDevourer_SynapticDischarge"
+data "DisplayName" "h2328d563gfb28ga865g6717gcec89238d604;1"
+

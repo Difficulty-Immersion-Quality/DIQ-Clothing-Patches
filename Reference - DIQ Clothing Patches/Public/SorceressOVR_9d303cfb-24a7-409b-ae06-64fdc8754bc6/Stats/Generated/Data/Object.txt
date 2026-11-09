@@ -1,0 +1,6 @@
+new entry "CONT_Sorceress"
+type "Object"
+using "_Container"
+data "RootTemplate" "05a13bcf-d219-4554-ad22-3f8f417df8a1"
+data "Weight" "0.1"
+
