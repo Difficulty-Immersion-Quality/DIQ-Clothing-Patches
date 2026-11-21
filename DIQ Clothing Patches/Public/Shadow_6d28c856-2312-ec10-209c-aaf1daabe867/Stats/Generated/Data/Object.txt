@@ -1,0 +1,8 @@
+// (1) Shadow Outfit
+
+new entry "CONT_Shadow"
+type "Object"
+// using "_Container"
+using "Goon_Container_Cosmetic_Template"
+data "RootTemplate" "b72f9ef3-6fea-401d-ab3d-13566fdeaf22"
+// data "Weight" "0.1"
